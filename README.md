@@ -22,14 +22,12 @@ Programming Languages; Data Structures and Algorithm Design; Computer Architectu
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="AdamZieman | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="AdamZieman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[github]: https://github.com/AdamZieman
 [linkedin]: https://www.linkedin.com/in/adam-zieman/
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AdamZieman/AdamZieman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
