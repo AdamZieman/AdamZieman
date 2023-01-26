@@ -1,5 +1,5 @@
 <h1>Hi, I'm Adam! <br/></h1>
-Junior at the University of Wisconsin-Parkside, pursuing a Bachelor of Science in Computer Science, UNIX System Administration Certificate, and Cyber Security Certificate.</br>
+Junior at the University of Wisconsin-Parkside, pursuing a Bachelor of Science in Computer Science, a UNIX System Administration Certificate, and a Cyber Security Certificate.</br>
 
 <h2>👨‍💻 Projects</h2>
 
