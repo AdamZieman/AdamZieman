@@ -6,7 +6,7 @@ Junior at the University of Wisconsin-Parkside, pursuing a Bachelor of Science i
 - <b>Java Projects</b>
   - [Synonyms](https://github.com/AdamZieman/Synonyms)
 - <b>Linux BASH Scripts</b>
-  - [Fibonacci (using GetOpts)](https://github.com/AdamZieman/FibonacciWithGetOpts)
+  - [Fibonacci (called with arguments)](https://github.com/AdamZieman/FibonacciWithGetOpts)
 - <b>Python Scripts</b>
   - [Cupcake Shop Receipt](https://github.com/AdamZieman/CupcakeShop)
 
