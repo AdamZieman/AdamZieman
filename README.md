@@ -5,7 +5,7 @@ I'm a junior at the University of Wisconsin-Parkside, pursuing a Bachelor of Sci
 
 - <b>Java Programs</b>
   - [Synonyms](https://github.com/AdamZieman/Synonyms)
-- <b>Linux BASH Scripts</b>
+- <b>Linux Scripts (BASH)</b>
   - [Fibonacci (called with arguments)](https://github.com/AdamZieman/FibonacciWithGetOpts)
   - [File Details and Comparison](https://github.com/AdamZieman/FileDetailsAndComparison)
 - <b>Python Scripts</b>
