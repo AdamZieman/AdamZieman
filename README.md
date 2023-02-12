@@ -1,6 +1,9 @@
 <h1>Hi, I'm Adam! <br/></h1>
 I'm a junior at the University of Wisconsin-Parkside, pursuing a Bachelor of Science in Computer Science degree, a UNIX System Administration Certificate, and a Cyber Security Certificate.</br>
 
+<h2>Certifications</h2>
+- [Java: Testing with JUnit](https://www.linkedin.com/learning/certificates/4e9dd22d6d0a0ad8196914514e159292d03f98776a6940bce9e6932096eff7ff?trk=share_certificate)
+
 <h2>👨‍💻 Projects</h2>
 
 - <b>Java Programs</b>
