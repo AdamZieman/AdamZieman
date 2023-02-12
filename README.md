@@ -2,7 +2,11 @@
 I'm a junior at the University of Wisconsin-Parkside, pursuing a Bachelor of Science in Computer Science degree, a UNIX System Administration Certificate, and a Cyber Security Certificate.</br>
 
 <h2>Certifications</h2>
-- [Java: Testing with JUnit](https://www.linkedin.com/learning/certificates/4e9dd22d6d0a0ad8196914514e159292d03f98776a6940bce9e6932096eff7ff?trk=share_certificate)
+
+- <b>Univeristy of Wisconsin-Parkside</b>
+  - [UNIX System Administrator](https://www.uwp.edu/learn/programs/unixsystemadmin.cfm)
+- <b>LinkedIn Learning</b>
+  - [Java: Testing with JUnit](https://www.linkedin.com/learning/certificates/4e9dd22d6d0a0ad8196914514e159292d03f98776a6940bce9e6932096eff7ff?trk=share_certificate)
 
 <h2>👨‍💻 Projects</h2>
 
@@ -17,11 +21,22 @@ I'm a junior at the University of Wisconsin-Parkside, pursuing a Bachelor of Sci
 <h2>🎓 Education</h2>
 
 <b>Completed computer science courses:</b></br>
-Introduction to Programming; Computer Science I; Computer Science II; Assembly Language Programming; UNIX Concepts and Tools; UNIX Scripting; Information Systems Security</br></br>
+Introduction to Programming;</br>
+Computer Science I;</br>
+Computer Science II;</br>
+Assembly Language Programming;</br>
+UNIX Concepts and Tools;</br>
+UNIX Scripting;</br>
+Information Systems Security</br></br>
 <b>Completed mathematics courses:</b></br>
-College Algebra II / Trigonometry; Discrete Mathematics; Calculus & Analytic Geometry</br></br>
+College Algebra II / Trigonometry;</br>
+Discrete Mathematics;</br>
+Calculus & Analytic Geometry</br></br>
 <b>Spring 2023 courses:</b></br>
-Programming Languages; Data Structures and Algorithm Design; Computer Architecture; UNIX System Administration
+Programming Languages;</br>
+Data Structures and Algorithm Design;</br>
+Computer Architecture;</br>
+UNIX System Administration
 
 <h2> 🤳 Connect with me:</h2>
 
