@@ -3,7 +3,7 @@
 
 
 <!-- Brief Introduction -->
-<p>I am currently enrolled as a junior at the University of Wisconsin-Parkside, majoring in Computer Science. It is my goal to one day work as a software engineer / software developer. In regaurds to programming/scripting languages: I am proficient with Java and Linux; and I have an fairly good grasp of python, C, C++, and HTML</p>
+<p>I am enrolled as a junior at the University of Wisconsin-Parkside, majoring in Computer Science. It is my goal to one day work as a software engineer / software developer. In regaurds to programming/scripting languages: I am proficient with Java and Linux; and I have an fairly good grasp of python, C, C++, and HTML</p>
 
 
 <!-- Links to Projects -->
