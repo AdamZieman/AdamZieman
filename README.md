@@ -22,7 +22,8 @@
 <h2>📜 Certificates:</h2>
 <h3>LinkedIn Learning</h3>
 
-- [Java: Testing with JUnit](https://www.linkedin.com/learning/certificates/4e9dd22d6d0a0ad8196914514e159292d03f98776a6940bce9e6932096eff7ff?trk=share_certificate)
+- [Git Essential Training: The Basics]() | Completed February 16, 2023
+- [Java: Testing with JUnit](https://www.linkedin.com/learning/certificates/4e9dd22d6d0a0ad8196914514e159292d03f98776a6940bce9e6932096eff7ff?trk=share_certificate) | Completed: February 12, 2023
 
 
 <!-- Eduction Overview -->
