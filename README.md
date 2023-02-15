@@ -12,7 +12,7 @@
 - <b>Java Programs</b>
   - [Synonyms](https://github.com/AdamZieman/Synonyms)
 - <b>Linux Scripts (BASH)</b>
-  - [Fibonacci (called with arguments)](https://github.com/AdamZieman/FibonacciWithGetOpts)
+  - [Fibonacci (seeds as arguments)](https://github.com/AdamZieman/FibonacciWithGetOpts)
   - [File Details and Comparison](https://github.com/AdamZieman/FileDetailsAndComparison)
 
 
