@@ -18,6 +18,10 @@
 
 <!-- List of Certificates -->
 <h2>📜 Certificates:</h2>
+<h3>University of Wisconsin-Parkside</h3>
+
+- [UNIX System Administration certificate](https://www.uwp.edu/learn/programs/unixsystemadmin.cfm) | Issued: May 17, 2023
+
 <h3>LinkedIn Learning</h3>
 
 - [Git Essential Training: The Basics]() | Issued: February 18, 2023
@@ -29,8 +33,6 @@
 <h3>University of Wisconsin-Parkside</h3>
 
 - Bachelor's of Science in Computer Science
-- UNIX System Administration Certificate
-- Cyber Security Certificate
 - Graduation: Decemeber 2024
 - GPA: 3.5
 
