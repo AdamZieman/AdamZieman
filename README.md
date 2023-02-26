@@ -3,7 +3,7 @@
 
 
 <!-- Brief Introduction -->
-<p>I am enrolled as a junior at the University of Wisconsin-Parkside, majoring in Computer Science. It is my goal to one day work as a software engineer / software developer. In regaurds to programming/scripting languages: I am proficient with Java and Linux; and I have an fairly good grasp of python, C, C++, and HTML</p>
+<p>I am enrolled as a junior at the University of Wisconsin-Parkside, majoring in Computer Science. It is my goal to one day work as a software engineer / software developer. In regaurds to programming/scripting languages: I am proficient with Java and Linux; and I have an fairly good grasp of python, C++, and HTML</p>
 
 
 <!-- Links to Projects -->
@@ -24,6 +24,7 @@
 
 <h3>LinkedIn Learning</h3>
 
+- [Getting Started with C++]() | Issued February 26, 2023
 - [Git Essential Training: The Basics](https://www.linkedin.com/learning/certificates/e0d2fe399ca9084cb7bb979d609108af409cb0f56a484049b2d675e4b342eb68) | Issued: February 18, 2023
 - [Java: Testing with JUnit](https://www.linkedin.com/learning/certificates/4e9dd22d6d0a0ad8196914514e159292d03f98776a6940bce9e6932096eff7ff?trk=share_certificate) | Issued: February 12, 2023
 
