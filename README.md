@@ -22,12 +22,6 @@
 
 - [UNIX System Administration certificate](https://www.uwp.edu/learn/programs/unixsystemadmin.cfm) | Issued: May 17, 2023
 
-<h3>LinkedIn Learning</h3>
-
-- [Getting Started with C++](https://www.linkedin.com/learning/certificates/b2c678f7155c1fbea1dd7ae48d0719e7e68a79d060c00492fb055c380ae77c89) | Issued February 26, 2023
-- [Git Essential Training: The Basics](https://www.linkedin.com/learning/certificates/e0d2fe399ca9084cb7bb979d609108af409cb0f56a484049b2d675e4b342eb68) | Issued: February 18, 2023
-- [Java: Testing with JUnit](https://www.linkedin.com/learning/certificates/4e9dd22d6d0a0ad8196914514e159292d03f98776a6940bce9e6932096eff7ff?trk=share_certificate) | Issued: February 12, 2023
-
 
 <!-- Eduction Overview -->
 <h2>🎓 Education:</h2>
@@ -36,6 +30,13 @@
 - Bachelor's of Science in Computer Science
 - Graduation: Decemeber 2024
 - GPA: 3.5
+
+<h3>LinkedIn Learning</h3>
+
+- [Software Design: Modeling with UML]() | Completed: TBD
+- [Getting Started with C++](https://www.linkedin.com/learning/certificates/b2c678f7155c1fbea1dd7ae48d0719e7e68a79d060c00492fb055c380ae77c89) | Completed: February 26, 2023
+- [Git Essential Training: The Basics](https://www.linkedin.com/learning/certificates/e0d2fe399ca9084cb7bb979d609108af409cb0f56a484049b2d675e4b342eb68) | Completed: February 18, 2023
+- [Java: Testing with JUnit](https://www.linkedin.com/learning/certificates/4e9dd22d6d0a0ad8196914514e159292d03f98776a6940bce9e6932096eff7ff?trk=share_certificate) | Completed: February 12, 2023
 
 
 <!-- Important Links -->
