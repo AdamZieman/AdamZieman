@@ -7,10 +7,16 @@
 
 <!-- Project Portfolio -->
 <h1>Project Portfolio</h1>
-[Java](https://github.com/AdamZieman/AdamZieman/edit/main/README.md#java)
+
+<!-- Jump Links-->
+Jump to:
+<a href="#JavaLink">Java</a>
+,
+<a href="#PythonLink">Python</a>
+
 
 <!-- Java Programs -->
-<h2>Java</h2>
+<a id="JavaLink"><h2>Java</h2></a>
 <h3>University of Wisconsin-Parkside Projects</h3>
 
 <!-- Data Structures and Algorithm Design projects -->
@@ -197,6 +203,9 @@
     </td>
   </tr>
 </table>
+
+<!-- Python Programs -->
+<a id="PythonLink"><h2>Python</h2></a>
 
 <!-- Links to Projects -->
 <h2>👨‍💻 Projects</h2>
