@@ -20,6 +20,7 @@
   <tr><td><a href="#LinuxLink">Linux Project Portfolio</a></td></tr>
   <tr><td><a href="#ConnectLink">Connect With Me</a></td></tr>
 </table>
+<br>
 
 
 <!-- Eduction Overview -->
@@ -30,12 +31,16 @@
 - Graduation: Decemeber 2024
 - GPA: 3.5
 
+<br>
+
 
 <!-- List of Certificates -->
 <a id="CertificationLink"><h2>📜 Certificates:</h2></a>
 <h3>University of Wisconsin-Parkside</h3>
 
 - [UNIX System Administration certificate](https://www.uwp.edu/learn/programs/unixsystemadmin.cfm) | Issued: May 17, 2023
+
+<br>
 
 
 <!-- LinkedIn Learning Courses -->
@@ -46,7 +51,7 @@
 - Java
   - [Java: Testing with JUnit](https://www.linkedin.com/learning/certificates/4e9dd22d6d0a0ad8196914514e159292d03f98776a6940bce9e6932096eff7ff?trk=share_certificate) | Completed: February 12, 2023
 - C++
-  - [Getting Started with C++](https://www.linkedin.com/learning/certificates/b2c678f7155c1fbea1dd7ae48d0719e7e68a79d060c00492fb055c380ae77c89) | Completed: February 26, 2023
+  - [Getting Started with C++ (Learning Path)](https://www.linkedin.com/learning/certificates/b2c678f7155c1fbea1dd7ae48d0719e7e68a79d060c00492fb055c380ae77c89) | Completed: February 26, 2023
     - Learning C++
     - C++ Templates and the STL
     - Introducing Functional Programming in C++
@@ -54,6 +59,9 @@
     - Code Clinic: C++
     - Web Servers and APIs using C++
     - Nail Your C++ Interview
+
+<br>
+
 
 <!-- Project Portfolio -->
 <h1>👨‍💻 Project Portfolio</h1>
