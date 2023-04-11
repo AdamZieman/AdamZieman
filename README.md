@@ -21,7 +21,7 @@
   <tr><td><a href="#C++Link">C++ Project Portfolio</a>
     <i>(3 projects)</i></td></tr>
   <tr><td><a href="#PythonLink">Python Project Portfolio</a>
-    <i>(13 projects)</i></td></tr>
+    <i>(12 projects)</i></td></tr>
   <tr><td><a href="#LinuxLink">Linux Project Portfolio</a></td></tr>
   <tr><td><a href="#ConnectLink">Connect With Me</a></td></tr>
 </table>
