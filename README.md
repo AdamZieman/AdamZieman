@@ -44,7 +44,7 @@
 
 
 <!-- LinkedIn Learning Courses -->
-<a id="LinkedInLearningLink"><h2>LinkedIn Learning</h2></a>
+<a id="LinkedInLearningLink"><h2>⛓ LinkedIn Learning</h2></a>
 - General Knowledge
   - [Software Design: Modeling with UML]() | Completed: TBD
   - [Git Essential Training: The Basics](https://www.linkedin.com/learning/certificates/e0d2fe399ca9084cb7bb979d609108af409cb0f56a484049b2d675e4b342eb68) | Completed: February 18, 2023
