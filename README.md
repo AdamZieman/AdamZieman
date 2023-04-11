@@ -241,6 +241,7 @@
     </td>
   </tr>
 </table>
+<br>
 
 <!-- Python Programs -->
 <a id="PythonLink"><h2>Python</h2></a>
@@ -299,6 +300,7 @@
     </td>
   </tr>
 </table>
+<br>
 
 <!-- Course: Introduction to Programming -->
 <h4>Course: Introduction to Programming</h4>
@@ -408,9 +410,10 @@
     </td>
   </tr>
 </table>
+<br>
 
 <!-- Linux Project Portfolio -->
-<a id="LinuxLink"><h2>Linux Scripts</h2></a>
+<a id="LinuxLink"><h2>Linux</h2></a>
 <h3>University of Wisconsin-Parkside Projects</h3>
 
 <!-- UNIX System Administration -->
