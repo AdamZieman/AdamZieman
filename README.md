@@ -47,6 +47,13 @@
   - [Java: Testing with JUnit](https://www.linkedin.com/learning/certificates/4e9dd22d6d0a0ad8196914514e159292d03f98776a6940bce9e6932096eff7ff?trk=share_certificate) | Completed: February 12, 2023
 - C++
   - [Getting Started with C++](https://www.linkedin.com/learning/certificates/b2c678f7155c1fbea1dd7ae48d0719e7e68a79d060c00492fb055c380ae77c89) | Completed: February 26, 2023
+    - Learning C++
+    - C++ Templates and the STL
+    - Introducing Functional Programming in C++
+    - C++ Best Practices for Developers
+    - Code Clinic: C++
+    - Web Servers and APIs using C++
+    - Nail Your C++ Interview
 
 <!-- Project Portfolio -->
 <h1>👨‍💻 Project Portfolio</h1>
