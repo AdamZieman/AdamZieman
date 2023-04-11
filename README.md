@@ -110,7 +110,9 @@
     <th>Skills</th>
   </tr>
   <tr>
-    <td>Synonyms</td>
+    <td>
+      <a href="https://github.com/AdamZieman/Synonyms">Synonyms</a>
+    </td>
     <td>
       Determines the closest synonym of a word from a list of<br>words.
     </td>
