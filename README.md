@@ -435,11 +435,12 @@
   <tr>
     <td>Loop Drawing</td>
     <td>
-      Creates a drawing of an anchor, sailboat, airplane, and traffic<br>
-      light from shape objects, printing several in a loop from either<br>
-      left-to-right, up-to-down, and diagnol. The user types how many<br>
-      circle objects they would like to create, then click on the graphic<br>
-      window to where they would like to add the circle objects.
+      Creates a drawing of an anchor, sailboat, airplane, and<br>
+      traffic light from shape objects, printing several in a<br>
+      loop from either left-to-right, up-to-down, and diagnol.<br>
+      The user types how many circle objects they would like<br>
+      to create, then click on the graphic window to where<br>
+      they would like to add the circle objects.
     </td>
     <td>
       <ul>
@@ -472,8 +473,8 @@
   <tr>
     <td>Rug Calculator</td>
     <td>
-      Calculates an apropriate rug size and the cost for a user input<br>
-      room dimensions.
+      Calculates an apropriate rug size and the cost for a<br>
+      user input room dimensions.
     </td>
     <td>
       <ul>
