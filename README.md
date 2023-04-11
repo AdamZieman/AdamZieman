@@ -18,6 +18,8 @@
     <i>(10 courses completed)</i></td></tr>
   <tr><td><a href="#JavaLink">Java Project Portfolio</a>
     <i>(14 projects)</i></td></tr>
+  <tr><td><a href="#C++Link">C++ Project Portfolio</a>
+    <i>(3 projects)</i></td></tr>
   <tr><td><a href="#PythonLink">Python Project Portfolio</a>
     <i>(13 projects)</i></td></tr>
   <tr><td><a href="#LinuxLink">Linux Project Portfolio</a></td></tr>
@@ -261,6 +263,56 @@
 </table>
 <br>
 
+
+<!-- C++ Programs -->
+<a id="C++Link"><h2>C++</h2></a>
+<h3>University of Wisconsin-Parkside Projects</h3>
+
+<!-- Programming Languages -->
+<h4>Course: Programming Languages</h4>
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Brief Description</th>
+    <th>Skills</th>
+  </tr>
+  <tr>
+    <td>Carbon Footprint</td>
+    <td>
+      Using an abstract class, calculate the carbon footprint for various objects.
+    </td>
+    <td>
+      <ul>
+        <li></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Bank Account</td>
+    <td>
+      Using an inheritence, create a 3 banking accounts and perform transactions on them.
+    </td>
+    <td>
+      <ul>
+        <li></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Rational Class</td>
+    <td>
+      Overload arithmetic and equality operators to perform actions on rational numbers.
+    </td>
+    <td>
+      <ul>
+        <li></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+<br>
+
+  
 <!-- Python Programs -->
 <a id="PythonLink"><h2>Python</h2></a>
 <h3>University of Wisconsin-Parkside Projects</h3>
