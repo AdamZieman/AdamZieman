@@ -279,7 +279,7 @@
   <tr>
     <td>Carbon Footprint</td>
     <td>
-      Using an abstract class, calculate the carbon footprint for various objects.
+      Using an abstract class, calculate the carbon footprint for<br>various objects.
     </td>
     <td>
       <ul>
@@ -290,7 +290,7 @@
   <tr>
     <td>Bank Account</td>
     <td>
-      Using an inheritence, create a 3 banking accounts and perform transactions on them.
+      Using an inheritence, create a 3 banking accounts and perform<br>transactions on them.
     </td>
     <td>
       <ul>
@@ -301,7 +301,7 @@
   <tr>
     <td>Rational Class</td>
     <td>
-      Overload arithmetic and equality operators to perform actions on rational numbers.
+      Overload arithmetic and equality operators to perform actions<br>on rational numbers.
     </td>
     <td>
       <ul>
@@ -382,7 +382,8 @@
   <tr>
     <td>Cake Shop</td>
     <td>
-      Prints a reciept with ASCII Art for the amount of cupcakes and coffee a user inputs.
+      Prints a reciept with ASCII Art for the amount of cupcakes<br>
+      and coffee a user inputs.
     </td>
     <td>
       <ul>
@@ -393,7 +394,8 @@
   <tr>
     <td>Gallons and Ounces</td>
     <td>
-      Returns how many full gallons and/or ounces are within various defined ounces or gallons.
+      Returns how many full gallons and/or ounces are within various<br>
+      defined ounces or gallons.
     </td>
     <td>
       <ul>
@@ -404,7 +406,8 @@
   <tr>
     <td>String Analyzer</td>
     <td>
-      The user inputs words with specific requirements and each string is analyzed for different criteria.
+      The user inputs words with specific requirements and each string<br>
+      is analyzed for different criteria.
     </td>
     <td>
       <ul>
@@ -415,7 +418,9 @@
   <tr>
     <td>Interactive Drawing</td>
     <td>
-      User input the location and size of a square object in a graphic window, and how many stripes to fill the square.<br>The square is filled with the horizontal strips of random colors.
+      User input the location and size of a square object in a graphic<br>
+      window, and how many stripes to fill the square.<br>The square is<br>
+      filled with the horizontal strips of random colors.
     </td>
     <td>
       <ul>
@@ -426,7 +431,11 @@
   <tr>
     <td>Loop Drawing</td>
     <td>
-      Creates a drawing of an anchor, sailboat, airplane, and traffic light from shape objects, printing several in a loop from either<br>left-to-right, up-to-down, and diagnol. The user types how many circle objects they would like to create, then click on the graphic window to where they would like to add the circle objects.
+      Creates a drawing of an anchor, sailboat, airplane, and traffic<br>
+      light from shape objects, printing several in a loop from either<br>
+      left-to-right, up-to-down, and diagnol. The user types how many<br>
+      circle objects they would like to create, then click on the graphic<br>
+      window to where they would like to add the circle objects.
     </td>
     <td>
       <ul>
@@ -459,7 +468,8 @@
   <tr>
     <td>Rug Calculator</td>
     <td>
-      Calculates an apropriate rug size and the cost for a user input room dimensions.
+      Calculates an apropriate rug size and the cost for a user input<br>
+      room dimensions.
     </td>
     <td>
       <ul>
