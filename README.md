@@ -17,6 +17,7 @@
   <tr><td><a href="#LinkedInLearningLink">LinkedIn Learning Courses</a></td></tr>
   <tr><td><a href="#JavaLink">Java Project Portfolio</a></td></tr>
   <tr><td><a href="#PythonLink">Python Project Portfolio</a></td></tr>
+  <tr><td><a href="#LinuxLink">Linux Project Portfolio</a></td></tr>
   <tr><td><a href="#ConnectLink">Connect With Me</a></td></tr>
 </table>
 
@@ -399,6 +400,70 @@
     <td>Butterfly<br>ASCII Art</td>
     <td>
       Creates an ASCII Art image of a butterfly.
+    </td>
+    <td>
+      <ul>
+        <li></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<!-- Linux Project Portfolio -->
+<a id="LinuxLink"><h2>Linux Scripts</h2></a>
+<h3>University of Wisconsin-Parkside Projects</h3>
+
+<!-- UNIX System Administration -->
+<h4>Course: UNIX System Administration</h4>
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Brief Description</th>
+    <th>Skills</th>
+  </tr>
+  <tr>
+    <td></td>
+    <td>
+    </td>
+    <td>
+      <ul>
+        <li></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<!-- UNIX Scripting -->
+<h4>Course: UNIX Scripting</h4>
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Brief Description</th>
+    <th>Skills</th>
+  </tr>
+  <tr>
+    <td></td>
+    <td>
+    </td>
+    <td>
+      <ul>
+        <li></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<!-- UNIX Concepts and Tools -->
+<h4>Course: UNIX Concepts and Tools</h4>
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Brief Description</th>
+    <th>Skills</th>
+  </tr>
+  <tr>
+    <td></td>
+    <td>
     </td>
     <td>
       <ul>
