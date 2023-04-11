@@ -6,7 +6,7 @@
 
 
 <!-- Brief Introduction -->
-<p>I am enrolled as a junior at the University of Wisconsin-Parkside, majoring in Computer Science. It is my goal to one day work as a software engineer / software developer. In regaurds to programming/scripting languages: I am proficient with Java and Linux; and I have an fairly good grasp of python, C++, and HTML</p>
+<p>I am enrolled at the University of Wisconsin-Parkside, pursing a Bachelor's of Science in Computer Science. It is my goal to one day work as a software engineer /  developer. I am proficient with Java, C++, Python, and Linux, and I have an fairly good grasp of React, and Go</p>
 
 
 <!-- Table of Contents -->
@@ -14,9 +14,12 @@
   <tr><th>Table of Contents</th></tr>
   <tr><td><a href="#EducationLink">Education</a></td></tr>
   <tr><td><a href="#CertificationLink">Certifications</a></td></tr>
-  <tr><td><a href="#LinkedInLearningLink">LinkedIn Learning Courses</a></td></tr>
-  <tr><td><a href="#JavaLink">Java Project Portfolio</a></td></tr>
-  <tr><td><a href="#PythonLink">Python Project Portfolio</a></td></tr>
+  <tr><td><a href="#LinkedInLearningLink">LinkedIn Learning Courses</a>
+    <i>(10 courses completed)</i></td></tr>
+  <tr><td><a href="#JavaLink">Java Project Portfolio</a>
+    <i>(14 projects)</i></td></tr>
+  <tr><td><a href="#PythonLink">Python Project Portfolio</a>
+    <i>(13 projects)</i></td></tr>
   <tr><td><a href="#LinuxLink">Linux Project Portfolio</a></td></tr>
   <tr><td><a href="#ConnectLink">Connect With Me</a></td></tr>
 </table>
