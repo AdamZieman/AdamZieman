@@ -1,3 +1,6 @@
+<!-- WARNING MESSAGE! -->
+<i>Currently creating repositories for all code, and adding skills demonstrated to the table</i>
+
 <!-- Header -->
 <h1>Hi, I'm Adam!</h1>
 
@@ -34,11 +37,15 @@
 - [UNIX System Administration certificate](https://www.uwp.edu/learn/programs/unixsystemadmin.cfm) | Issued: May 17, 2023
 
 
+<!-- LinkedIn Learning Courses -->
 <a id="LinkedInLearningLink"><h2>LinkedIn Learning</h2></a>
-- [Software Design: Modeling with UML]() | Completed: TBD
-- [Getting Started with C++](https://www.linkedin.com/learning/certificates/b2c678f7155c1fbea1dd7ae48d0719e7e68a79d060c00492fb055c380ae77c89) | Completed: February 26, 2023
-- [Git Essential Training: The Basics](https://www.linkedin.com/learning/certificates/e0d2fe399ca9084cb7bb979d609108af409cb0f56a484049b2d675e4b342eb68) | Completed: February 18, 2023
-- [Java: Testing with JUnit](https://www.linkedin.com/learning/certificates/4e9dd22d6d0a0ad8196914514e159292d03f98776a6940bce9e6932096eff7ff?trk=share_certificate) | Completed: February 12, 2023
+- General Knowledge
+  - [Software Design: Modeling with UML]() | Completed: TBD
+  - [Git Essential Training: The Basics](https://www.linkedin.com/learning/certificates/e0d2fe399ca9084cb7bb979d609108af409cb0f56a484049b2d675e4b342eb68) | Completed: February 18, 2023
+- Java
+  - [Java: Testing with JUnit](https://www.linkedin.com/learning/certificates/4e9dd22d6d0a0ad8196914514e159292d03f98776a6940bce9e6932096eff7ff?trk=share_certificate) | Completed: February 12, 2023
+- C++
+  - [Getting Started with C++](https://www.linkedin.com/learning/certificates/b2c678f7155c1fbea1dd7ae48d0719e7e68a79d060c00492fb055c380ae77c89) | Completed: February 26, 2023
 
 <!-- Project Portfolio -->
 <h1>👨‍💻 Project Portfolio</h1>
