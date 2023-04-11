@@ -315,7 +315,6 @@
     </td>
   </tr>
 </table>
-<br>
 
 <!-- Course: Introduction to Programming -->
 <h4>Course: Introduction to Programming</h4>
