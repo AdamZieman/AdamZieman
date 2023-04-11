@@ -1,5 +1,5 @@
 <!-- WARNING MESSAGE! -->
-<i>Currently creating repositories for all code, and adding skills demonstrated to the table</i>
+<i>Repositories for all code, and skills demonstrated per project will be added no later then April 16</i>
 
 <!-- Header -->
 <h1>Hi, I'm Adam!</h1>
