@@ -64,7 +64,7 @@
 
 
 <!-- Project Portfolio -->
-<h1>👨‍💻 Project Portfolio</h1>
+<h2>👨‍💻 Project Portfolio</h2>
 
 <!-- Java Programs -->
 <a id="JavaLink"><h2>Java</h2></a>
@@ -489,6 +489,7 @@
     </td>
   </tr>
 </table>
+<br>
 
 <!-- Important Links -->
 <a id="ConnectLink"><h2>🤳 Connect with me:</h2></a>
