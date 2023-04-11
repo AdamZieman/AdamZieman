@@ -243,6 +243,170 @@
 
 <!-- Python Programs -->
 <a id="PythonLink"><h2>Python</h2></a>
+<h3>University of Wisconsin-Parkside Projects</h3>
+
+<!-- Programming Languages -->
+<h4>Course: Programming Languages</h4>
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Brief Description</th>
+    <th>Skills</th>
+  </tr>
+  <tr>
+    <td>Card Class</td>
+    <td>
+      Prints a user defined amount of random playing card objects.
+    </td>
+    <td>
+      <ul>
+        <li></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Syracuse Sequence</td>
+    <td>
+      Calculates the syracuse sequence from a user input.
+    </td>
+    <td>
+      <ul>
+        <li></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>BMI Calculator</td>
+    <td>
+      Calculates a BMI from user input.
+    </td>
+    <td>
+      <ul>
+        <li></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Acronym Builder</td>
+    <td>
+      Creates an acronym from a user input word.
+    </td>
+    <td>
+      <ul>
+        <li></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<!-- Course: Introduction to Programming -->
+<h4>Course: Introduction to Programming</h4>
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Breif Description</th>
+    <th>Skills</th>
+  </tr>
+  <tr>
+    <td>Cake Shop</td>
+    <td>
+      Prints a reciept with ASCII Art for the amount of cupcakes and coffee a user inputs.
+    </td>
+    <td>
+      <ul>
+        <li></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Gallons and Ounces</td>
+    <td>
+      Returns how many full gallons and/or ounces are within various defined ounces or gallons.
+    </td>
+    <td>
+      <ul>
+        <li></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>String Analyzer</td>
+    <td>
+      The user inputs words with specific requirements and each string is analyzed for different criteria.
+    </td>
+    <td>
+      <ul>
+        <li></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Interactive Drawing</td>
+    <td>
+      User input the location and size of a square object in a graphic window, and how many stripes to fill the square.<br>The square is filled with the horizontal strips of random colors.
+    </td>
+    <td>
+      <ul>
+        <li></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Loop Drawing</td>
+    <td>
+      Creates a drawing of an anchor, sailboat, airplane, and traffic light from shape objects, printing several in a loop from either<br>left-to-right, up-to-down, and diagnol. The user types how many circle objects they would like to create, then click on the graphic window to where they would like to add the circle objects.
+    </td>
+    <td>
+      <ul>
+        <li></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>GraphicDrawing</td>
+    <td>
+      Creates a movie theater sign drawing using shape objects.
+    </td>
+    <td>
+      <ul>
+        <li></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Loop Practice</td>
+    <td>
+      Demonstrates various loops for various situations.
+    </td>
+    <td>
+      <ul>
+        <li></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Rug Calculator</td>
+    <td>
+      Calculates an apropriate rug size and the cost for a user input room dimensions.
+    </td>
+    <td>
+      <ul>
+        <li></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Butterfly<br>ASCII Art</td>
+    <td>
+      Creates an ASCII Art image of a butterfly.
+    </td>
+    <td>
+      <ul>
+        <li></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <!-- Important Links -->
 <a id="ConnectLink"><h2>🤳 Connect with me:</h2></a>
