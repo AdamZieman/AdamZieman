@@ -14,6 +14,7 @@
   <tr><td><a href="#LinkedInLearningLink">LinkedIn Learning Courses</a></td></tr>
   <tr><td><a href="#JavaLink">Java Project Portfolio</a></td></tr>
   <tr><td><a href="#PythonLink">Python Project Portfolio</a></td></tr>
+  <tr><td><a href="#ConnectLink">Connect With Me</a></td></tr>
 </table>
 
 
@@ -40,7 +41,7 @@
 - [Java: Testing with JUnit](https://www.linkedin.com/learning/certificates/4e9dd22d6d0a0ad8196914514e159292d03f98776a6940bce9e6932096eff7ff?trk=share_certificate) | Completed: February 12, 2023
 
 <!-- Project Portfolio -->
-<h1>Project Portfolio</h1>
+<h1>👨‍💻 Project Portfolio</h1>
 
 <!-- Java Programs -->
 <a id="JavaLink"><h2>Java</h2></a>
@@ -236,16 +237,6 @@
 <!-- Python Programs -->
 <a id="PythonLink"><h2>Python</h2></a>
 
-<!-- Links to Projects -->
-<h2>👨‍💻 Projects</h2>
-
-- <b>Java Programs</b>
-  - [Synonyms](https://github.com/AdamZieman/Synonyms)
-- <b>Linux Scripts (BASH)</b>
-  - [Fibonacci (seeds as arguments)](https://github.com/AdamZieman/FibonacciWithGetOpts)
-  - [File Details and Comparison](https://github.com/AdamZieman/FileDetailsAndComparison)
-
-
 <!-- Important Links -->
-<h2>🤳 Connect with me:</h2>
+<a id="ConnectLink"><h2>🤳 Connect with me:</h2></a>
 [LinkedIn](https://www.linkedin.com/in/adam-zieman/)
