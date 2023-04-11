@@ -290,7 +290,8 @@
   <tr>
     <td>Bank Account</td>
     <td>
-      Using an inheritence, create a 3 banking accounts and perform<br>transactions on them.
+      Using an inheritence, create a 3 banking accounts and<br>
+      perform transactions on them.
     </td>
     <td>
       <ul>
@@ -301,7 +302,8 @@
   <tr>
     <td>Rational Class</td>
     <td>
-      Overload arithmetic and equality operators to perform actions<br>on rational numbers.
+      Overload arithmetic and equality operators to perform<br>
+      actions on rational numbers.
     </td>
     <td>
       <ul>
@@ -328,7 +330,8 @@
   <tr>
     <td>Card Class</td>
     <td>
-      Prints a user defined amount of random playing card objects.
+      Prints a user defined amount of random playing card<br>
+      objects.
     </td>
     <td>
       <ul>
@@ -394,8 +397,8 @@
   <tr>
     <td>Gallons and Ounces</td>
     <td>
-      Returns how many full gallons and/or ounces are within various<br>
-      defined ounces or gallons.
+      Returns how many full gallons and/or ounces are within<br>
+      various defined ounces or gallons.
     </td>
     <td>
       <ul>
@@ -406,8 +409,8 @@
   <tr>
     <td>String Analyzer</td>
     <td>
-      The user inputs words with specific requirements and each string<br>
-      is analyzed for different criteria.
+      The user inputs words with specific requirements and<br>
+      each string is analyzed for different criteria.
     </td>
     <td>
       <ul>
@@ -418,9 +421,10 @@
   <tr>
     <td>Interactive Drawing</td>
     <td>
-      User input the location and size of a square object in a graphic<br>
-      window, and how many stripes to fill the square.<br>The square is<br>
-      filled with the horizontal strips of random colors.
+      User input the location and size of a square object<br>
+      in a graphic window, and how many stripes to fill<br>
+      the square.<br>The square is filled with the<br>
+      horizontal strips of random colors.
     </td>
     <td>
       <ul>
