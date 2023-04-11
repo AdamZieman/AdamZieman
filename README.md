@@ -482,17 +482,6 @@
       </ul>
     </td>
   </tr>
-  <tr>
-    <td>Butterfly<br>ASCII Art</td>
-    <td>
-      Creates an ASCII Art image of a butterfly.
-    </td>
-    <td>
-      <ul>
-        <li></li>
-      </ul>
-    </td>
-  </tr>
 </table>
 <br>
 
