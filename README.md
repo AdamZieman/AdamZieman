@@ -5,6 +5,198 @@
 <!-- Brief Introduction -->
 <p>I am enrolled as a junior at the University of Wisconsin-Parkside, majoring in Computer Science. It is my goal to one day work as a software engineer / software developer. In regaurds to programming/scripting languages: I am proficient with Java and Linux; and I have an fairly good grasp of python, C++, and HTML</p>
 
+<!-- Project Portfolio -->
+<h1>Project Portfolio</h1>
+[Java](https://github.com/AdamZieman/AdamZieman/edit/main/README.md#java)
+
+<!-- Java Programs -->
+<h2>Java</h2>
+<h3>University of Wisconsin-Parkside Projects</h3>
+
+<!-- Data Structures and Algorithm Design projects -->
+<h4>Course: Data Structures and Algorithm Design</h4>
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Brief Description</th>
+    <th>Skills</th>
+  </tr>
+  <tr>
+    <td>2D Search Tree</td>
+    <td>
+      Sorts a 2D Node of coordinate points into a binary<br>search tree, alternating between x- and y-<br>coordniates being sorted at each level.
+    </td>
+    <td>
+      <ul>
+        <li></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Heap Median</td>
+    <td>
+      Create a heap of integers, then determine the median.
+    </td>
+    <td>
+      <ul>
+        <li></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Optimized<br>Seach</td>
+    <td>
+      Searches an unordered list of unique integers, of<br>varying sizes to determine its median and calculates<br>the search time.
+    </td>
+    <td>
+      <ul>
+        <li></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Generic Sorter</td>
+    <td>
+      Sorts an array of either strings or numbers, in <br> decending order.
+    </td>
+    <td>
+      <ul>
+        <li></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+
+<!-- Computer Science 2 projects -->
+<h4>Course: Computer Science 2</h4>
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Brief Description</th>
+    <th>Skills</th>
+  </tr>
+  <tr>
+    <td>Synonyms</td>
+    <td>
+      Determines the closest synonym of a word from a list of<br>words.
+    </td>
+    <td>
+      <ul>
+        <li></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Recursion</td>
+    <td>
+      Solves five different recursive problems.
+    </td>
+    <td>
+      <ul>
+        <li></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Shapes</td>
+    <td>
+      Creates shape objects using inheritence and<br>polymorphism.
+    </td>
+    <td>
+      <ul>
+        <li></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Read and Write</td>
+    <td>
+      Uses scanner to read text from a source, and<br>PrintScanner to write text to a file.
+    </td>
+    <td>
+      <ul>
+        <li></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<!-- Computer Science 1 projects -->
+<h4>Course: Computer Science 1</h4>
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Brief Description</th>
+    <th>Skills</th>
+  </tr>
+  <tr>
+    <td>Stack of Boxes</td>
+    <td>
+      Condences a given amount of box objects by placing<br>smaller boxes into larger boxes, where possible.
+    </td>
+    <td>
+      <ul>
+        <li></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>TimeClock</td>
+    <td>
+      Manipulates a clock object.
+    </td>
+    <td>
+      <ul>
+        <li></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>2D Array</td>
+    <td>
+      Analyzes and manipulates a fixed 2D array of integers.
+    </td>
+    <td>
+      <ul>
+        <li></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>1D Array</td>
+    <td>
+      Analyzes an fixed or user input array of integers.
+    </td>
+    <td>
+      <ul>
+        <li></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Rock-Paper-<br>Scissors<br>(Halloween<br>Edition)</td>
+    <td>
+      This is a brief description of the project.
+    </td>
+    <td>
+      <ul>
+        <li></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Electric Bill<br>Calculations</td>
+    <td>
+      Calculate the charges of an electric bill, given user inputs.
+    </td>
+    <td>
+      <ul>
+        <li></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <!-- Links to Projects -->
 <h2>👨‍💻 Projects</h2>
