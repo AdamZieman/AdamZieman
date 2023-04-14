@@ -164,7 +164,7 @@
     </td>
     <td>
       <ul>
-        <li>Recursion</li>
+        <li>Recursion algorithm</li>
         <li>Unit testing</li>
       </ul>
     </td>
