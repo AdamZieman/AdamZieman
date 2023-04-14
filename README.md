@@ -152,7 +152,7 @@
     </td>
   </tr>
   <tr>
-    <td>Recursion</td>
+    <td><a href="https://github.com/AdamZieman/JavaRecursion">Recursion</a></td>
     <td>
 <!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
       This program demonstrates knowledge of recursion by containing 5<br>
