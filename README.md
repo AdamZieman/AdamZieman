@@ -154,11 +154,18 @@
   <tr>
     <td>Recursion</td>
     <td>
-      Solves five different recursive problems.
+<!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
+      This program demonstrates knowledge of recursion by containing 5<br>
+      unique recursive methods, which include removing adjacent duplicate<br>
+      characters from a string, counting the number of times a digit<br>
+      appears in an integer, checking if a given string has balanced<br>
+      brackets, and checking if a given integer array can be split into<br>
+      two subarrays with equal sums.
     </td>
     <td>
       <ul>
-        <li></li>
+        <li>Recursion</li>
+        <li>Unit testing</li>
       </ul>
     </td>
   </tr>
