@@ -177,7 +177,8 @@
     </td>
     <td>
       <ul>
-        <li></li>
+        <li>Polymorphism / Inheritence</li>
+        <li>JavaFX GUI</li>
       </ul>
     </td>
   </tr>
