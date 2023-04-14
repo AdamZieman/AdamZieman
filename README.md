@@ -188,7 +188,8 @@
     </td>
     <td>
       <ul>
-        <li></li>
+        <li>Retrieve data from text file</li>
+        <li>Write data to text file</li>
       </ul>
     </td>
   </tr>
