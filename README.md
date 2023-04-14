@@ -148,7 +148,7 @@
     <td>
       <ul>
         <li>Nested HashMaps</li>
-        <li>Retrieving data from a URL</li>
+        <li>Retrieving data from URLs</li>
         <li>Exception handling</li>
       </ul>
     </td>
