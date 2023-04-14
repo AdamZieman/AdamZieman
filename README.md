@@ -155,12 +155,10 @@
     <td><a href="https://github.com/AdamZieman/JavaRecursion">Recursion</a></td>
     <td>
 <!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
-      This program demonstrates knowledge of recursion by containing 5<br>
-      unique recursive methods, which include removing adjacent duplicate<br>
-      characters from a string, counting the number of times a digit<br>
-      appears in an integer, checking if a given string has balanced<br>
-      brackets, and checking if a given integer array can be split into<br>
-      two subarrays with equal sums.
+      This program shows 5 unique recursive methods: remove adjacent<br>
+      duplicate characters, count digit occurrences, check balanced<br>
+      brackets, and split an integer array into two subarrays with equal<br>
+      sums.
     </td>
     <td>
       <ul>
