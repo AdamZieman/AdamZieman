@@ -148,8 +148,9 @@
     <td>
       <ul>
         <li>Nested HashMaps</li>
-        <li>Retrieving data from URLs</li>
+        <li>Retrieve data from URLs</li>
         <li>Exception handling</li>
+        <li>Calculate cosine similarity</li>
       </ul>
     </td>
   </tr>
