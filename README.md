@@ -81,7 +81,7 @@
   <tr>
     <th>Project</th>
     <th>Brief Description</th>
-    <th>Skills</th>
+    <th>Concepts</th>
   </tr>
   <tr>
     <td>2D Search Tree</td>
@@ -147,7 +147,9 @@
     </td>
     <td>
       <ul>
-        <li></li>
+        <li>Nested HashMaps</li>
+        <li>Retrieving data from a URL with a Scanner</li>
+        <li>Exception handling</li>
       </ul>
     </td>
   </tr>
@@ -162,7 +164,7 @@
     </td>
     <td>
       <ul>
-        <li>Recursion algorithm</li>
+        <li>Recursion</li>
         <li>Unit testing</li>
       </ul>
     </td>
