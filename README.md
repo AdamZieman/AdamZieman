@@ -249,13 +249,21 @@
     </td>
   </tr>
   <tr>
-    <td>Rock-Paper-<br>Scissors<br>(Halloween<br>Edition)</td>
+    <td><a href="https://github.com/AdamZieman/RockPaperScissors_HalloweenEdition">Rock-Paper-<br>Scissors<br>(Halloween<br>Edition)</a></td>
     <td>
-      This is a brief description of the project.
+<!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
+      This is a two-player game called the "Boulder, Scroll, Knife, Witch's<br>
+      Brew, Monster Game". Each player will be given an element at random,<br>
+      and the game will continue until the players decide to stop. The<br>
+      summary of the games played will be printed at the end for each<br>
+      player.
     </td>
     <td>
       <ul>
-        <li></li>
+        <li>Iteration</li>
+        <li>Switch statement</li>
+        <li>Methods</li>
+        <li>User input</li>
       </ul>
     </td>
   </tr>
