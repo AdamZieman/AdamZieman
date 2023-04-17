@@ -308,7 +308,9 @@
     </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/AdamZieman/Java_RockPaperScissors_HalloweenEdition">Rock-Paper-<br>Scissors<br>(Halloween<br>Edition)</a></td>
+    <td>
+      <a href="https://github.com/AdamZieman/Java_RockPaperScissors_HalloweenEdition">Rock-Paper-<br>Scissors<br>(Halloween<br>Edition)</a>
+    </td>
     <td>
 <!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
       This is a two-player game called the "Boulder, Scroll, Knife, Witch's<br>
@@ -327,13 +329,21 @@
     </td>
   </tr>
   <tr>
-    <td>Electric Bill<br>Calculations</td>
     <td>
-      Calculate the charges of an electric bill, given user inputs.
+      <a href="https://github.com/AdamZieman/Java_ElectricBillCalculations">Electric Bill<br>Calculations</a>
+    </td>
+    <td>
+<!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
+      This Java program calculates the electric bill for a customer based<br>
+      on user input of billing period and meter readings. It uses constants<br>
+      to calculate different charges and prints the results in a formatted<br>
+      manner.
     </td>
     <td>
       <ul>
-        <li></li>
+        <li>Input/Output</li>
+        <li>Control structures</li>
+        <li>String formatting</li>
       </ul>
     </td>
   </tr>
