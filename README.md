@@ -152,7 +152,7 @@
       <ul>
         <li>Generic programming</li>
         <li>Implementing interfaces</li>
-        <li>Exception Handling</li>
+        <li>Exception handling</li>
         <li>Lists and Collections</li>
       </ul>
     </td>
@@ -215,7 +215,6 @@
     </td>
   </tr>
   <tr>
-    
     <td>
       <a href="https://github.com/AdamZieman/Java_ReaderWriter">Read and Write</a>
     </td>
@@ -226,6 +225,7 @@
       <ul>
         <li>Retrieve data from text file</li>
         <li>Write data to text file</li>
+        <li>Exception handling</li>
       </ul>
     </td>
   </tr>
