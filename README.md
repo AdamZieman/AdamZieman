@@ -111,11 +111,23 @@
       <a href="https://github.com/AdamZieman/Java_HeapMedian">Find Median of<br>Heap</a>
     </td>
     <td>
-      Create a heap of integers, then determine the median.
+<!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
+      The StreamMedian program uses two heaps to maintain the median of a<br>
+      stream of integers in constant time. The max heap stores the smaller<br>
+      half of the data and the min heap stores the larger half. The program<br>
+      inserts the next element into the appropriate heap based on its value,<br>
+      and rebalances the heaps as necessary to maintain the constraints.<br>
+      The getMedian method returns the median of all the data inserted. If<br>
+      the number of elements is even, it returns the average of the max<br>
+      from the max heap and the min from the min heap. If the number of<br>
+      elements is odd, it returns the max from the max heap.
     </td>
     <td>
       <ul>
-        <li></li>
+        <li>Priority queues</li>
+        <li>Heaps</li>
+        <li>Comparator</li>
+        <li>Rebalancing</li>
       </ul>
     </td>
   </tr>
