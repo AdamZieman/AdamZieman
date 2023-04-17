@@ -382,11 +382,11 @@
   </tr>
   <tr>
     <td>
-      Carbon Footprint
+      Carbon<br>Footprint
     </td>
     <td>
 <!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
-      
+      description
     </td>
     <td>
       <ul>
@@ -396,7 +396,7 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/AdamZieman/CPP_BankAccount">Bank Account</a>
+      <a href="https://github.com/AdamZieman/CPP_BankAccount">Bank<br>Account</a>
     </td>
     <td>
 <!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
@@ -429,7 +429,6 @@
     </td>
     <td>
       <ul>
-        <li>Object-oriented programming</li>
         <li>Operator overloading</li>
         <li>Header file (.h)</li>
         <li>String manipulation</li>
