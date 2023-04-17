@@ -1,5 +1,6 @@
 <!-- WARNING MESSAGE! -->
-<i>Repositories for all projects, and skills demonstrated per project will be added no later then April 16</i>
+<i>WARNING: This page will be completed by Sunday, April 23.</i>
+<i>Content being added in the order of Java, C++, Python, then Linux</i>
 
 <!-- Header -->
 <h1>Hi, I'm Adam!</h1>
