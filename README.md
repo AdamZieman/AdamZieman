@@ -412,7 +412,7 @@
         <li>Inheritance / polymorphism</li>
         <li>Encapsulation</li>
         <li>Virtual classes</li>
-        <li>Memory management with destructor</li>
+        <li>Memory management<br>(using destructor)</li>
       </ul>
     </td>
   </tr>
