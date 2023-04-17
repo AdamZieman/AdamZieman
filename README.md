@@ -117,7 +117,7 @@
     </td>
   </tr>
   <tr>
-    <td>Generic Sorter</td>
+    <td><a href="https://github.com/AdamZieman/Generic_ReverseOrderSorter">Generic Sorter</a></td>
     <td>
       Sorts an array of either strings or numbers, in <br> decending order.
     </td>
