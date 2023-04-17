@@ -185,7 +185,9 @@
     </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/AdamZieman/JavaRecursion">Recursion</a></td>
+    <td>
+      <a href="https://github.com/AdamZieman/JavaRecursion">Recursion</a>
+    </td>
     <td>
 <!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
       This program demonstrates the programmer's knowledge of recursion<br>
@@ -213,7 +215,10 @@
     </td>
   </tr>
   <tr>
-    <td>Read and Write</td>
+    
+    <td>
+      <a href="https://github.com/AdamZieman/Java_ReaderWriter">Read and Write</a>
+    </td>
     <td>
       Uses scanner to read text from a source, and<br>PrintScanner to write text to a file.
     </td>
