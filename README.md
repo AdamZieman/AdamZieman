@@ -297,13 +297,19 @@
     </td>
   </tr>
   <tr>
-    <td>1D Array</td>
     <td>
-      Analyzes an fixed or user input array of integers.
+      <a href="https://github.com/AdamZieman/Java_1DArray">Rock-Paper-<br>1D Array</a>
+    </td>
+    <td>
+<!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
+      This class processes integer arrays: input custom/test array, find<br>
+      lowest/second lowest values, build block array, eliminate duplicates.
     </td>
     <td>
       <ul>
-        <li></li>
+        <li>Arrays</li>
+        <li>Input/Output</li>
+        <li>Formatted output</li>
       </ul>
     </td>
   </tr>
