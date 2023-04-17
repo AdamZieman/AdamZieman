@@ -84,13 +84,25 @@
     <th>Concepts</th>
   </tr>
   <tr>
-    <td>2D Search Tree</td>
     <td>
-      Sorts a 2D Node of coordinate points into a binary<br>search tree, alternating between x- and y-<br>coordniates being sorted at each level.
+      <a href="https://github.com/AdamZieman/2DSearchTree">2D Search Tree</a>
+    </td>
+    <td>
+<!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
+      TwoDTree is a data structure used for storing 2D points that allows<br>
+      for efficient range search queries. The tree is built by recursively<br>
+      partitioning the plane into smaller rectangles, and each node<br>
+      compares points by x or y value depending on the level of the tree.<br>
+      Searches for points within a given range are done by recursively<br>
+      traversing the tree and only exploring subtrees that might contain<br>
+      points in the range.
     </td>
     <td>
       <ul>
-        <li></li>
+        <li>Binary search tree</li>
+        <li>Design/implement 2D tree</li>
+        <li>Traverse binary search tree</li>
+        <li>2D Comparator</li>
       </ul>
     </td>
   </tr>
