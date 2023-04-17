@@ -386,11 +386,16 @@
     </td>
     <td>
 <!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
-      description
+      This C++ program defines three classes: Car, Building, and Bicycle<br>
+      that inherit from an abstract class CarbonFootprint, which calculates<br>
+      and prints an object's carbon footprint. The main function creates<br>
+      objects of each class and calls the getCarbonFootprint method.
     </td>
     <td>
       <ul>
-        <li></li>
+        <li>Interfaces</li>
+        <li>Abstract classes</li>
+        <li>Virtual functions</li>
       </ul>
     </td>
   </tr>
