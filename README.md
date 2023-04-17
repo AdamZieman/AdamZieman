@@ -275,13 +275,19 @@
     </td>
   </tr>
   <tr>
-    <td>TimeClock</td>
     <td>
-      Manipulates a clock object.
+      <a href="https://github.com/AdamZieman/Java_TimeClock">TimeClock</a>
+    </td>
+    <td>
+<!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
+      The TimeClock class tracks time in hours, minutes, and seconds with<br>
+      methods for object creation, comparison, and formatted output.<br>
+      Validated user inputs.
     </td>
     <td>
       <ul>
-        <li></li>
+        <li>Object-oriented programming</li>
+        <li>Instance variables</li>
       </ul>
     </td>
   </tr>
