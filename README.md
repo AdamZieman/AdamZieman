@@ -224,7 +224,8 @@
   <tr>
     <td>Shapes</td>
     <td>
-      Creates shape objects using inheritence and<br>polymorphism.
+<!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
+      Creates shape objects using inheritence and polymorphism.
     </td>
     <td>
       <ul>
@@ -238,7 +239,9 @@
       <a href="https://github.com/AdamZieman/Java_ReaderWriter">Read and Write</a>
     </td>
     <td>
-      Uses scanner to read text from a source, and<br>PrintScanner to write text to a file.
+<!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
+      Uses scanner to read text from a source, and< PrintScanner to write<br>
+      text to a file.
     </td>
     <td>
       <ul>
@@ -261,7 +264,9 @@
   <tr>
     <td>Stack of Boxes</td>
     <td>
-      Condences a given amount of box objects by placing<br>smaller boxes into larger boxes, where possible.
+<!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
+      Condences a given amount of box objects by placing smaller boxes into<br>
+      larger boxes, where possible.
     </td>
     <td>
       <ul>
