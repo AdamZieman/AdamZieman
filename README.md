@@ -382,21 +382,15 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/AdamZieman/CPP_CarbonFootprint">Carbon Footprint</a>
+      Carbon Footprint
     </td>
     <td>
 <!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
-      This project defines a RationalNumber class with basic arithmetic<br>
-      operators (+, -, *, /) and comparison operators (==, !=), and a<br>
-      toString method. It also includes a main function to test the<br>
-      implementation.
+      
     </td>
     <td>
       <ul>
-        <li>Object-oriented programming</li>
-        <li>Operator overloading</li>
-        <li>Header file (.h)</li>
-        <li>String manipulation</li>
+        <li></li>
       </ul>
     </td>
   </tr>
@@ -423,14 +417,22 @@
     </td>
   </tr>
   <tr>
-    <td>Rational Class</td>
     <td>
-      Overload arithmetic and equality operators to perform<br>
-      actions on rational numbers.
+      <a href="https://github.com/AdamZieman/CPP_RationalNumbers">Rational Numbers</a>
+    </td>
+    <td>
+<!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
+      This project defines a RationalNumber class with basic arithmetic<br>
+      operators (+, -, *, /) and comparison operators (==, !=), and a<br>
+      toString method. It also includes a main function to test the<br>
+      implementation.
     </td>
     <td>
       <ul>
-        <li></li>
+        <li>Object-oriented programming</li>
+        <li>Operator overloading</li>
+        <li>Header file (.h)</li>
+        <li>String manipulation</li>
       </ul>
     </td>
   </tr>
