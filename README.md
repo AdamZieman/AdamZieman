@@ -298,7 +298,7 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/AdamZieman/Java_1DArray">Rock-Paper-<br>1D Array</a>
+      <a href="https://github.com/AdamZieman/Java_1DArray">1D Array</a>
     </td>
     <td>
 <!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
