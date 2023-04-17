@@ -180,7 +180,7 @@
   <tr>
     <th>Project</th>
     <th>Brief Description</th>
-    <th>Skills</th>
+    <th>Concepts</th>
   </tr>
   <tr>
     <td>
@@ -251,7 +251,7 @@
   <tr>
     <th>Project</th>
     <th>Brief Description</th>
-    <th>Skills</th>
+    <th>Concepts</th>
   </tr>
   <tr>
     <td>Stack of Boxes</td>
@@ -341,7 +341,7 @@
   <tr>
     <th>Project</th>
     <th>Brief Description</th>
-    <th>Skills</th>
+    <th>Concepts</th>
   </tr>
   <tr>
     <td>Carbon Footprint</td>
@@ -392,7 +392,7 @@
   <tr>
     <th>Project</th>
     <th>Brief Description</th>
-    <th>Skills</th>
+    <th>Concepts</th>
   </tr>
   <tr>
     <td>Card Class</td>
@@ -447,7 +447,7 @@
   <tr>
     <th>Project</th>
     <th>Breif Description</th>
-    <th>Skills</th>
+    <th>Concepts</th>
   </tr>
   <tr>
     <td>Cake Shop</td>
@@ -562,7 +562,7 @@
   <tr>
     <th>Project</th>
     <th>Brief Description</th>
-    <th>Skills</th>
+    <th>Concepts</th>
   </tr>
   <tr>
     <td></td>
@@ -582,7 +582,7 @@
   <tr>
     <th>Project</th>
     <th>Brief Description</th>
-    <th>Skills</th>
+    <th>Concepts</th>
   </tr>
   <tr>
     <td></td>
@@ -602,7 +602,7 @@
   <tr>
     <th>Project</th>
     <th>Brief Description</th>
-    <th>Skills</th>
+    <th>Concepts</th>
   </tr>
   <tr>
     <td></td>
