@@ -106,13 +106,21 @@
     </td>
   </tr>
   <tr>
-    <td>Optimized<br>Seach</td>
     <td>
-      Searches an unordered list of unique integers, of<br>varying sizes to determine its median and calculates<br>the search time.
+      <a href="https://github.com/AdamZieman/Java_FindMedianUnsortedArray">Find Median of<br>Unsorted Array<br><i>(optimized)</i></a>
+    </td>
+    <td>
+<!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
+      The code defines a class called FindMedian that optimizes the search<br>
+      of the median element of an unsorted array. The driver class,<br>
+      FindMedianTest generates random integer arrays of increasing sizes<br>
+      and prints their median and time taken to search the array.
     </td>
     <td>
       <ul>
-        <li></li>
+        <li>Algorithm design</li>
+        <li>Recursion</li>
+        <li>Array manipulation</li>
       </ul>
     </td>
   </tr>
