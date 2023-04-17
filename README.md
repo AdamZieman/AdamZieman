@@ -121,11 +121,19 @@
       <a href="https://github.com/AdamZieman/Generic_ReverseOrderSorter">Generic Sorter</a>
     </td>
     <td>
-      Sorts an array of either strings or numbers, in <br> decending order.
+<!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
+      The code defines a generic class called MyIterable that implements<br>
+      Iterable interface to iterate over a sorted list of elements. The<br>
+      driver class, MyIterableTester, reads input from a file and prints<br>
+      sorted arrays of Strings, Integers, and Doubles using the MyIterable<br>
+      class.
     </td>
     <td>
       <ul>
-        <li></li>
+        <li>Generic programming</li>
+        <li>Implementing interfaces</li>
+        <li>Exception Handling</li>
+        <li>Lists and Collections</li>
       </ul>
     </td>
   </tr>
