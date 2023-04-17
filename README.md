@@ -418,7 +418,7 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/AdamZieman/CPP_RationalNumbers">Rational Numbers</a>
+      <a href="https://github.com/AdamZieman/CPP_RationalNumbers">Rational<br>Numbers</a>
     </td>
     <td>
 <!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
