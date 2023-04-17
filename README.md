@@ -107,7 +107,9 @@
     </td>
   </tr>
   <tr>
-    <td>Heap Median</td>
+    <td>
+      <a href="https://github.com/AdamZieman/Java_HeapMedian">Find Median of<br>Heap</a>
+    </td>
     <td>
       Create a heap of integers, then determine the median.
     </td>
