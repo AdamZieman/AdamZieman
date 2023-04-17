@@ -184,10 +184,15 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/AdamZieman/Synonyms">Synonyms</a>
+      <a href="https://github.com/AdamZieman/Java_Synonyms">Synonyms</a>
     </td>
     <td>
-      Determines the closest synonym of a word from a list of<br>words.
+<!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
+      The Synonyms class finds synonyms for a given word by analyzing the<br>
+      frequency of occurrences of each word in a corpus of text files using<br>
+      cosine similarity between frequency vectors. It stores the descriptor<br>
+      vectors for each word in a HashMap and calculates the cosine<br>
+      similarity between two words using their respective frequency maps.
     </td>
     <td>
       <ul>
