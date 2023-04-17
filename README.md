@@ -396,7 +396,7 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/AdamZieman/CPP_BankAccount">Bank<br>Account</a>
+      <a href="https://github.com/AdamZieman/CPP_BankAccount">Bank Account</a>
     </td>
     <td>
 <!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
