@@ -99,10 +99,9 @@
     </td>
     <td>
       <ul>
-        <li>Binary search tree</li>
         <li>Design/implement 2D tree</li>
         <li>Traverse binary search tree</li>
-        <li>2D Comparator</li>
+        <li>Comparator</li>
       </ul>
     </td>
   </tr>
