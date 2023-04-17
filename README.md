@@ -407,8 +407,8 @@
     <td>
 <!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
       This C++ project contains three classes that define different types<br>
-      of bank accounts: <b>'Account'</b>, <b>'SavingsAccount'</b>, and <b>'CheckingAccount'</b>. It<br>
-      includes methods for crediting and debiting accounts, calculating<br>
+      of bank accounts: <b>'Account'</b>, <b>'SavingsAccount'</b>, and <b>'CheckingAccount'</b>.<br>
+      It includes methods for crediting and debiting accounts, calculating<br>
       interest, and applying transaction fees. The main function<br>
       demonstrates the usage of these classes by creating and manipulating<br>
       instances of each.
