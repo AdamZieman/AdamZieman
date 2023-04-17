@@ -86,7 +86,7 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/AdamZieman/2DSearchTree">2D Search Tree</a>
+      <a href="https://github.com/AdamZieman/Java_2DSearchTree">2D Search Tree</a>
     </td>
     <td>
 <!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
@@ -152,7 +152,7 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/AdamZieman/Generic_ReverseOrderSorter">Generic Sorter</a>
+      <a href="https://github.com/AdamZieman/Java_GenericReverseOrderSorter">Generic Sorter</a>
     </td>
     <td>
 <!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
@@ -205,7 +205,7 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/AdamZieman/JavaRecursion">Recursion</a>
+      <a href="https://github.com/AdamZieman/Java_Recursion">Recursion</a>
     </td>
     <td>
 <!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
@@ -303,7 +303,7 @@
     </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/AdamZieman/RockPaperScissors_HalloweenEdition">Rock-Paper-<br>Scissors<br>(Halloween<br>Edition)</a></td>
+    <td><a href="https://github.com/AdamZieman/Java_RockPaperScissors_HalloweenEdition">Rock-Paper-<br>Scissors<br>(Halloween<br>Edition)</a></td>
     <td>
 <!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
       This is a two-player game called the "Boulder, Scroll, Knife, Witch's<br>
