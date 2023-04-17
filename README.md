@@ -286,13 +286,19 @@
     </td>
   </tr>
   <tr>
-    <td>2D Array</td>
     <td>
-      Analyzes and manipulates a fixed 2D array of integers.
+      <a href="https://github.com/AdamZieman/Java_2DArray">2D Array</a>
+    </td>
+    <td>
+<!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
+      Java program manipulates a 2D array with methods for multiplication,<br>
+      negating odd numbers, flattening, reversing, reshaping, and rotating.<br>
+      User inputs num for multiplication.
     </td>
     <td>
       <ul>
-        <li></li>
+        <li>2D Arrays</li>
+        <li>Input/Formatted output</li>
       </ul>
     </td>
   </tr>
@@ -308,8 +314,7 @@
     <td>
       <ul>
         <li>Arrays</li>
-        <li>Input/Output</li>
-        <li>Formatted output</li>
+        <li>Input/Formatted output</li>
       </ul>
     </td>
   </tr>
