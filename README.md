@@ -82,7 +82,7 @@
 <h4>Course: Data Structures and Algorithm Design</h4>
 <table>
   <tr>
-    <th>Project</th>
+    <th>----Project----</th>
     <th>Brief Description</th>
     <th>Concepts</th>
   </tr>
@@ -180,7 +180,7 @@
 <h4>Course: Computer Science 2</h4>
 <table>
   <tr>
-    <th>Project</th>
+    <th>----Project----</th>
     <th>Brief Description</th>
     <th>Concepts</th>
   </tr>
@@ -246,7 +246,7 @@
 <h4>Course: Computer Science 1</h4>
 <table>
   <tr>
-    <th>Project</th>
+    <th>----Project----</th>
     <th>Brief Description</th>
     <th>Concepts</th>
   </tr>
@@ -352,7 +352,7 @@
 <h4>Course: Programming Languages</h4>
 <table>
   <tr>
-    <th>Project</th>
+    <th>----Project----</th>
     <th>Brief Description</th>
     <th>Concepts</th>
   </tr>
@@ -428,7 +428,7 @@
 <h4>Course: Programming Languages</h4>
 <table>
   <tr>
-    <th>Project</th>
+    <th>----Project----</th>
     <th>Brief Description</th>
     <th>Concepts</th>
   </tr>
@@ -507,13 +507,13 @@
 <h4>Course: Introduction to Programming</h4>
 <table>
   <tr>
-    <th>Project</th>
+    <th>----Project----</th>
     <th>Breif Description</th>
     <th>Concepts</th>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/AdamZieman/Python_CupcakeCoffeeOrdering">Cupcake and<br>Coffee Ordering<br>System</a>
+      <a href="https://github.com/AdamZieman/Python_CupcakeCoffeeOrdering">Cupcake and<br>Coffee<br>Ordering<br>System</a>
     </td>
     <td>
 <!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
@@ -546,7 +546,7 @@
     </td>
   </tr>
   <tr>
-    <td>String Analyzer</td>
+    <td>String<br>Analyzer</td>
     <td>
       The user inputs words with specific requirements and<br>
       each string is analyzed for different criteria.
@@ -558,7 +558,7 @@
     </td>
   </tr>
   <tr>
-    <td>Interactive Drawing</td>
+    <td>Interactive<br>Drawing</td>
     <td>
       User input the location and size of a square object<br>
       in a graphic window, and how many stripes to fill<br>
@@ -588,7 +588,7 @@
     </td>
   </tr>
   <tr>
-    <td>GraphicDrawing</td>
+    <td>Graphic<br>Drawing</td>
     <td>
       Creates a movie theater sign drawing using shape objects.
     </td>
