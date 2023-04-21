@@ -18,11 +18,11 @@
   <tr><td><a href="#CertificationLink">Certifications</a></td></tr>
   <tr><td><a href="#LinkedInLearningLink">LinkedIn Learning Courses</a>
     <i>(11 courses completed)</i></td></tr>
-  <tr><td><a href="#JavaLink">Java Project Portfolio</a>
+  <tr><td><a href="#JavaLink">Java Portfolio</a>
     <i>(12 projects)</i></td></tr>
-  <tr><td><a href="#C++Link">C++ Project Portfolio</a>
+  <tr><td><a href="#C++Link">C++ Portfolio</a>
     <i>(3 projects)</i></td></tr>
-  <tr><td><a href="#PythonLink">Python Project Portfolio</a>
+  <tr><td><a href="#PythonLink">Python Portfolio</a>
     <i>(12 projects)</i></td></tr>
   <tr><td><a href="#LinuxLink">Linux Portfolio</a></td></tr>
   <tr><td><a href="#ConnectLink">Connect With Me</a></td></tr>
