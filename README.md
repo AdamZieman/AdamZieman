@@ -510,14 +510,21 @@
     <th>Concepts</th>
   </tr>
   <tr>
-    <td>Cake Shop</td>
     <td>
-      Prints a reciept with ASCII Art for the amount of cupcakes<br>
-      and coffee a user inputs.
+      <a href="https://github.com/AdamZieman/Python_CupcakeCoffeeOrdering">Cupcake and Coffee<br>Ordering System</a>
+    </td>
+    <td>
+<!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
+      Serves as a simple ordering system for a cupcake shop. The user can<br>
+      order up to 3 cupcakes and 6 cups of coffee, and the program<br>
+      calculates the total cost of the order, including sales tax, and<br>
+      prints ASCII art images of coffee cups and cupcakes.
     </td>
     <td>
       <ul>
-        <li></li>
+        <li>Functions</li>
+        <li>Control structures</li>
+        <li>Input / output</li>
       </ul>
     </td>
   </tr>
