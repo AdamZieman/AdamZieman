@@ -435,12 +435,16 @@
       <a href="https://github.com/AdamZieman/Python_CardClass">Card Class</a>
     </td>
     <td>
-      Prints a user defined amount of random playing card<br>
-      objects.
+<!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
+      Creates a Card object with a rank and suit, provides methods to get<br>
+      rank, suit, and blackjack value. It can also return a string<br>
+      representation of itself.
     </td>
     <td>
       <ul>
-        <li></li>
+        <li>Object-Oriented Programming</li>
+        <li>Dictionaries as switch statments</li>
+        <li>String formatting</li>
       </ul>
     </td>
   </tr>
@@ -449,11 +453,16 @@
       <a href="https://github.com/AdamZieman/Python_SyracuseSequence">Syracuse<br>Sequence</a>
     </td>
     <td>
-      Calculates the syracuse sequence from a user input.
+<!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
+      Computes and prints the Syracuse sequence for a given starting value,<br>
+      following the rules of the Syracuse function, and stores it in an<br>
+      array.
     </td>
     <td>
       <ul>
-        <li></li>
+        <li>Arrays</li>
+        <li>Loops</li>
+        <li>Input / Output</li>
       </ul>
     </td>
   </tr>
@@ -462,11 +471,15 @@
       <a href="https://github.com/AdamZieman/Python_BodyMassIndex">Body Mass<br>Index<br>Calculator</a>
     </td>
     <td>
-      Calculates a BMI from user input.
+<!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
+      Calculates the body mass index based on the user's weight and height<br>
+      in pounds and inches. It then outputs a message reflecting whether<br>
+      the BMI is above, within, or below the healthy range. 
     </td>
     <td>
       <ul>
-        <li></li>
+        <li>Control Structures</li>
+        <li>Data type conversion</li>
       </ul>
     </td>
   </tr>
@@ -475,11 +488,14 @@
       <a href="https://github.com/AdamZieman/Python_AcronymBuilder">Acronym<br>Builder</a>
     </td>
     <td>
-      Creates an acronym from a user input word.
+<!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
+      Converts a user-entered phrase into an acronym.
     </td>
     <td>
       <ul>
-        <li></li>
+        <li>String manipulation</li>
+        <li>Loops</li>
+        <li>Input / Output</li>
       </ul>
     </td>
   </tr>
