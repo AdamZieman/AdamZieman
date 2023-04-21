@@ -54,6 +54,7 @@
 - General Knowledge
   - [Software Design: Modeling with UML](https://www.linkedin.com/learning/certificates/a2024c721bbe2943bb2f43f7d607d363897d2c808608cb35c0d454212a456e5e) | Completed: April 16, 2023
   - [Git Essential Training: The Basics](https://www.linkedin.com/learning/certificates/e0d2fe399ca9084cb7bb979d609108af409cb0f56a484049b2d675e4b342eb68) | Completed: February 18, 2023
+  - [Agile Foundations]() | Completed: April 20, 2023
 - Java
   - [Java: Testing with JUnit](https://www.linkedin.com/learning/certificates/4e9dd22d6d0a0ad8196914514e159292d03f98776a6940bce9e6932096eff7ff?trk=share_certificate) | Completed: February 12, 2023
 - C++
