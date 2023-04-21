@@ -529,7 +529,7 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/AdamZieman/Python_VolumeConverter">Volume Converter</a>
+      <a href="https://github.com/AdamZieman/Python_VolumeConverter">Volume<br>Converter</a>
     </td>
     <td>
 <!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
