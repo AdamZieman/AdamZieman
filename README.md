@@ -670,25 +670,6 @@
   </tr>
 </table>
 
-<!-- UNIX Concepts and Tools -->
-<h4>Course: UNIX Concepts and Tools</h4>
-<table>
-  <tr>
-    <th>Project</th>
-    <th>Brief Description</th>
-    <th>Concepts</th>
-  </tr>
-  <tr>
-    <td></td>
-    <td>
-    </td>
-    <td>
-      <ul>
-        <li></li>
-      </ul>
-    </td>
-  </tr>
-</table>
 <br>
 
 <!-- Important Links -->
