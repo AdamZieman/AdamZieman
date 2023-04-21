@@ -222,19 +222,6 @@
     </td>
   </tr>
   <tr>
-    <td>Shapes</td>
-    <td>
-<!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
-      Creates shape objects using inheritence and polymorphism.
-    </td>
-    <td>
-      <ul>
-        <li>Polymorphism / Inheritence</li>
-        <li>JavaFX GUI</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
     <td>
       <a href="https://github.com/AdamZieman/Java_ReaderWriter">Read and Write</a>
     </td>
@@ -260,19 +247,6 @@
     <th>Project</th>
     <th>Brief Description</th>
     <th>Concepts</th>
-  </tr>
-  <tr>
-    <td>Stack of Boxes</td>
-    <td>
-<!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
-      Condences a given amount of box objects by placing smaller boxes into<br>
-      larger boxes, where possible.
-    </td>
-    <td>
-      <ul>
-        <li></li>
-      </ul>
-    </td>
   </tr>
   <tr>
     <td>
