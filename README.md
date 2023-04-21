@@ -82,7 +82,7 @@
 <h4>Course: Data Structures and Algorithm Design</h4>
 <table>
   <tr>
-    <th>----Project----</th>
+    <th>Project</th>
     <th>Brief Description</th>
     <th>Concepts</th>
   </tr>
@@ -180,7 +180,7 @@
 <h4>Course: Computer Science 2</h4>
 <table>
   <tr>
-    <th>----Project----</th>
+    <th>Project</th>
     <th>Brief Description</th>
     <th>Concepts</th>
   </tr>
@@ -246,7 +246,7 @@
 <h4>Course: Computer Science 1</h4>
 <table>
   <tr>
-    <th>----Project----</th>
+    <th>Project</th>
     <th>Brief Description</th>
     <th>Concepts</th>
   </tr>
@@ -352,7 +352,7 @@
 <h4>Course: Programming Languages</h4>
 <table>
   <tr>
-    <th>----Project----</th>
+    <th>Project</th>
     <th>Brief Description</th>
     <th>Concepts</th>
   </tr>
@@ -428,7 +428,7 @@
 <h4>Course: Programming Languages</h4>
 <table>
   <tr>
-    <th>----Project----</th>
+    <th>Project</th>
     <th>Brief Description</th>
     <th>Concepts</th>
   </tr>
@@ -507,7 +507,7 @@
 <h4>Course: Introduction to Programming</h4>
 <table>
   <tr>
-    <th>----Project----</th>
+    <th>Project</th>
     <th>Breif Description</th>
     <th>Concepts</th>
   </tr>
