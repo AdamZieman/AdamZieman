@@ -533,7 +533,7 @@
     </td>
     <td>
 <!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
-      converts volume measurements in ounces to gallons and ounces and<br>
+      Converts volume measurements in ounces to gallons and ounces and<br>
       prints the result with appropriate pluralization and formatting.
     </td>
     <td>
