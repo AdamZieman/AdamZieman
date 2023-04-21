@@ -511,7 +511,7 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/AdamZieman/Python_CupcakeCoffeeOrdering">Cupcake and Coffee<br>Ordering System</a>
+      <a href="https://github.com/AdamZieman/Python_CupcakeCoffeeOrdering">Cupcake and<br>Coffee Ordering<br>System</a>
     </td>
     <td>
 <!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
