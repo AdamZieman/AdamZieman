@@ -515,10 +515,9 @@
     </td>
     <td>
 <!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
-      Serves as a simple ordering system for a cupcake shop. The user can<br>
-      order up to 3 cupcakes and 6 cups of coffee, and the program<br>
-      calculates the total cost of the order, including sales tax, and<br>
-      prints ASCII art images of coffee cups and cupcakes.
+      Serves as a simple ordering system for a cupcake shop. The program<br>
+      calculates the total cost of the order, andprints ASCII art images of<br>
+      the amount of coffee cups and cupcakes ordered.
     </td>
     <td>
       <ul>
