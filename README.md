@@ -6,7 +6,7 @@
 
 
 <!-- Brief Introduction -->
-<p>I am enrolled at the University of Wisconsin-Parkside, pursuing a Bachelor's of Science in Computer Science. It is my goal to one day work as a software engineer /  developer. I am proficient with Java, C++, Python, and Linux OS / Shell Scripting, and I have an fairly good grasp of React, C, and Go</p>
+<p>I am enrolled at the University of Wisconsin-Parkside, pursuing a Bachelor's of Science in Computer Science. It is my goal to one day work as a software engineer /  developer. I am proficient with Java, C++, Python, and Linux OS / Shell Scripting, and basic skills in of C, C#, React, and GoLang</p>
 
 
 <!-- Table of Contents -->
