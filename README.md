@@ -15,9 +15,9 @@
   <tr><td><a href="#EducationLink">Education</a></td></tr>
   <tr><td><a href="#CertificationLink">Certifications</a></td></tr>
   <tr><td><a href="#LinkedInLearningLink">LinkedIn Learning Courses</a>
-    <i>(10 courses completed)</i></td></tr>
+    <i>(11 courses completed)</i></td></tr>
   <tr><td><a href="#JavaLink">Java Project Portfolio</a>
-    <i>(14 projects)</i></td></tr>
+    <i>(12 projects)</i></td></tr>
   <tr><td><a href="#C++Link">C++ Project Portfolio</a>
     <i>(3 projects)</i></td></tr>
   <tr><td><a href="#PythonLink">Python Project Portfolio</a>
