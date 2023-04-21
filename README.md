@@ -1,5 +1,7 @@
 <!-- WARNING MESSAGE! -->
-<i>WARNING: This page will be completed by Sunday, April 23.</i>
+<i>WARNING!</i>
+  - <i>All repositories for my programs/scripts will be created and hyperlinked from this readme, and an updated brief description with key concepts demonstrated will be completed for this readme page by Sunday, April 23rd</i>
+  - <i>readme files for each project repository has not yet been completed. Planning to complete this ASAP to include, a thourough description, and output screenshots</i>
 
 <!-- Header -->
 <h1>Hi, I'm Adam!</h1>
