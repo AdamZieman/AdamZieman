@@ -472,7 +472,7 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/AdamZieman/Python_AcronymBuilder">Acronym Builder</a>
+      <a href="https://github.com/AdamZieman/Python_AcronymBuilder">Acronym<br>Builder</a>
     </td>
     <td>
       Creates an acronym from a user input word.
