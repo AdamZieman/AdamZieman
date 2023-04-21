@@ -431,7 +431,9 @@
     <th>Concepts</th>
   </tr>
   <tr>
-    <td>Card Class</td>
+    <td>
+      <a href="https://github.com/AdamZieman/Python_CardClass">Card Class</a>
+    </td>
     <td>
       Prints a user defined amount of random playing card<br>
       objects.
@@ -443,7 +445,9 @@
     </td>
   </tr>
   <tr>
-    <td>Syracuse Sequence</td>
+    <td>
+      <a href="https://github.com/AdamZieman/Python_SyracuseSequence">Syracuse<br>Sequence</a>
+    </td>
     <td>
       Calculates the syracuse sequence from a user input.
     </td>
@@ -454,7 +458,9 @@
     </td>
   </tr>
   <tr>
-    <td>BMI Calculator</td>
+    <td>
+      <a href="https://github.com/AdamZieman/Python_BodyMassIndex">Body Mass<br>Index<br>Calculator</a>
+    </td>
     <td>
       Calculates a BMI from user input.
     </td>
@@ -465,7 +471,9 @@
     </td>
   </tr>
   <tr>
-    <td>Acronym Builder</td>
+    <td>
+      <a href="https://github.com/AdamZieman/Python_AcronymBuilder">Acronym Builder</a>
+    </td>
     <td>
       Creates an acronym from a user input word.
     </td>
