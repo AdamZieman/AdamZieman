@@ -528,14 +528,18 @@
     </td>
   </tr>
   <tr>
-    <td>Gallons and Ounces</td>
     <td>
-      Returns how many full gallons and/or ounces are within<br>
-      various defined ounces or gallons.
+      <a href="https://github.com/AdamZieman/Python_VolumeConverter">Volume Converter</a>
+    </td>
+    <td>
+<!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
+      converts volume measurements in ounces to gallons and ounces and<br>
+      prints the result with appropriate pluralization and formatting.
     </td>
     <td>
       <ul>
-        <li></li>
+        <li>Conditional statements</li>
+        <li>Iteration</li>
       </ul>
     </td>
   </tr>
