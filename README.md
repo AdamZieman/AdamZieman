@@ -600,13 +600,23 @@
     </td>
   </tr>
   <tr>
-    <td>Graphic<br>Drawing</td>
     <td>
-      Creates a movie theater sign drawing using shape objects.
+      <a href="https://github.com/AdamZieman/Python_SimpleDrawing">Graphic<br>Drawing</a>
+    </td>
+    <td>
+<!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
+      Using the graphics module, draws a picture of a movie theather sign<br>
+      promoting their new debut, consisting of a large red rectangle with<br>
+      yellow ovals representing lights, an area for text, and a popcorn<br>
+      container.
     </td>
     <td>
       <ul>
-        <li></li>
+        <li>Graphics library</li>
+        <ul>
+          <li>Shapes</li>
+          <li>Colors</li>
+        </ul>
       </ul>
     </td>
   </tr>
