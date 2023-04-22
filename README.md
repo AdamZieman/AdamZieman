@@ -611,13 +611,18 @@
     </td>
   </tr>
   <tr>
-    <td>Loop Practice</td>
     <td>
-      Demonstrates various loops for various situations.
+      <a href="https://github.com/AdamZieman/Python_LoopPractice">Loop<br>Practice</a> 
+    </td>
+    <td>
+<!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
+      Demonstrates knowledge of iteration through four examples, including<br>
+      printing text, looping through a list, taking user input, and<br>
+      arithmetic operations in a loop.
     </td>
     <td>
       <ul>
-        <li></li>
+        <li>Iteration</li>
       </ul>
     </td>
   </tr>
