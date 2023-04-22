@@ -46,6 +46,7 @@
 <h3>University of Wisconsin-Parkside</h3>
 
 - [UNIX System Administration certificate](https://www.uwp.edu/learn/programs/unixsystemadmin.cfm) | Issued: May 17, 2023
+- [Cyber Security certificate](https://www.uwp.edu/learn/programs/cybersecurity.cfm) | Issued: TBD
 
 <br>
 
