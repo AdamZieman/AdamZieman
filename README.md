@@ -563,16 +563,20 @@
     </td>
   </tr>
   <tr>
-    <td>Interactive<br>Drawing</td>
     <td>
-      User input the location and size of a square object<br>
-      in a graphic window, and how many stripes to fill<br>
-      the square.<br>The square is filled with the<br>
-      horizontal strips of random colors.
+      <a href="https://github.com/AdamZieman/Python_InteractiveDrawing">Interactive<br>Drawing</a> 
+    </td>
+    <td>
+<!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
+      Generate a square with random colored stripes of a user-defined
+      center-location, size, and number of stripes in a graphical window.
     </td>
     <td>
       <ul>
-        <li></li>
+        <li>GUI Programming</li>
+        <li>Text fields</li>
+        <li>Mouse events</li>
+        <li>Itarative drawing</li>
       </ul>
     </td>
   </tr>
