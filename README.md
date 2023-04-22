@@ -548,12 +548,15 @@
   <tr>
     <td>String<br>Analyzer</td>
     <td>
-      The user inputs words with specific requirements and<br>
-      each string is analyzed for different criteria.
+<!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
+      Prompts the user for inputs, manipulates strings, and prints results.<br>
+      It performs string slicing, counting, splitting, and replacing<br>
+      operations.
     </td>
     <td>
       <ul>
-        <li></li>
+        <li>String manipulations</li>
+        <li>List manipulation</li>
       </ul>
     </td>
   </tr>
