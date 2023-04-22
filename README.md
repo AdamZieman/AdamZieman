@@ -622,14 +622,18 @@
     </td>
   </tr>
   <tr>
-    <td>Rug Calculator</td>
     <td>
-      Calculates an apropriate rug size and the cost for a<br>
-      user input room dimensions.
+      <a href="https://github.com/AdamZieman/Python_AreaRug">Area Rug<br>Calculator</a>
+    </td>
+    <td>
+<!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
+      Calculates the dimenstions and cost of an area rug for a given room<br>
+      size and predefined cost per square foot.
     </td>
     <td>
       <ul>
-        <li></li>
+        <li>Procedural Programming</li>
+        <li>Input / output</li>
       </ul>
     </td>
   </tr>
