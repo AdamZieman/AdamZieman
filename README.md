@@ -546,7 +546,9 @@
     </td>
   </tr>
   <tr>
-    <td>Word<br>Analyzer</td>
+    <td>
+      <a href="https://github.com/AdamZieman/Python_WordAnalyzer">Word<br>Analyzer</a>
+    </td>
     <td>
 <!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
       Prompts the user for inputs, manipulates strings, and prints results.<br>
