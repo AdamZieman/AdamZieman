@@ -568,7 +568,7 @@
     </td>
     <td>
 <!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
-      Generate a square with random colored stripes of a user-defined
+      Generate a square with random colored stripes of a user-defined<br>
       center-location, size, and number of stripes in a graphical window.
     </td>
     <td>
@@ -581,18 +581,21 @@
     </td>
   </tr>
   <tr>
-    <td>Loop Drawing</td>
     <td>
-      Creates a drawing of an anchor, sailboat, airplane, and<br>
-      traffic light from shape objects, printing several in a<br>
-      loop from either left-to-right, up-to-down, and diagnol.<br>
-      The user types how many circle objects they would like<br>
-      to create, then click on the graphic window to where<br>
-      they would like to add the circle objects.
+      <a href="https://github.com/AdamZieman/Python_LoopDrawing">Loop<br>Drawing</a> 
+    </td>
+    <td>
+<!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
+      Draws 3 sets of graphics in a window using a loop: anchors,<br>
+      airplanes, sailboats, and traffic lights. Then draws a user-defined<br>
+      amount of circles, at mouse specified locations.
     </td>
     <td>
       <ul>
-        <li></li>
+        <li>GUI Programming</li>
+        <li>Graphical objects</li>
+        <li>Coordinates</li>
+        <li>Iteration</li>
       </ul>
     </td>
   </tr>
