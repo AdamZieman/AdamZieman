@@ -546,7 +546,7 @@
     </td>
   </tr>
   <tr>
-    <td>String<br>Analyzer</td>
+    <td>Word<br>Analyzer</td>
     <td>
 <!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
       Prompts the user for inputs, manipulates strings, and prints results.<br>
