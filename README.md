@@ -23,7 +23,7 @@
     <i>(3 projects)</i></td></tr>
   <tr><td><a href="#PythonLink">Python Script Portfolio</a>
     <i>(12 projects)</i></td></tr>
-  <tr><td><a href="#LinuxLink">Linux Shell Script Portfolio</a></td></tr>
+  <tr><td><a href="#LinuxLink">Linux Shell Script / OS Projects Portfolio</a></td></tr>
   <tr><td><a href="#ConnectLink">Connect With Me</a></td></tr>
 </table>
 <br>
