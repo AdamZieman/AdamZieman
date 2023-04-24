@@ -45,6 +45,7 @@
 <h3>Python Institute</h3>
 
 - [PCEP - Certified Entry-Level Python Programmer (Version: PCEP-30-02)](https://pythoninstitute.org/pcep) | Issued: April 23, 2023
+- [PCAP - Certified Associate in Python Programming (Version: PCAP-31-03)](https://pythoninstitute.org/pcep) | Issued: TBD
 
 <h3>University of Wisconsin-Parkside</h3>
 
