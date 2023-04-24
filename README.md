@@ -13,7 +13,8 @@
 <table>
   <tr><th>Table of Contents</th></tr>
   <tr><td><a href="#EducationLink">Education</a></td></tr>
-  <tr><td><a href="#CertificationLink">Certifications</a></td></tr>
+  <tr><td><a href="#CertificationLink">Certifications</a>
+    <i>(2 completed, 2 working)</i></td></tr>
   <tr><td><a href="#LinkedInLearningLink">LinkedIn Learning Courses</a>
     <i>(11 courses completed)</i></td></tr>
   <tr><td><a href="#JavaLink">Java Program Portfolio</a>
