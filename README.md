@@ -1,6 +1,5 @@
 <!-- WARNING MESSAGE! -->
-<i>WARNING!</i>
-  - <i>readme files for each project repository has not yet been completed. Planning to complete this ASAP to include, a thourough description, and output screenshots</i>
+<i>WARNING! readme files for each project repository has not yet been completed. Planning to complete this ASAP to include, a thourough description, and output screenshots</i>
 
 <!-- Header -->
 <h1>Hi, I'm Adam!</h1>
