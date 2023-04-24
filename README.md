@@ -1,6 +1,5 @@
 <!-- WARNING MESSAGE! -->
 <i>WARNING!</i>
-  - <i>All repositories for my programs/scripts will be created and hyperlinked from this readme, and an updated brief description with key concepts demonstrated will be completed for this readme page by Sunday, April 23rd</i>
   - <i>readme files for each project repository has not yet been completed. Planning to complete this ASAP to include, a thourough description, and output screenshots</i>
 
 <!-- Header -->
@@ -18,13 +17,13 @@
   <tr><td><a href="#CertificationLink">Certifications</a></td></tr>
   <tr><td><a href="#LinkedInLearningLink">LinkedIn Learning Courses</a>
     <i>(11 courses completed)</i></td></tr>
-  <tr><td><a href="#JavaLink">Java Portfolio</a>
+  <tr><td><a href="#JavaLink">Java Program Portfolio</a>
     <i>(12 projects)</i></td></tr>
-  <tr><td><a href="#C++Link">C++ Portfolio</a>
+  <tr><td><a href="#C++Link">C++ Program Portfolio</a>
     <i>(3 projects)</i></td></tr>
-  <tr><td><a href="#PythonLink">Python Portfolio</a>
+  <tr><td><a href="#PythonLink">Python Script Portfolio</a>
     <i>(12 projects)</i></td></tr>
-  <tr><td><a href="#LinuxLink">Linux Portfolio</a></td></tr>
+  <tr><td><a href="#LinuxLink">Linux Shell Script Portfolio</a></td></tr>
   <tr><td><a href="#ConnectLink">Connect With Me</a></td></tr>
 </table>
 <br>
@@ -43,6 +42,10 @@
 
 <!-- List of Certificates -->
 <a id="CertificationLink"><h2>📜 Certificates:</h2></a>
+<h3>Python Institute</h3>
+
+- [PCEP - Certified Entry-Level Python Programmer (Version: PCEP-30-02)](https://pythoninstitute.org/pcep) | Issued: April 23, 2023
+
 <h3>University of Wisconsin-Parkside</h3>
 
 - [UNIX System Administration certificate](https://www.uwp.edu/learn/programs/unixsystemadmin.cfm) | Issued: May 17, 2023
@@ -76,7 +79,7 @@
 <h2>👨‍💻 Project Portfolio</h2>
 
 <!-- Java Programs -->
-<a id="JavaLink"><h2>Java</h2></a>
+<a id="JavaLink"><h2>Java Programs</h2></a>
 <h3>University of Wisconsin-Parkside Projects</h3>
 
 <!-- Data Structures and Algorithm Design projects -->
@@ -346,7 +349,7 @@
 
 
 <!-- C++ Programs -->
-<a id="C++Link"><h2>C++</h2></a>
+<a id="C++Link"><h2>C++ Programs</h2></a>
 <h3>University of Wisconsin-Parkside Projects</h3>
 
 <!-- Programming Languages -->
@@ -422,7 +425,7 @@
 
   
 <!-- Python Programs -->
-<a id="PythonLink"><h2>Python</h2></a>
+<a id="PythonLink"><h2>Python Scripts</h2></a>
 <h3>University of Wisconsin-Parkside Projects</h3>
 
 <!-- Programming Languages -->
@@ -657,7 +660,7 @@
 <br>
 
 <!-- Linux Project Portfolio -->
-<a id="LinuxLink"><h2>Linux</h2></a>
+<a id="LinuxLink"><h2>Linux Shell Scripts / OS Projects</h2></a>
 <h3>University of Wisconsin-Parkside Projects</h3>
 
 <!-- UNIX System Administration -->
