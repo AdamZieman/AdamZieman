@@ -33,13 +33,10 @@
 <a id="EducationLink"><h2>🎓 Education:</h2></a>
 <h3>University of Wisconsin-Parkside<i>, Kenosha, WI</i></h3>
 
-- Graduation: Decemeber 2024
-- B.S., Computer Science
-- GPA: 3.5
-- Honors: Dean's List
+- B.S., Computer Science (GPA: 3.5)
 - Certificates:
-    - UNIX System Administration
-    - Cyber Security
+    - [UNIX System Administration certificate](https://www.uwp.edu/learn/programs/unixsystemadmin.cfm) | Issued: May 17, 2023
+    - [Cyber Security certificate](https://www.uwp.edu/learn/programs/cybersecurity.cfm) | Issued: TBD
 
 <br>
 
@@ -51,11 +48,6 @@
 
 - [PCAP - Certified Associate in Python Programming (Version: PCAP-31-03)](https://pythoninstitute.org/pcep) | Issued: TBD
 - [PCEP - Certified Entry-Level Python Programmer (Version: PCEP-30-02)](https://pythoninstitute.org/pcep) | Issued: April 23, 2023
-
-<h3>University of Wisconsin-Parkside</h3>
-
-- [UNIX System Administration certificate](https://www.uwp.edu/learn/programs/unixsystemadmin.cfm) | Issued: May 17, 2023
-- [Cyber Security certificate](https://www.uwp.edu/learn/programs/cybersecurity.cfm) | Issued: TBD
 
 <br>
 
