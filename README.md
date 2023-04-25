@@ -31,11 +31,15 @@
 
 <!-- Eduction Overview -->
 <a id="EducationLink"><h2>🎓 Education:</h2></a>
-<h3>University of Wisconsin-Parkside</h3>
+<h3>University of Wisconsin-Parkside<i>, Kenosha, WI</i></h3>
 
-- Bachelor's of Science in Computer Science
 - Graduation: Decemeber 2024
+- B.S., Computer Science
 - GPA: 3.5
+- Honors: Dean's List
+- Certificates:
+    - UNIX System Administration
+    - Cyber Security
 
 <br>
 
