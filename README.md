@@ -1,6 +1,3 @@
-<!-- WARNING MESSAGE! -->
-<i>WARNING! readme files for each project repository has not yet been completed. Planning to complete this ASAP to include, a thourough description, and output screenshots</i>
-
 <!-- Header -->
 <h1>Hi, I'm Adam!</h1>
 
@@ -41,8 +38,8 @@
 <br>
 
 
-<!-- List of Certificates -->
-<a id="CertificationLink"><h2>📜 Certificates:</h2></a>
+<!-- List of Certifications -->
+<a id="CertificationLink"><h2>📜 Certifications:</h2></a>
 
 <h3>Python Institute</h3>
 
