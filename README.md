@@ -666,6 +666,10 @@ I'm enrolled at the University of Wisconsin-Parkside, pursuing a Bachelor's of S
       (WordPress)
     </td>
     <td>
+<!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
+      Configure a virtual machine to a LAMP environment (Linux, Apache,<br>
+      MySQL, and PHP). Create a basic HTML website to deploy with Apache.<br>
+      Download, configure, and deploy WordPress.
     </td>
     <td>
       <ul>
