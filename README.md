@@ -732,7 +732,10 @@ I'm enrolled at the University of Wisconsin-Parkside, pursuing a Bachelor's of S
     <th>Concepts</th>
   </tr>
   <tr>
-    <td></td>
+    <td>
+      Fibonacci<br>
+      Sequence
+    </td>
     <td>
     </td>
     <td>
