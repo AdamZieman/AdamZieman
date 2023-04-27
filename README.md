@@ -661,6 +661,19 @@ I'm enrolled at the University of Wisconsin-Parkside, pursuing a Bachelor's of S
   </tr>
   <tr>
     <td>
+      Deploying Open<br>
+      Source Application<br>
+      (WordPress)
+    </td>
+    <td>
+    </td>
+    <td>
+      <ul>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
       Create Users
     </td>
     <td>
