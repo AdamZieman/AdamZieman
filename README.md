@@ -207,10 +207,8 @@ I'm enrolled at the University of Wisconsin-Parkside, pursuing a Bachelor's of S
     </td>
     <td>
 <!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
-      This program demonstrates the programmer's knowledge of recursion<br>
-      with 5 unique recursive methods. The program includes test cases for<br>
-      each method, except for the trickyHanoi() method which is<br>
-      user-dependent.
+      Demonstrates knowledge of recursion with 5 unique recursive methods.<br>
+      Includes unit tests for each method.
     </td>
     <td>
       <ul>
