@@ -675,7 +675,12 @@ I'm enrolled at the University of Wisconsin-Parkside, pursuing a Bachelor's of S
     </td>
     <td>
       <ul>
-        <li></li>
+        <li>Accout creation</li>
+        <li>Shadow password file</li>
+        <li>Calculating with EPOCH</li>
+        <li>UID and GID</li>
+        <li>Logic statements</li>
+        <li>Extract data from Excel</li>
       </ul>
     </td>
   </tr>
