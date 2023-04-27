@@ -373,8 +373,8 @@ I'm enrolled at the University of Wisconsin-Parkside, pursuing a Bachelor's of S
     </td>
     <td>
 <!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
-      This C++ project contains three classes that define different types<br>
-      of bank accounts: <b>'Account'</b>, <b>'SavingsAccount'</b>, and <b>'CheckingAccount'</b>.<br>
+      Contains three classes that define types of bank accounts:<br>
+      <b>'Account'</b>, <b>'SavingsAccount'</b>, and <b>'CheckingAccount'</b>.<br>
       It includes methods for crediting and debiting accounts, calculating<br>
       interest, and applying transaction fees. The main function<br>
       demonstrates the usage of these classes by creating and manipulating<br>
