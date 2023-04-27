@@ -186,9 +186,9 @@ I'm enrolled at the University of Wisconsin-Parkside, pursuing a Bachelor's of S
     </td>
     <td>
 <!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
-      The Synonyms class finds synonyms for a given word by analyzing the<br>
-      frequency of occurrences of each word in a corpus of text files using<br>
-      cosine similarity between frequency vectors. It stores the descriptor<br>
+      Returns the synonym of a given word by analyzing the frequency of<br>
+      occurrences of each word in a corpus of text files using cosine<br>
+      similarity between frequency vectors. It stores the descriptor<br>
       vectors for each word in a HashMap and calculates the cosine<br>
       similarity between two words using their respective frequency maps.
     </td>
