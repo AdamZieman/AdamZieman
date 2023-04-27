@@ -113,15 +113,15 @@
     </td>
     <td>
 <!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
-      The StreamMedian program uses two heaps to maintain the median of a<br>
-      stream of integers in constant time. The max heap stores the smaller<br>
-      half of the data and the min heap stores the larger half. The program<br>
-      inserts the next element into the appropriate heap based on its value,<br>
-      and rebalances the heaps as necessary to maintain the constraints.<br>
-      The getMedian method returns the median of all the data inserted. If<br>
-      the number of elements is even, it returns the average of the max<br>
-      from the max heap and the min from the min heap. If the number of<br>
-      elements is odd, it returns the max from the max heap.
+      Uses two heaps to maintain the median of a stream of integers in<br>
+      constant time. The max heap stores the smaller half of the data and<br>
+      the min heap stores the larger half. The program inserts the next<br>
+      element into the appropriate heap based on its value, and rebalances<br>
+      the heaps as necessary to maintain the constraints. The getMedian<br>
+      method returns the median of all the data inserted. If the number of<br>
+      elements is even, it returns the average of the max from the max heap<br>
+      and the min from the min heap. If the number of elements is odd, it<br>
+      returns the max from the max heap.
     </td>
     <td>
       <ul>
