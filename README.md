@@ -664,6 +664,14 @@ I'm enrolled at the University of Wisconsin-Parkside, pursuing a Bachelor's of S
       Create Users
     </td>
     <td>
+<!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
+      Uses the root account! Reads a file containing (employee ID, full<br>
+      name, department code, security code, phone number, and start date)<br>
+      for several employees. Creates user accounts for each employee with:<br>
+      a unique 8 character long user name, a home directory, GECOS for<br>
+      contact information, added to their department group, sets their<br>
+      password to expire 5 years after their start date, and requiring the<br>
+      user's to change their passwords on the first login.
     </td>
     <td>
       <ul>
