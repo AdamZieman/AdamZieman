@@ -354,10 +354,10 @@ I'm enrolled at the University of Wisconsin-Parkside, pursuing a Bachelor's of S
     </td>
     <td>
 <!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
-      This C++ program defines three classes: Car, Building, and Bicycle<br>
-      that inherit from an abstract class CarbonFootprint, which calculates<br>
-      and prints an object's carbon footprint. The main function creates<br>
-      objects of each class and calls the getCarbonFootprint method.
+      Defines three classes: Car, Building, and Bicycle that inherit from<br>
+      an abstract class CarbonFootprint, which calculates and prints an<br>
+      object's carbon footprint. The main function creates objects of each<br>
+      class and calls the getCarbonFootprint method.
     </td>
     <td>
       <ul>
