@@ -138,10 +138,9 @@ I'm enrolled at the University of Wisconsin-Parkside, pursuing a Bachelor's of S
     </td>
     <td>
 <!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
-      The code defines a class called FindMedian that optimizes the search<br>
-      of the median element of an unsorted array. The driver class,<br>
-      FindMedianTest generates random integer arrays of increasing sizes<br>
-      and prints their median and time taken to search the array.
+      Optimizes the search of the median element of an unsorted array. The<br>
+      driver class, generates random integer arrays of increasing sizes<br>
+      and finding their median and the time taken to search the array.
     </td>
     <td>
       <ul>
