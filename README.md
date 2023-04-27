@@ -44,7 +44,7 @@
 <h3>Python Institute</h3>
 
 - [PCAP - Certified Associate in Python Programming (Version: PCAP-31-03)](https://pythoninstitute.org/pcep) | Issued: TBD
-- [PCEP - Certified Entry-Level Python Programmer (Version: PCEP-30-02)](https://pythoninstitute.org/pcep) | Issued: April 23, 2023
+- [PCEP - Certified Entry-Level Python Programmer (Version: PCEP-30-02)](https://verify.openedg.org/?id=07wC.sTLQ.26eO) | Issued: April 23, 2023
 
 <br>
 
