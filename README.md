@@ -156,11 +156,9 @@ I'm enrolled at the University of Wisconsin-Parkside, pursuing a Bachelor's of S
     </td>
     <td>
 <!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
-      The code defines a generic class called MyIterable that implements<br>
-      Iterable interface to iterate over a sorted list of elements. The<br>
-      driver class, MyIterableTester, reads input from a file and prints<br>
-      sorted arrays of Strings, Integers, and Doubles using the MyIterable<br>
-      class.
+      Iterates over a list and returns the list in descending order. The<br>
+      driver class reads input from a file containing strings, integers,<br>
+      doubles, then prints the list in descending order.
     </td>
     <td>
       <ul>
