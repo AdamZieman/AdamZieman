@@ -395,10 +395,9 @@ I'm enrolled at the University of Wisconsin-Parkside, pursuing a Bachelor's of S
     </td>
     <td>
 <!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
-      This project defines a RationalNumber class with basic arithmetic<br>
-      operators (+, -, *, /) and comparison operators (==, !=), and a<br>
-      toString method. It also includes a main function to test the<br>
-      implementation.
+      Defines a RationalNumber class, overloading arithmetic and comparison<br>
+      operators, includes a toString method to print fractions appropriately.<br>
+      Main function to test the implementation.
     </td>
     <td>
       <ul>
