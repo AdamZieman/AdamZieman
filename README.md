@@ -661,7 +661,8 @@ I'm enrolled at the University of Wisconsin-Parkside, pursuing a Bachelor's of S
   <tr>
     <td>
       Deploying Open<br>
-      Source Application<br>
+      Source<br>
+      Application<br>
       (WordPress)
     </td>
     <td>
@@ -677,7 +678,7 @@ I'm enrolled at the University of Wisconsin-Parkside, pursuing a Bachelor's of S
   </tr>
     <tr>
     <td>
-      Log Management
+      Log<br>Management
     </td>
     <td>
 <!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
