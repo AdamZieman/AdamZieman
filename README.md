@@ -266,9 +266,8 @@ I'm enrolled at the University of Wisconsin-Parkside, pursuing a Bachelor's of S
     </td>
     <td>
 <!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
-      Java program manipulates a 2D array with methods for multiplication,<br>
-      negating odd numbers, flattening, reversing, reshaping, and rotating.<br>
-      User inputs num for multiplication.
+      Manipulates a 2D array with multiplication, negating odd numbers,<br>
+      flattening, reversing, reshaping, and rotating.<br>
     </td>
     <td>
       <ul>
