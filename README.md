@@ -3,7 +3,7 @@
 
 
 <!-- Brief Introduction -->
-I'm enrolled at the University of Wisconsin-Parkside, pursuing a Bachelor's of Science in Computer Science. It is my goal to one day work as a software engineer. I am proficient with Java, C++, Python, and Linux OS / Shell Scripting, and basic skills in of C, C#, React, and GoLang.
+I'm enrolled at the University of Wisconsin-Parkside, pursuing a Bachelor's of Science in Computer Science, UNIX System Administration certificate, and Cyber Security certificate. It is my goal to one day work as a software engineer!
 
 
 <!-- Table of Contents -->
