@@ -676,6 +676,27 @@ I'm enrolled at the University of Wisconsin-Parkside, pursuing a Bachelor's of S
       </ul>
     </td>
   </tr>
+    <tr>
+    <td>
+      Log Management
+    </td>
+    <td>
+<!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
+      Appends entries to the /etc/rsyslog.conf file to log specific traffic<br>
+      to appropriate files. Sensitive/private authorization message of<br>
+      alert and emergency severity and higher to /var/log/authorize. Local<br>
+      messages (except facility 0) of severity notice, warning, and error<br>
+      to /var/log/local. All system daemon message of severity debug to<br>
+      /var/log/ddbug. All local0 messages of severity warning and higher<br>
+      are sent to the root's screen (if logged in). Additionally logs are<br>
+      rotated weekly with 5 backlogs, and email the root account the number<br>
+      of lines in the file.
+    </td>
+    <td>
+      <ul>
+      </ul>
+    </td>
+  </tr>
   <tr>
     <td>
       Create Users
