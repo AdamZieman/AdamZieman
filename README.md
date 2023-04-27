@@ -250,9 +250,8 @@ I'm enrolled at the University of Wisconsin-Parkside, pursuing a Bachelor's of S
     </td>
     <td>
 <!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
-      The TimeClock class tracks time in hours, minutes, and seconds with<br>
-      methods for object creation, comparison, and formatted output.<br>
-      Validated user inputs.
+      Tracks time in hours, minutes, and seconds with methods for object<br>
+      creation, comparison, and formatted output.<br>
     </td>
     <td>
       <ul>
