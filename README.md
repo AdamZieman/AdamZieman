@@ -733,7 +733,7 @@ I'm enrolled at the University of Wisconsin-Parkside, pursuing a Bachelor's of S
   </tr>
   <tr>
     <td>
-      File Comparison
+      File<br>Comparison
     </td>
     <td>
     </td>
@@ -745,7 +745,7 @@ I'm enrolled at the University of Wisconsin-Parkside, pursuing a Bachelor's of S
   </tr>
   <tr>
     <td>
-      Fibonacci Sequence
+      Fibonacci<br>Sequence
     </td>
     <td>
     </td>
