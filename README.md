@@ -8,20 +8,51 @@ I'm enrolled at the University of Wisconsin-Parkside, pursuing a Bachelor's of S
 
 <!-- Table of Contents -->
 <table>
-  <tr><th>Table of Contents</th></tr>
-  <tr><td><a href="#EducationLink">Education</a></td></tr>
-  <tr><td><a href="#CertificationLink">Certifications</a>
-    <i>(2 completed, 2 working)</i></td></tr>
-  <tr><td><a href="#LinkedInLearningLink">LinkedIn Learning Courses</a>
-    <i>(11 courses completed)</i></td></tr>
-  <tr><td><a href="#JavaLink">Java Program Portfolio</a>
-    <i>(12 projects)</i></td></tr>
-  <tr><td><a href="#C++Link">C++ Program Portfolio</a>
-    <i>(3 projects)</i></td></tr>
-  <tr><td><a href="#PythonLink">Python Script Portfolio</a>
-    <i>(12 projects)</i></td></tr>
-  <tr><td><a href="#LinuxLink">Linux Shell Script / OS Projects Portfolio</a></td></tr>
-  <tr><td><a href="#ConnectLink">Connect With Me</a></td></tr>
+  <tr>
+    <th>
+      Table of Contents
+    </th>
+  </tr>
+  <tr>
+    <td>
+      <a href="#EducationLink">Education</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="#CertificationLink">Certifications</a><i>(2 completed, 2 working)</i>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="#LinkedInLearningLink">LinkedIn Learning Courses</a><i>(11 courses completed)</i>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="#JavaLink">Java Program Portfolio</a><i>(12 projects)</i>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="#C++Link">C++ Program Portfolio</a><i>(3 projects)</i>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="#PythonLink">Python Script Portfolio</a><i>(12 projects)</i>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="#LinuxLink">Linux Shell Script / OS Projects Portfolio</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="#ConnectLink">Connect With Me</a>
+    </td>
+  </tr>
 </table>
 <br>
 
