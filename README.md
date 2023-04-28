@@ -20,27 +20,27 @@ I'm enrolled at the University of Wisconsin-Parkside, pursuing a Bachelor's of S
   </tr>
   <tr>
     <td>
-      <a href="#CertificationLink">Certifications</a><i>(2 completed, 2 working)</i>
+      <a href="#CertificationLink">Certifications</a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="#LinkedInLearningLink">LinkedIn Learning Courses</a><i>(11 courses completed)</i>
+      <a href="#LinkedInLearningLink">LinkedIn Learning Courses</a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="#JavaLink">Java Program Portfolio</a><i>(12 projects)</i>
+      <a href="#JavaLink">Java Program Portfolio</a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="#C++Link">C++ Program Portfolio</a><i>(3 projects)</i>
+      <a href="#C++Link">C++ Program Portfolio</a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="#PythonLink">Python Script Portfolio</a><i>(12 projects)</i>
+      <a href="#PythonLink">Python Script Portfolio</a>
     </td>
   </tr>
   <tr>
