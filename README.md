@@ -5,52 +5,49 @@
 <!-- Brief Introduction -->
 I'm enrolled at the University of Wisconsin-Parkside, pursuing a Bachelor's of Science in Computer Science, UNIX System Administration certificate, and Cyber Security certificate. Additionally, Certified Entry-Level Python Programmer. It is my goal to one day work as a software engineer!
 
+<br>
+
 
 <!-- Table of Contents -->
 <table>
   <tr>
     <th>
-      Table of Contents
+      Knowledge
+    </th>
+    <th>
+      Skills
     </th>
   </tr>
   <tr>
     <td>
       <a href="#EducationLink">Education</a>
     </td>
+    <td>
+      <a href="#JavaLink">Java Portfolio</a>
+    </td>
   </tr>
   <tr>
     <td>
       <a href="#CertificationLink">Certifications</a>
+    </td>
+    <td>
+      <a href="#C++Link">C++ Portfolio</a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="#LinkedInLearningLink">LinkedIn Learning Courses</a>
     </td>
-  </tr>
-  <tr>
     <td>
-      <a href="#JavaLink">Java Program Portfolio</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="#C++Link">C++ Program Portfolio</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="#PythonLink">Python Script Portfolio</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="#LinuxLink">Linux Shell Script / OS Projects Portfolio</a>
+      <a href="#PythonLink">Python Portfolio</a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="#ConnectLink">Connect With Me</a>
+    </td>
+    <td>
+      <a href="#LinuxLink">Linux Portfolio</a>
     </td>
   </tr>
 </table>
