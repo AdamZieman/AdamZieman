@@ -812,6 +812,13 @@ I'm enrolled at the University of Wisconsin-Parkside, pursuing a Bachelor's of S
 <!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
     </td>
     <td>
+      <ul>
+        <li>Read/write files</li>
+        <li>Error handling</li>
+        <li>Iteration</li>
+        <li>Control statements</li>
+        <li>Manipulating slices and structs</li>
+      </ul>
     </td>
   </tr>
 </table>
