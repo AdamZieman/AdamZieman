@@ -53,7 +53,7 @@ I'm enrolled at the University of Wisconsin-Parkside, pursuing a Bachelor's of S
   <tr>
     <td></td>
     <td>
-      Go Portfolio
+      <a href="#GoLink">Go Portfolio</a>
     </td>
   </tr>
 </table>
@@ -788,6 +788,29 @@ I'm enrolled at the University of Wisconsin-Parkside, pursuing a Bachelor's of S
       <ul>
         <li></li>
       </ul>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- Linux Project Portfolio -->
+<a id="GoLink"><h2>Go Projects</h2></a>
+<h3>University of Wisconsin-Parkside Projects</h3>
+
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Brief Description</th>
+    <th>Concepts</th>
+  </tr>
+  <tr>
+    <td>
+    </td>
+    <td>
+<!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
+    </td>
+    <td>
     </td>
   </tr>
 </table>
