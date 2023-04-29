@@ -810,11 +810,10 @@ I'm enrolled at the University of Wisconsin-Parkside, pursuing a Bachelor's of S
     </td>
     <td>
 <!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
-      Users can add, delete, or clear tasks. Tasks are stored in the file<br>
-      "tasks.txt" and in the program as a slice. The program reads user<br>
-      input using bufio and processes the input using a switch statement.<br>
-      The Task type is a struct with an ID and name. The program outputs<br>
-      the current task list and available commands to the user.
+      From the command line, users can manipulate and view a todo list. The<br>
+      tasks are stored in both a seperate file and in the program as a<br>
+      slice. The user can give option on how to manipulate the todo list,<br>
+      which are processed by a switch statement.
     </td>
     <td>
       <ul>
