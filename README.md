@@ -50,6 +50,12 @@ I'm enrolled at the University of Wisconsin-Parkside, pursuing a Bachelor's of S
       <a href="#LinuxLink">Linux Portfolio</a>
     </td>
   </tr>
+  <tr>
+    <td></td>
+    <td>
+      Go Portfolio
+    </td>
+  </tr>
 </table>
 <br>
 
