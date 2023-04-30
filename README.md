@@ -796,7 +796,7 @@ I'm enrolled at the University of Wisconsin-Parkside, pursuing a Bachelor's of S
 
 <br>
 
-<!-- Linux Project Portfolio -->
+<!-- Go Project Portfolio -->
 <a id="GoLink"><h2>Go Projects</h2></a>
 
 <table>
