@@ -87,7 +87,7 @@ I'm enrolled at the University of Wisconsin-Parkside, pursuing a Bachelor's of S
 <a id="LinkedInLearningLink"><h2>⛓ LinkedIn Learning</h2></a>
 - General Knowledge
   - [Agile Foundations](https://www.linkedin.com/learning/certificates/2c4cb999c2b1df9079a5eecca6c521217724936d8b6f1b0667ec3047b496ef74) | Completed: April 21, 2023
-  - [Software Design: Modeling with UML](https://www.linkedin.com/learning/certificates/a2024c721bbe2943bb2f43f7d607d363897d2c808608cb35c0d454212a456e5e) | Completed: April 16, 2023
+  - [Software Design: Modeling with UML](https://www.linkedin.com/learning/certificates/a2024c721bbe2943bb2f43f7d607d363897d2c808608cb35c0d454212a456e5e)
   - [Git Essential Training: The Basics](https://www.linkedin.com/learning/certificates/e0d2fe399ca9084cb7bb979d609108af409cb0f56a484049b2d675e4b342eb68)
 - Java
   - [Java: Testing with JUnit](https://www.linkedin.com/learning/certificates/4e9dd22d6d0a0ad8196914514e159292d03f98776a6940bce9e6932096eff7ff?trk=share_certificate)
