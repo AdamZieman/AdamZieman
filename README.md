@@ -101,7 +101,7 @@ I'm enrolled at the University of Wisconsin-Parkside, pursuing a Bachelor's of S
     - Web Servers and APIs using C++
     - Nail Your C++ Interview
 - Go
-  - [Learning Go](https://www.linkedin.com/learning/certificates/0071bff812a09e746e75ded3de295950b6fe39d565a92bc93c82dc5ebb45abe0) | Completed: April 30, 2023
+  - [Learning Go](https://www.linkedin.com/learning/certificates/0071bff812a09e746e75ded3de295950b6fe39d565a92bc93c82dc5ebb45abe0) | Completed: April 2023
 
 <br>
 
