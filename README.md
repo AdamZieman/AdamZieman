@@ -807,7 +807,7 @@ I'm enrolled at the University of Wisconsin-Parkside, pursuing a Bachelor's of S
   </tr>
   <tr>
     <td>
-      CLI To-Do List<br>Manager
+      <a href="https://github.com/AdamZieman/Go_CLI_ToDo">CLI To-Do List<br>Manager</a>
     </td>
     <td>
 <!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
