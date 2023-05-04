@@ -61,7 +61,7 @@ I'm enrolled at the University of Wisconsin-Parkside, pursuing a Bachelor's of S
 - B.S., Computer Science (GPA: 3.5)
 - Certificates:
     - [UNIX System Administration certificate](https://www.uwp.edu/learn/programs/unixsystemadmin.cfm) | Issued: May 17, 2023
-    - [Cyber Security certificate](https://www.uwp.edu/learn/programs/cybersecurity.cfm) | Issued: TBD
+    - [Cyber Security certificate](https://www.uwp.edu/learn/programs/cybersecurity.cfm) | Issued: December 20, 2023
 
 <br>
 
