@@ -3,47 +3,18 @@
 
 
 <!-- Brief Introduction -->
-I'm enrolled at the University of Wisconsin-Parkside, pursuing a Bachelor's of Science in Computer Science, UNIX System Administration certificate, and Cyber Security certificate. Additionally, Certified Entry-Level Python Programmer. It is my goal to one day work as a software engineer!
-
-<br>
+I'm enrolled at the University of Wisconsin-Parkside, pursuing a Bachelor's of Science in Computer Science, UNIX System Administration certificate, and Cyber Security certificate. Additionally, Certified Entry-Level Python Programmer. It is my goal to one day work as a software engineer! <br><br>
 
 
 <!-- Table of Contents -->
-<table>
-  <tr>
-    <th>
-      Knowledge
-    </th>
-    <th>
-      Skills
-    </th>
-  </tr>
-  <tr>
-    <td>
-      <a href="#EducationLink">Education</a>
-    </td>
-    <td>
-      <a href="#JavaLink">Java Projects</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="#CertificationLink">Certifications</a>
-    </td>
-    <td>
-      <a href="#PythonLink">Python Projects</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="#LinkedInLearningLink">LinkedIn Learning Courses</a>
-    </td>
-    <td>
-      <a href="#GoLink">Go Projects</a>
-    </td>
-  </tr>
-</table>
+<h3>Table of Contents:</h3>
+<a href="#EducationLink">Education</a> <br>
+<a href="#CertificationLink">Certifications</a> <br>
+<a href="#JavaLink">Java Projects</a> <br>
+<a href="#PythonLink">Python Projects</a> <br>
+<a href="#GoLink">Go Projects</a> <br>
 <a href="#ConnectLink">Connect With Me</a> <br><br>
+
 
 
 <!-- Eduction Overview -->
@@ -58,6 +29,7 @@ I'm enrolled at the University of Wisconsin-Parkside, pursuing a Bachelor's of S
 <br>
 
 
+
 <!-- List of Certifications -->
 <a id="CertificationLink"><h2>📜 Certifications:</h2></a>
 
@@ -68,28 +40,6 @@ I'm enrolled at the University of Wisconsin-Parkside, pursuing a Bachelor's of S
 
 <br>
 
-
-<!-- LinkedIn Learning Courses -->
-<a id="LinkedInLearningLink"><h2>⛓ LinkedIn Learning</h2></a>
-- General Knowledge
-  - [Agile Foundations](https://www.linkedin.com/learning/certificates/2c4cb999c2b1df9079a5eecca6c521217724936d8b6f1b0667ec3047b496ef74)
-  - [Software Design: Modeling with UML](https://www.linkedin.com/learning/certificates/a2024c721bbe2943bb2f43f7d607d363897d2c808608cb35c0d454212a456e5e)
-  - [Git Essential Training: The Basics](https://www.linkedin.com/learning/certificates/e0d2fe399ca9084cb7bb979d609108af409cb0f56a484049b2d675e4b342eb68)
-- Java
-  - [Java: Testing with JUnit](https://www.linkedin.com/learning/certificates/4e9dd22d6d0a0ad8196914514e159292d03f98776a6940bce9e6932096eff7ff?trk=share_certificate)
-- C++
-  - [Getting Started with C++ (Learning Path)](https://www.linkedin.com/learning/certificates/b2c678f7155c1fbea1dd7ae48d0719e7e68a79d060c00492fb055c380ae77c89)
-    - Learning C++
-    - C++ Templates and the STL
-    - Introducing Functional Programming in C++
-    - C++ Best Practices for Developers
-    - Code Clinic: C++
-    - Web Servers and APIs using C++
-    - Nail Your C++ Interview
-- Go
-  - [Learning Go](https://www.linkedin.com/learning/certificates/0071bff812a09e746e75ded3de295950b6fe39d565a92bc93c82dc5ebb45abe0)
-
-<br>
 
 
 <!-- Project Portfolio -->
