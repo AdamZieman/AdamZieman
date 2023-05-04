@@ -21,7 +21,9 @@ I'm enrolled at the University of Wisconsin-Parkside, pursuing a Bachelor's of S
 <a id="EducationLink"><h2>🎓 Education:</h2></a>
 <h3>University of Wisconsin-Parkside<i>, Kenosha, WI</i></h3>
 
-- B.S., Computer Science (GPA: 3.5)
+- [Computer Science, B.S.](https://www.uwp.edu/learn/programs/computersciencemajor.cfm) | Graduation: December 2024
+  - Cumulative GPA: 3.5
+  - Honors: Dean's List
 - Certificates:
     - [UNIX System Administration certificate](https://www.uwp.edu/learn/programs/unixsystemadmin.cfm) | Issued: May 17, 2023
     - [Cyber Security certificate](https://www.uwp.edu/learn/programs/cybersecurity.cfm) | Issued: December 20, 2023
