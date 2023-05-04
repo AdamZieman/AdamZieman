@@ -103,267 +103,28 @@ I'm enrolled at the University of Wisconsin-Parkside, pursuing a Bachelor's of S
 <!-- Project Portfolio -->
 <h2>👨‍💻 Project Portfolio</h2>
 
-<!-- Java Programs -->
+<!-- Java Project Portfolio -->
 <a id="JavaLink"><h2>Java Programs</h2></a>
-<h3>University of Wisconsin-Parkside Projects</h3>
 
-<!-- Data Structures and Algorithm Design projects -->
-<h4>Course: Data Structures and Algorithm Design</h4>
-<table>
-  <tr>
-    <th>Project</th>
-    <th>Brief Description</th>
-    <th>Concepts</th>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/AdamZieman/Java_2DSearchTree">2D Search Tree</a>
-    </td>
-    <td>
-<!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
-      TwoDTree is a data structure used for storing 2D points that allows<br>
-      for efficient range search queries. The tree is built by recursively<br>
-      partitioning the plane into smaller rectangles, and each node<br>
-      compares points by x or y value depending on the level of the tree.<br>
-      Searches for points within a given range are done by recursively<br>
-      traversing the tree and only exploring subtrees that might contain<br>
-      points in the range.
-    </td>
-    <td>
-      <ul>
-        <li>Design/implement 2D tree</li>
-        <li>Traverse binary search tree</li>
-        <li>Comparator</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/AdamZieman/Java_HeapMedian">Find Median of<br>Heap</a>
-    </td>
-    <td>
-<!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
-      Uses two heaps to maintain the median of a stream of integers in<br>
-      constant time. The max heap stores the smaller half of the data and<br>
-      the min heap stores the larger half. The program inserts the next<br>
-      element into the appropriate heap based on its value, and rebalances<br>
-      the heaps as necessary to maintain the constraints. The getMedian<br>
-      method returns the median of all the data inserted. If the number of<br>
-      elements is even, it returns the average of the max from the max heap<br>
-      and the min from the min heap. If the number of elements is odd, it<br>
-      returns the max from the max heap.
-    </td>
-    <td>
-      <ul>
-        <li>Priority queues</li>
-        <li>Heaps</li>
-        <li>Comparator</li>
-        <li>Rebalancing</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/AdamZieman/Java_FindMedianUnsortedArray">Find Median of<br>Unsorted Array<br><i>(optimized)</i></a>
-    </td>
-    <td>
-<!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
-      Optimizes the search of the median element of an unsorted array. The<br>
-      driver class, generates random integer arrays of increasing sizes<br>
-      and finding their median and the time taken to search the array.
-    </td>
-    <td>
-      <ul>
-        <li>Algorithm design</li>
-        <li>Recursion</li>
-        <li>Array manipulation</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/AdamZieman/Java_GenericReverseOrderSorter">Generic Sorter</a>
-    </td>
-    <td>
-<!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
-      Iterates over a list and returns the list in descending order. The<br>
-      driver class reads input from a file containing strings, integers,<br>
-      doubles, then prints the list in descending order.
-    </td>
-    <td>
-      <ul>
-        <li>Generic programming</li>
-        <li>Implementing interfaces</li>
-        <li>Exception handling</li>
-        <li>Lists and Collections</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<h3><a href="https://github.com/AdamZieman/Java_2DSearchTree">2D Search Tree</a></h3>
 
+TwoDTree is a data structure used for storing 2D points that allows for efficient range search queries. The tree is built by recursively partitioning the plane into smaller rectangles, and each node compares points by x or y value depending on the level of the tree. Searches for points within a given range are done by recursively traversing the tree and only exploring subtrees that might contain points in the range. <br><br>
 
-<!-- Computer Science 2 projects -->
-<h4>Course: Computer Science 2</h4>
-<table>
-  <tr>
-    <th>Project</th>
-    <th>Brief Description</th>
-    <th>Concepts</th>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/AdamZieman/Java_Synonyms">Synonyms</a>
-    </td>
-    <td>
-<!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
-      Returns the synonym of a given word by analyzing the frequency of<br>
-      occurrences of each word in a corpus of text files using cosine<br>
-      similarity between frequency vectors. It stores the descriptor<br>
-      vectors for each word in a HashMap and calculates the cosine<br>
-      similarity between two words using their respective frequency maps.
-    </td>
-    <td>
-      <ul>
-        <li>Nested HashMaps</li>
-        <li>Retrieve data from URLs</li>
-        <li>Exception handling</li>
-        <li>Calculate cosine similarity</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/AdamZieman/Java_Recursion">Recursion</a>
-    </td>
-    <td>
-<!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
-      Demonstrates knowledge of recursion with 5 unique recursive methods.<br>
-      Includes unit tests for each method.
-    </td>
-    <td>
-      <ul>
-        <li>Recursion</li>
-        <li>Unit testing</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/AdamZieman/Java_ReaderWriter">Read and Write</a>
-    </td>
-    <td>
-<!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
-      Uses scanner to read text from a source, and< PrintScanner to write<br>
-      text to a file.
-    </td>
-    <td>
-      <ul>
-        <li>Retrieve data from text file</li>
-        <li>Write data to text file</li>
-        <li>Exception handling</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<h3><a href="https://github.com/AdamZieman/Java_HeapMedian">Find Median of Heap</a></h3>
 
-<!-- Computer Science 1 projects -->
-<h4>Course: Computer Science 1</h4>
-<table>
-  <tr>
-    <th>Project</th>
-    <th>Brief Description</th>
-    <th>Concepts</th>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/AdamZieman/Java_TimeClock">TimeClock</a>
-    </td>
-    <td>
-<!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
-      Tracks time in hours, minutes, and seconds with methods for object<br>
-      creation, comparison, and formatted output.<br>
-    </td>
-    <td>
-      <ul>
-        <li>Object-oriented programming</li>
-        <li>Instance variables</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/AdamZieman/Java_2DArray">2D Array</a>
-    </td>
-    <td>
-<!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
-      Manipulates a 2D array with multiplication, negating odd numbers,<br>
-      flattening, reversing, reshaping, and rotating.<br>
-    </td>
-    <td>
-      <ul>
-        <li>2D Arrays</li>
-        <li>Input/Formatted output</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/AdamZieman/Java_1DArray">1D Array</a>
-    </td>
-    <td>
-<!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
-      This class processes integer arrays: input custom/test array, find<br>
-      lowest/second lowest values, build block array, eliminate duplicates.
-    </td>
-    <td>
-      <ul>
-        <li>Arrays</li>
-        <li>Input/Formatted output</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/AdamZieman/Java_RockPaperScissors_HalloweenEdition">Rock-Paper-<br>Scissors<br>(Halloween<br>Edition)</a>
-    </td>
-    <td>
-<!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
-      This is a two-player game called the "Boulder, Scroll, Knife, Witch's<br>
-      Brew, Monster Game". Each player will be given an element at random,<br>
-      and the game will continue until the players decide to stop. The<br>
-      summary of the games played will be printed at the end for each<br>
-      player.
-    </td>
-    <td>
-      <ul>
-        <li>Iteration</li>
-        <li>Switch statement</li>
-        <li>Methods</li>
-        <li>User input</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/AdamZieman/Java_ElectricBillCalculations">Electric Bill<br>Calculations</a>
-    </td>
-    <td>
-<!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
-      This Java program calculates the electric bill for a customer based<br>
-      on user input of billing period and meter readings. It uses constants<br>
-      to calculate different charges and prints the results in a formatted<br>
-      manner.
-    </td>
-    <td>
-      <ul>
-        <li>Input/Output</li>
-        <li>Control structures</li>
-        <li>String formatting</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-<br>
+Uses two heaps to maintain the median of a stream of integers in constant time. The max heap stores the smaller half of the data and the min heap stores the larger half. The program inserts the next element into the appropriate heap based on its value, and rebalances the heaps as necessary to maintain the constraints. The getMedian method returns the median of all the data inserted. If the number of elements is even, it returns the average of the max from the max heap and the min from the min heap. If the number of elements is odd, it returns the max from the max heap. <br><br>
+
+<h3><a href="https://github.com/AdamZieman/Java_FindMedianUnsortedArray">Find Median of Unsorted Array <i>(optimized)</i></a></h3>
+
+Optimizes the search of the median element of an unsorted array. The driver class, generates random integer arrays of increasing sizes and finding their median and the time taken to search the array. <br><br>
+
+<h3><a href="https://github.com/AdamZieman/Java_GenericReverseOrderSorter">Generic Sorter</a></h3>
+
+Iterates over a list and returns the list in descending order. The driver class reads input from a file containing strings, integers, doubles, then prints the list in descending order. <br><br>
+
+<h3><a href="https://github.com/AdamZieman/Java_Synonyms">Synonyms</a></h3>
+
+Returns the synonym of a given word by analyzing the frequency of occurrences of each word in a corpus of text files using cosine similarity between frequency vectors. It stores the descriptor vectors for each word in a HashMap and calculates the cosine similarity between two words using their respective frequency maps. <br><br>
 
 
 <!-- C++ Programs -->
@@ -682,9 +443,7 @@ I'm enrolled at the University of Wisconsin-Parkside, pursuing a Bachelor's of S
 
 <h3><a href="https://github.com/AdamZieman/Go_CLI_ToDo">CLI To-Do List Manager</a></h3>
 
-From the command line, a user can manage a todo list by adding a task, deleteing a task, or clearing all tasks. The task list is stored in the program as a slice, and on the system in the file "tasks.txt". User input is read using bufio and manipulates the task list using a switch statement. The Task type is a struct with an ID and name. The program outputs the current task list and available commands to the user.
-
-<br><br>
+From the command line, a user can manage a todo list by adding a task, deleteing a task, or clearing all tasks. The task list is stored in the program as a slice, and on the system in the file "tasks.txt". User input is read using bufio and manipulates the task list using a switch statement. The Task type is a struct with an ID and name. The program outputs the current task list and available commands to the user. <br><br>
 
 <!-- Important Links -->
 <a id="ConnectLink"><h2>🤳 Connect with me:</h2></a>
