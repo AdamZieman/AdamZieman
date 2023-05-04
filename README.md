@@ -12,8 +12,7 @@ I'm enrolled at the University of Wisconsin-Parkside, pursuing a Bachelor's of S
 <a href="#CertificationLink">Certifications</a> <br>
 <a href="#JavaLink">Java Projects</a> <br>
 <a href="#PythonLink">Python Projects</a> <br>
-<a href="#GoLink">Go Projects</a> <br>
-<a href="#ConnectLink">Connect With Me</a> <br><br>
+<a href="#GoLink">Go Projects</a> <br><br>
 
 
 
@@ -85,11 +84,4 @@ Returns the synonym of a given word by analyzing the frequency of occurrences of
 
 <h3><a href="https://github.com/AdamZieman/Go_CLI_ToDo">CLI To-Do List Manager</a></h3>
 
-From the command line, a user can manage a todo list by adding a task, deleteing a task, or clearing all tasks. The task list is stored in the program as a slice, and on the system in the file "tasks.txt". User input is read using bufio and manipulates the task list using a switch statement. The Task type is a struct with an ID and name. The program outputs the current task list and available commands to the user. <br><br>
-
-
-
-<!-- Important Links -->
-<a id="ConnectLink"><h2>🤳 Connect with me:</h2></a>
-[LinkedIn Profile](https://www.linkedin.com/in/adam-zieman/) <br>
-[Email: adamzieman@yahoo.com](mailto:adamzieman@yahoo.com)
+From the command line, a user can manage a todo list by adding a task, deleteing a task, or clearing all tasks. The task list is stored in the program as a slice, and on the system in the file "tasks.txt". User input is read using bufio and manipulates the task list using a switch statement. The Task type is a struct with an ID and name. The program outputs the current task list and available commands to the user.
