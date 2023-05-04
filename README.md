@@ -91,4 +91,5 @@ From the command line, a user can manage a todo list by adding a task, deleteing
 
 <!-- Important Links -->
 <a id="ConnectLink"><h2>🤳 Connect with me:</h2></a>
-[LinkedIn](https://www.linkedin.com/in/adam-zieman/)
+[LinkedIn Profile](https://www.linkedin.com/in/adam-zieman/) <br>
+[Email me](mailto:adamzieman@yahoo.com)
