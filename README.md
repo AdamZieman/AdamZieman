@@ -82,6 +82,6 @@ Returns the synonym of a given word by analyzing the frequency of occurrences of
 <!-- Go Project Portfolio -->
 <a id="GoLink"><h2>Go Projects</h2></a>
 
-<h3><a href="https://github.com/AdamZieman/Go_CLI_ToDo">CLI To-Do List Manager</a></h3>
+<h3><a href="https://github.com/AdamZieman/Go_CLI_ToDo_List_Manager">CLI To-Do List Manager</a></h3>
 
 From the command line, a user can manage a todo list by adding a task, deleteing a task, or clearing all tasks. The task list is stored in the program as a slice, and on the system in the file "tasks.txt". User input is read using bufio and manipulates the task list using a switch statement. The Task type is a struct with an ID and name. The program outputs the current task list and available commands to the user.
