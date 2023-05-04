@@ -23,7 +23,7 @@ I'm enrolled at the University of Wisconsin-Parkside, pursuing a Bachelor's of S
       <a href="#EducationLink">Education</a>
     </td>
     <td>
-      <a href="#JavaLink">Java Portfolio</a>
+      <a href="#JavaLink">Java Projects</a>
     </td>
   </tr>
   <tr>
@@ -31,7 +31,7 @@ I'm enrolled at the University of Wisconsin-Parkside, pursuing a Bachelor's of S
       <a href="#CertificationLink">Certifications</a>
     </td>
     <td>
-      <a href="#C++Link">C++ Portfolio</a>
+      <a href="#PythonLink">Python Projects</a>
     </td>
   </tr>
   <tr>
@@ -39,19 +39,11 @@ I'm enrolled at the University of Wisconsin-Parkside, pursuing a Bachelor's of S
       <a href="#LinkedInLearningLink">LinkedIn Learning Courses</a>
     </td>
     <td>
-      <a href="#PythonLink">Python Portfolio</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="#ConnectLink">Connect With Me</a>
-    </td>
-    <td>
-      <a href="#GoLink">Go Portfolio</a>
+      <a href="#GoLink">Go Projects</a>
     </td>
   </tr>
 </table>
-<br>
+<a href="#ConnectLink">Connect With Me</a> <br><br>
 
 
 <!-- Eduction Overview -->
@@ -103,8 +95,10 @@ I'm enrolled at the University of Wisconsin-Parkside, pursuing a Bachelor's of S
 <!-- Project Portfolio -->
 <h2>👨‍💻 Project Portfolio</h2>
 
+
+
 <!-- Java Project Portfolio -->
-<a id="JavaLink"><h2>Java Programs</h2></a>
+<a id="JavaLink"><h2>Java Projects</h2></a>
 
 <h3><a href="https://github.com/AdamZieman/Java_2DSearchTree">2D Search Tree</a></h3>
 
@@ -127,316 +121,12 @@ Iterates over a list and returns the list in descending order. The driver class 
 Returns the synonym of a given word by analyzing the frequency of occurrences of each word in a corpus of text files using cosine similarity between frequency vectors. It stores the descriptor vectors for each word in a HashMap and calculates the cosine similarity between two words using their respective frequency maps. <br><br>
 
 
-<!-- C++ Programs -->
-<a id="C++Link"><h2>C++ Programs</h2></a>
-<h3>University of Wisconsin-Parkside Projects</h3>
 
-<!-- Programming Languages -->
-<h4>Course: Programming Languages</h4>
-<table>
-  <tr>
-    <th>Project</th>
-    <th>Brief Description</th>
-    <th>Concepts</th>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/AdamZieman/CPP_CarbonFootprint">Carbon<br>Footprint</a>
-    </td>
-    <td>
-<!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
-      Defines three classes: Car, Building, and Bicycle that inherit from<br>
-      an abstract class CarbonFootprint, which calculates and prints an<br>
-      object's carbon footprint. The main function creates objects of each<br>
-      class and calls the getCarbonFootprint method.
-    </td>
-    <td>
-      <ul>
-        <li>Interfaces</li>
-        <li>Abstract classes</li>
-        <li>Virtual functions</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/AdamZieman/CPP_BankAccount">Bank Account</a>
-    </td>
-    <td>
-<!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
-      Contains three classes that define types of bank accounts:<br>
-      <b>'Account'</b>, <b>'SavingsAccount'</b>, and <b>'CheckingAccount'</b>.<br>
-      It includes methods for crediting and debiting accounts, calculating<br>
-      interest, and applying transaction fees. The main function<br>
-      demonstrates the usage of these classes by creating and manipulating<br>
-      instances of each.
-    </td>
-    <td>
-      <ul>
-        <li>Inheritance / polymorphism</li>
-        <li>Encapsulation</li>
-        <li>Virtual classes</li>
-        <li>Memory management<br>(using destructor)</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/AdamZieman/CPP_RationalNumbers">Rational<br>Numbers</a>
-    </td>
-    <td>
-<!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
-      Defines a RationalNumber class, overloading arithmetic and comparison<br>
-      operators, includes a toString method to print fractions appropriately.<br>
-      Main function to test the implementation.
-    </td>
-    <td>
-      <ul>
-        <li>Operator overloading</li>
-        <li>Header file (.h)</li>
-        <li>String manipulation</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-<br>
-
-  
 <!-- Python Programs -->
-<a id="PythonLink"><h2>Python Scripts</h2></a>
-<h3>University of Wisconsin-Parkside Projects</h3>
+<a id="PythonLink"><h2>Python Projects</h2></a>
+<br><br>
 
-<!-- Programming Languages -->
-<h4>Course: Programming Languages</h4>
-<table>
-  <tr>
-    <th>Project</th>
-    <th>Brief Description</th>
-    <th>Concepts</th>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/AdamZieman/Python_CardClass">Card Class</a>
-    </td>
-    <td>
-<!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
-      Creates a Card object with a rank and suit, provides methods to get<br>
-      rank, suit, and blackjack value. It can also return a string<br>
-      representation of itself.
-    </td>
-    <td>
-      <ul>
-        <li>Object-Oriented Programming</li>
-        <li>Dictionaries as switch statments</li>
-        <li>String formatting</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/AdamZieman/Python_SyracuseSequence">Syracuse<br>Sequence</a>
-    </td>
-    <td>
-<!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
-      Computes and prints the Syracuse sequence for a given starting value,<br>
-      following the rules of the Syracuse function, and stores it in an<br>
-      array.
-    </td>
-    <td>
-      <ul>
-        <li>Arrays</li>
-        <li>Loops</li>
-        <li>Input / Output</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/AdamZieman/Python_BodyMassIndex">Body Mass<br>Index<br>Calculator</a>
-    </td>
-    <td>
-<!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
-      Calculates the body mass index based on the user's weight and height<br>
-      in pounds and inches. It then outputs a message reflecting whether<br>
-      the BMI is above, within, or below the healthy range. 
-    </td>
-    <td>
-      <ul>
-        <li>Control Structures</li>
-        <li>Data type conversion</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/AdamZieman/Python_AcronymBuilder">Acronym<br>Builder</a>
-    </td>
-    <td>
-<!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
-      Converts a user-entered phrase into an acronym.
-    </td>
-    <td>
-      <ul>
-        <li>String manipulation</li>
-        <li>Loops</li>
-        <li>Input / Output</li>
-      </ul>
-    </td>
-  </tr>
-</table>
 
-<!-- Course: Introduction to Programming -->
-<h4>Course: Introduction to Programming</h4>
-<table>
-  <tr>
-    <th>Project</th>
-    <th>Breif Description</th>
-    <th>Concepts</th>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/AdamZieman/Python_CupcakeCoffeeOrdering">Cupcake and<br>Coffee<br>Ordering<br>System</a>
-    </td>
-    <td>
-<!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
-      Serves as a simple ordering system for a cupcake shop. The program<br>
-      calculates the total cost of the order, andprints ASCII art images of<br>
-      the amount of coffee cups and cupcakes ordered.
-    </td>
-    <td>
-      <ul>
-        <li>Functions</li>
-        <li>Control structures</li>
-        <li>Input / output</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/AdamZieman/Python_VolumeConverter">Volume<br>Converter</a>
-    </td>
-    <td>
-<!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
-      Converts volume measurements in ounces to gallons and ounces and<br>
-      prints the result with appropriate pluralization and formatting.
-    </td>
-    <td>
-      <ul>
-        <li>Conditional statements</li>
-        <li>Iteration</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/AdamZieman/Python_WordAnalyzer">Word<br>Analyzer</a>
-    </td>
-    <td>
-<!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
-      Prompts the user for inputs, manipulates strings, and prints results.<br>
-      It performs string slicing, counting, splitting, and replacing<br>
-      operations.
-    </td>
-    <td>
-      <ul>
-        <li>String manipulations</li>
-        <li>List manipulation</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/AdamZieman/Python_InteractiveDrawing">Interactive<br>Drawing</a> 
-    </td>
-    <td>
-<!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
-      Generate a square with random colored stripes of a user-defined<br>
-      center-location, size, and number of stripes in a graphical window.
-    </td>
-    <td>
-      <ul>
-        <li>GUI Programming</li>
-        <li>Text fields</li>
-        <li>Mouse events</li>
-        <li>Itarative drawing</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/AdamZieman/Python_LoopDrawing">Loop<br>Drawing</a> 
-    </td>
-    <td>
-<!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
-      Draws 3 sets of graphics in a window using a loop: anchors,<br>
-      airplanes, sailboats, and traffic lights. Then draws a user-defined<br>
-      amount of circles, at mouse specified locations.
-    </td>
-    <td>
-      <ul>
-        <li>GUI Programming</li>
-        <li>Graphical objects</li>
-        <li>Coordinates</li>
-        <li>Iteration</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/AdamZieman/Python_SimpleDrawing">Graphic<br>Drawing</a>
-    </td>
-    <td>
-<!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
-      Using the graphics module, draws a picture of a movie theather sign<br>
-      promoting their new debut, consisting of a large red rectangle with<br>
-      yellow ovals representing lights, an area for text, and a popcorn<br>
-      container.
-    </td>
-    <td>
-      <ul>
-        <li>Graphics library</li>
-        <ul>
-          <li>Shapes</li>
-          <li>Colors</li>
-        </ul>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/AdamZieman/Python_LoopPractice">Loop<br>Practice</a> 
-    </td>
-    <td>
-<!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
-      Demonstrates knowledge of iteration through four examples, including<br>
-      printing text, looping through a list, taking user input, and<br>
-      arithmetic operations in a loop.
-    </td>
-    <td>
-      <ul>
-        <li>Iteration</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/AdamZieman/Python_AreaRug">Area Rug<br>Calculator</a>
-    </td>
-    <td>
-<!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
-      Calculates the dimenstions and cost of an area rug for a given room<br>
-      size and predefined cost per square foot.
-    </td>
-    <td>
-      <ul>
-        <li>Procedural Programming</li>
-        <li>Input / output</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<br>
 
 <!-- Go Project Portfolio -->
 <a id="GoLink"><h2>Go Projects</h2></a>
@@ -444,6 +134,8 @@ Returns the synonym of a given word by analyzing the frequency of occurrences of
 <h3><a href="https://github.com/AdamZieman/Go_CLI_ToDo">CLI To-Do List Manager</a></h3>
 
 From the command line, a user can manage a todo list by adding a task, deleteing a task, or clearing all tasks. The task list is stored in the program as a slice, and on the system in the file "tasks.txt". User input is read using bufio and manipulates the task list using a switch statement. The Task type is a struct with an ID and name. The program outputs the current task list and available commands to the user. <br><br>
+
+
 
 <!-- Important Links -->
 <a id="ConnectLink"><h2>🤳 Connect with me:</h2></a>
