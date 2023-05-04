@@ -47,12 +47,6 @@ I'm enrolled at the University of Wisconsin-Parkside, pursuing a Bachelor's of S
       <a href="#ConnectLink">Connect With Me</a>
     </td>
     <td>
-      <a href="#LinuxLink">Linux Portfolio</a>
-    </td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>
       <a href="#GoLink">Go Portfolio</a>
     </td>
   </tr>
@@ -676,119 +670,6 @@ I'm enrolled at the University of Wisconsin-Parkside, pursuing a Bachelor's of S
       <ul>
         <li>Procedural Programming</li>
         <li>Input / output</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-<br>
-
-<!-- Linux Project Portfolio -->
-<a id="LinuxLink"><h2>Linux Shell Scripts / OS Projects</h2></a>
-<h3>University of Wisconsin-Parkside Projects</h3>
-
-<!-- UNIX System Administration -->
-<h4>Course: UNIX System Administration</h4>
-<table>
-  <tr>
-    <th>Project</th>
-    <th>Brief Description</th>
-    <th>Concepts</th>
-  </tr>
-  <tr>
-    <td>
-      Deploying Open<br>
-      Source<br>
-      Application<br>
-      (WordPress)
-    </td>
-    <td>
-<!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
-      Configure a virtual machine to a LAMP environment (Linux, Apache,<br>
-      MySQL, and PHP). Create a basic HTML website to deploy with Apache.<br>
-      Download, configure, and deploy WordPress.
-    </td>
-    <td>
-      <ul>
-      </ul>
-    </td>
-  </tr>
-    <tr>
-    <td>
-      Log<br>Management
-    </td>
-    <td>
-<!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
-      Appends entries to the /etc/rsyslog.conf file to log specific traffic<br>
-      to appropriate files. Sensitive/private authorization message of<br>
-      alert and emergency severity and higher to /var/log/authorize. Local<br>
-      messages (except facility 0) of severity notice, warning, and error<br>
-      to /var/log/local. All system daemon message of severity debug to<br>
-      /var/log/ddbug. All local0 messages of severity warning and higher<br>
-      are sent to the root's screen (if logged in). Additionally logs are<br>
-      rotated weekly with 5 backlogs, and email the root account the number<br>
-      of lines in the file.
-    </td>
-    <td>
-      <ul>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      Create Users
-    </td>
-    <td>
-<!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
-      Uses the root account! Reads a file containing (employee ID, full<br>
-      name, department code, security code, phone number, and start date)<br>
-      for several employees. Creates user accounts for each employee with:<br>
-      a unique 8 character long user name, a home directory, GECOS for<br>
-      contact information, added to their department group, sets their<br>
-      password to expire 5 years after their start date, and requiring the<br>
-      user's to change their passwords on the first login.
-    </td>
-    <td>
-      <ul>
-        <li>Accout creation</li>
-        <li>Shadow password file</li>
-        <li>Calculating with EPOCH</li>
-        <li>UID and GID</li>
-        <li>Logic statements</li>
-        <li>Extract data from Excel</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<!-- UNIX Scripting -->
-<h4>Course: UNIX Scripting</h4>
-<table>
-  <tr>
-    <th>Project</th>
-    <th>Brief Description</th>
-    <th>Concepts</th>
-  </tr>
-  <tr>
-    <td>
-      File<br>Comparison
-    </td>
-    <td>
-    </td>
-    <td>
-      <ul>
-        <li></li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      Fibonacci<br>Sequence
-    </td>
-    <td>
-    </td>
-    <td>
-      <ul>
-        <li></li>
       </ul>
     </td>
   </tr>
