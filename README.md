@@ -680,36 +680,11 @@ I'm enrolled at the University of Wisconsin-Parkside, pursuing a Bachelor's of S
 <!-- Go Project Portfolio -->
 <a id="GoLink"><h2>Go Projects</h2></a>
 
-<table>
-  <tr>
-    <th>Project</th>
-    <th>Brief Description</th>
-    <th>Concepts</th>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/AdamZieman/Go_CLI_ToDo">CLI To-Do List<br>Manager</a>
-    </td>
-    <td>
-<!--  123456789012345678901234567890123456789012345678901234567890123456789 -->
-      From the command line, users can manipulate and view a todo list. The<br>
-      tasks are stored in both a seperate file and in the program as a<br>
-      slice. The user can give option on how to manipulate the todo list,<br>
-      which are processed by a switch statement.
-    </td>
-    <td>
-      <ul>
-        <li>Read/write files</li>
-        <li>Error handling</li>
-        <li>Iteration</li>
-        <li>Control statements</li>
-        <li>Manipulating slices and structs</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<h3><a href="https://github.com/AdamZieman/Go_CLI_ToDo">CLI To-Do List Manager</a></h3>
 
-<br>
+From the command line, a user can manage a todo list by adding a task, deleteing a task, or clearing all tasks. The task list is stored in the program as a slice, and on the system in the file "tasks.txt". User input is read using bufio and manipulates the task list using a switch statement. The Task type is a struct with an ID and name. The program outputs the current task list and available commands to the user.
+
+<br><br>
 
 <!-- Important Links -->
 <a id="ConnectLink"><h2>🤳 Connect with me:</h2></a>
