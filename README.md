@@ -53,6 +53,8 @@ I'm enrolled at the University of Wisconsin-Parkside, pursuing a Bachelor's of S
 
 <h3>Graph-based Word Ladder</h3>
 
+Finds the shortest path between two words by changing one letter at a time. It reads a dictionary of words from a file and creates a graph where each node represents a word, and edges connect words that differ by one letter. <br><br>
+
 <h3><a href="https://github.com/AdamZieman/Java_Synonym_Comparison_Tool">Synonym Comparison Tool</a></h3>
 
 Utilizes natural language processing techniques to find the closest synonym for a given word based on a list of word choices. To achieve this, the program uses the cosine similarity between frequency vectors for the words to determine the synonym. <br><br>
