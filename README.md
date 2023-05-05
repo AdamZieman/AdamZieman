@@ -59,9 +59,9 @@ Finds the shortest path between two words by changing one letter at a time. It r
 
 Utilizes natural language processing techniques to find the closest synonym for a given word based on a list of word choices. To achieve this, the program uses the cosine similarity between frequency vectors for the words to determine the synonym. <br><br>
 
-<h3><a href="https://github.com/AdamZieman/Java_2DSearchTree">2D Search Tree</a></h3>
+<h3><a href="https://github.com/AdamZieman/Java_2DSearchTree">Coordinate Tree</a></h3>
 
-TwoDTree is a data structure used for storing 2D points that allows for efficient range search queries. The tree is built by recursively partitioning the plane into smaller rectangles, and each node compares points by x or y value depending on the level of the tree. Searches for points within a given range are done by recursively traversing the tree and only exploring subtrees that might contain points in the range. <br><br>
+A data structure that enables the storage and search of points in two-dimensional space. It is implemeneted as a binary tree, where the nodes are partitioned based on their coordinates. The partitioning is done based on a comparator that alternates between comparing the x- and y-coordinates of the points on each level. <br><br>
 
 <h3><a href="https://github.com/AdamZieman/Java_HeapMedian">Find Median of Heap</a></h3>
 
