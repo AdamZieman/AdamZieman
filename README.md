@@ -18,7 +18,7 @@ I'm enrolled at the University of Wisconsin-Parkside, pursuing a Bachelor's of S
 
 <!-- Eduction Overview -->
 <a id="EducationLink"><h2>🎓 Education:</h2></a>
-<h3>University of Wisconsin-Parkside<i>, Kenosha, WI</i></h3>
+<h3>University of Wisconsin-Parkside</h3>
 
 - [Computer Science, B.S.](https://www.uwp.edu/learn/programs/computersciencemajor.cfm) | Graduation: December 2024
   - Cumulative GPA: 3.5
