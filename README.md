@@ -3,7 +3,7 @@
 
 
 <!-- Brief Introduction -->
-I'm enrolled at the University of Wisconsin-Parkside, pursuing a Bachelor's of Science in Computer Science, UNIX System Administration certificate, and Cyber Security certificate. Additionally, Certified Entry-Level Python Programmer. It is my goal to one day work as a software engineer! <br><br>
+I'm enrolled at the University of Wisconsin-Parkside, pursuing a Bachelor's of Science in Computer Science, 'UNIX System Administration' certificate, and 'Cyber Security' certificate. Additionally, I am a 'Certified Entry-Level Python Programmer'. It is my goal to one day work as a software engineer! <br><br>
 
 
 <!-- Table of Contents -->
