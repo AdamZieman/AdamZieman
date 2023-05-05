@@ -71,10 +71,6 @@ Uses two heaps to maintain the median of a stream of integers in constant time. 
 
 Optimizes the search of the median element of an unsorted array. The driver class, generates random integer arrays of increasing sizes and finding their median and the time taken to search the array. <br><br>
 
-<h3><a href="https://github.com/AdamZieman/Java_GenericReverseOrderSorter">Generic Sorter</a></h3>
-
-Iterates over a list and returns the list in descending order. The driver class reads input from a file containing strings, integers, doubles, then prints the list in descending order. <br><br>
-
 
 
 <!-- Python Programs -->
