@@ -51,6 +51,10 @@ I'm enrolled at the University of Wisconsin-Parkside, pursuing a Bachelor's of S
 <!-- Java Project Portfolio -->
 <a id="JavaLink"><h2>Java Projects</h2></a>
 
+<h3><a href="https://github.com/AdamZieman/Java_Synonym_Comparison_Tool">Synonym Comparison Tool</a></h3>
+
+Utilizes natural language processing techniques to find the closest synonym for a given word based on a list of word choices. To achieve this, the program uses the cosine similarity between frequency vectors for the words to determine the synonym. <br><br>
+
 <h3><a href="https://github.com/AdamZieman/Java_2DSearchTree">2D Search Tree</a></h3>
 
 TwoDTree is a data structure used for storing 2D points that allows for efficient range search queries. The tree is built by recursively partitioning the plane into smaller rectangles, and each node compares points by x or y value depending on the level of the tree. Searches for points within a given range are done by recursively traversing the tree and only exploring subtrees that might contain points in the range. <br><br>
@@ -66,10 +70,6 @@ Optimizes the search of the median element of an unsorted array. The driver clas
 <h3><a href="https://github.com/AdamZieman/Java_GenericReverseOrderSorter">Generic Sorter</a></h3>
 
 Iterates over a list and returns the list in descending order. The driver class reads input from a file containing strings, integers, doubles, then prints the list in descending order. <br><br>
-
-<h3><a href="https://github.com/AdamZieman/Java_Synonyms">Synonyms</a></h3>
-
-Returns the synonym of a given word by analyzing the frequency of occurrences of each word in a corpus of text files using cosine similarity between frequency vectors. It stores the descriptor vectors for each word in a HashMap and calculates the cosine similarity between two words using their respective frequency maps. <br><br>
 
 
 
