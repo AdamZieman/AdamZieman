@@ -51,6 +51,8 @@ I'm enrolled at the University of Wisconsin-Parkside, pursuing a Bachelor's of S
 <!-- Java Project Portfolio -->
 <a id="JavaLink"><h2>Java Projects</h2></a>
 
+<h3>Graph-based Word Ladder</h3>
+
 <h3><a href="https://github.com/AdamZieman/Java_Synonym_Comparison_Tool">Synonym Comparison Tool</a></h3>
 
 Utilizes natural language processing techniques to find the closest synonym for a given word based on a list of word choices. To achieve this, the program uses the cosine similarity between frequency vectors for the words to determine the synonym. <br><br>
