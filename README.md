@@ -51,7 +51,7 @@ I'm enrolled at the University of Wisconsin-Parkside, pursuing a Bachelor's of S
 <!-- Java Project Portfolio -->
 <a id="JavaLink"><h2>Java Projects</h2></a>
 
-<h3>Graph-based Word Ladder</h3>
+<h3><a href="https://github.com/AdamZieman/Java_WordLadder">Graph-based Word Ladder</a></h3>
 
 Finds the shortest path between two words by changing one letter at a time. It reads a dictionary of words from a file and creates a graph where each node represents a word, and edges connect words that differ by one letter. <br><br>
 
