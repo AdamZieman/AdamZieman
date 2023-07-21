@@ -11,7 +11,6 @@ I'm enrolled at the University of Wisconsin-Parkside, pursuing a Bachelor's of S
 <a href="#EducationLink">Education</a> <br>
 <a href="#CertificationLink">Certifications</a> <br>
 <a href="#JavaLink">Java Projects</a> <br>
-<a href="#PythonLink">Python Projects</a> <br>
 <a href="#GoLink">Go Projects</a> <br><br>
 
 
@@ -38,6 +37,7 @@ I'm enrolled at the University of Wisconsin-Parkside, pursuing a Bachelor's of S
 
 - [PCAP - Certified Associate in Python Programming (Version: PCAP-31-03)](https://pythoninstitute.org/pcep) | Issued: May 23, 2023
 - [PCEP - Certified Entry-Level Python Programmer (Version: PCEP-30-02)](https://verify.openedg.org/?id=07wC.sTLQ.26eO) | Issued: April 23, 2023
+- Certified Scrum Developer | Issued: July 18, 2023
 
 <br>
 
@@ -71,11 +71,6 @@ Uses two heaps to maintain the median of a stream of integers in constant time. 
 
 Optimizes the search of the median element of an unsorted array. The driver class, generates random integer arrays of increasing sizes and finding their median and the time taken to search the array. <br><br>
 
-
-
-<!-- Python Programs -->
-<a id="PythonLink"><h2>Python Projects</h2></a>
-<br><br>
 
 
 
