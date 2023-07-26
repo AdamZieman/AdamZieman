@@ -3,7 +3,7 @@
 ## Full Stack Project
 | Program | Languages/Frameworks |
 |:--------|:----------|
-| Password Manager <br> *** in development *** | Java, Spring, SQL |
+| Password Manager <br> Application <br>  *** in development *** | Java, Spring, SQL |
 | Software Engineer <br> Study/Quiz Application <br> *** future project *** | ? |
 
 ## Backend Projects
