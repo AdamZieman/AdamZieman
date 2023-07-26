@@ -4,7 +4,7 @@
 | Program | Languages/Frameworks |
 |:--------|:----------|
 | Password Manager <br> Application <br>  *** in development *** | Java, Spring, SQL |
-| Software Engineer <br> Study/Quiz Application <br> *** future project *** | ? |
+| Software Engineer <br> Study/Quiz Application <br> *** future project *** | ?, HTML, CSS |
 
 ## Backend Projects
 | Program | Languages |
