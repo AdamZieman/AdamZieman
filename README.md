@@ -4,12 +4,13 @@
 | Program | Languages/Frameworks |
 |:--------|:----------|
 | Password Manager <br> Application <br> *** future project *** | Java, Spring, SQL |
-| Software Engineer <br> Study/Quiz Application <br> *** in development *** | ?, HTML, CSS |
+| Software Engineer <br> Study/Quiz Application <br> *** in development *** | Java, HTML, CSS |
 
 ## Backend Projects
 | Program | Languages |
 |:--------|:----------|
 | <a href="https://github.com/AdamZieman/cli-todo-list-manager">CLI To-Do List Manager</a> | Go |
+| Password Strength Test | Python |
 
 ## Data Structure's (Course) Projects
 | Program | Data Structure | Languages |
