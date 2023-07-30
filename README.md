@@ -3,8 +3,8 @@
 ## Full Stack Project
 | Program | Languages/Frameworks |
 |:--------|:----------|
-| Password Manager <br> Application <br>  *** in development *** | Java, Spring, SQL |
-| Software Engineer <br> Study/Quiz Application <br> *** future project *** | ?, HTML, CSS |
+| Password Manager <br> Application <br> *** future project *** | Java, Spring, SQL |
+| Software Engineer <br> Study/Quiz Application <br> *** in development *** | ?, HTML, CSS |
 
 ## Backend Projects
 | Program | Languages |
