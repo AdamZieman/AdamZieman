@@ -15,7 +15,7 @@
 |:--------|:----------|
 | <a href="https://github.com/AdamZieman/todo-list-manager">To-Do List Manager</a> | Go |
 
-## Data Structure's (Course) Projects
+## University of Wisconsin-Parkside's Programming Assignments
 | Program | Data Structure | Languages |
 |:--------|:---------------|:----------|
 | <a href="https://github.com/AdamZieman/synonym-comparison-tool">Synonym Comparison Tool</a> | HashMap | Java |
