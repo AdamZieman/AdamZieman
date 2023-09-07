@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Adam Zieman</h1>
 <h3 align="center">A passionate software developer from Milwaukee, Wisconsin</h3>
 
+<h2 align="center">Personal Projects</h2>
+
+| Program | Language |
+|:---|:---|
+| Flight Tracker Application | Java, FXML |
+| CLI To-Do List | Go |
+
 <h2 align="center">University of Wisconsin Parkside Programs</h2>
 
 | Course | Programs | Language |
