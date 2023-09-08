@@ -33,6 +33,7 @@
   </tr>
   <tr>
     <td>Median of an Unsorted Array</td>
+    <td>quickselect algorithm</td>
   </tr>
 </table>
 
