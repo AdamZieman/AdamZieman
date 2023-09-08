@@ -48,7 +48,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/AdamZieman/synonym-comparison-tool">Synonym Comparison Tool</a></td>
-    <td>hashmap <br> natural language processing techniques <br> website text processing</td>
+    <td>hashmaps <br> natural language processing techniques <br> website text processing</td>
   </tr>
   <tr>
     <td>Recursion</td>
