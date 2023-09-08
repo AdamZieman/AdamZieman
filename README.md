@@ -3,10 +3,23 @@
 
 <h2 align="center">Personal Projects</h2>
 
-| Program | Language |
-|:---|:---|
-| Flight Tracker Application | Java, FXML |
-| CLI To-Do List | Go |
+<table>
+  <tr>
+    <th>Program</th>
+    <th>Language(s)</th>
+    <th>Tools</th>
+  </tr>
+  <tr>
+    <td>Flight Tracker Application</td>
+    <td>Java, FXML</td>
+    <td>aviationstack API</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/AdamZieman/todo-list-manager">CLI To-Do List Manager</a></td>
+    <td>Go</td>
+    <td>-</td>
+  </tr>
+</table>
 
 <h2 align="center">University of Wisconsin Parkside's Programs</h2>
 
