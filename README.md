@@ -12,24 +12,56 @@
 
 <h3>Data Structures and Algorithm Design</h3>
 <p>Language: Java</p>
-<ul>
-  <li><a href="https://github.com/AdamZieman/word-ladder">Graph-based Word Ladder</a></li>
-  <li><a href="https://github.com/AdamZieman/2d-coordinate-bst">2D-Coordinate BST</a></li>
-  <li>Median of a Heap</li>
-  <li>Median of an Unsorted Array</li>
-</ul>
+<table>
+  <tr>
+    <th>Program</th>
+    <th>Concept</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/AdamZieman/word-ladder">Graph-based Word Ladder</a></td>
+    <td>graphs <br> breadth first search algorithm</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/AdamZieman/2d-coordinate-bst">2D-Coordinate BST</a></td>
+    <td>binary search trees</td>
+  </tr>
+  <tr>
+    <td>Median of a Heap</td>
+    <td>heaps</td>
+  </tr>
+  <tr>
+    <td>Median of an Unsorted Array</td>
+  </tr>
+</table>
 
 <br>
 
 <h3>Computer Science 2</h3>
 <p>Language: Java</p>
-<ul>
-  <li><a href="https://github.com/AdamZieman/synonym-comparison-tool">Synonym Comparison Tool</a></li>
-  <li>Recursion</li>
-  <li>Draw Shapes</li>
-  <li>Bank Account</li>
-  <li>File In Out</li>
-</ul>
+<table>
+  <tr>
+    <th>Program</th>
+    <th>Concept</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/AdamZieman/synonym-comparison-tool">Synonym Comparison Tool</a></td>
+  </tr>
+  <tr>
+    <td>Recursion</td>
+    <td>recursion</td>
+  </tr>
+  <tr>
+    <td>DrawShapes</td>
+  </tr>
+  <tr>
+    <td>Bank Account</td>
+    <td>inheritance</td>
+  </tr>
+  <tr>
+    <td>File In Out</td>
+    <td>text file processing/writing</td>
+  </tr>
+</table>
 
 <br>
 
