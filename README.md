@@ -21,9 +21,12 @@
   </tr>
 </table>
 
-<h2 align="center">University of Wisconsin Parkside's Programs</h2>
+<br>
 
-<p align="center">21 Java Programs | 10 Python Programs</p>
+<h2 align="center">Academic Projects</h2>
+
+<p align="center"> Bachelor of Science in Computer Science @ University of Wisconsin-Parkside <br>
+  21 Java Programs | 10 Python Programs</p>
 
 <h3>Data Structures and Algorithm Design</h3>
 <p>Language: Java</p>
