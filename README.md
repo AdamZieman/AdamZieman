@@ -35,20 +35,48 @@
 
 <h3>Computer Science 1</h3>
 <p>Language: Java</p>
-<ul>
-  <li>Box Stack</li>
-  <li>Time Clock</li>
-  <li>Numbers in 2D</li>
-  <li>Array Counts</li>
-  <li>Halloween Game</li>
-  <li>For Loops</li>
-  <li>Do While Loops</li>
-  <li>While Loops</li>
-  <li>Circles GUI</li>
-  <li>Electric Bill</li>
-  <li>Find Average Speed</li>
-  <li>Base 10 to 8</li>
-</ul>
+<table>
+  <tr>
+    <th>Program</th>
+    <th>Concept</th>
+  </tr>
+  <tr>
+    <td>Box Stack</td>
+  </tr>
+  <tr>
+    <td>Time Clock</td>
+  </tr>
+  <tr>
+    <td>Numbers in 2D</td>
+  </tr>
+  <tr>
+    <td>Array Counts</td>
+  </tr>
+  <tr>
+    <td>Halloween Game</td>
+  </tr>
+  <tr>
+    <td>For Loops</td>
+  </tr>
+  <tr>
+    <td>Do While Loops</td>
+  </tr>
+  <tr>
+    <td>While Loops</td>
+  </tr>
+  <tr>
+    <td>Circles GUI</td>
+  </tr>
+  <tr>
+    <td>Electric Bill</td>
+  </tr>
+  <tr>
+    <td>Find Average Speed</td>
+  </tr>
+  <tr>
+    <td>Base 10 to 8</td>
+  </tr>
+</table>
 
 <br>
 
@@ -72,12 +100,15 @@
     <td>strings and lists</td>
   <tr>
     <td>Input Drawing</td>
+    <td>interactive graphics</td>
   </tr>
   <tr>
     <td>Loop Drawing</td>
+    <td>iteration with graphics</td>
   </tr>
   <tr>
     <td>Picture</td>
+    <td>graphics</td>
   </tr>
   <tr>
     <td>Loop Practice</td>
