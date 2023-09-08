@@ -45,6 +45,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/AdamZieman/synonym-comparison-tool">Synonym Comparison Tool</a></td>
+    <td>hashmap <br> natural language processing techniques <br> website text processing</td>
   </tr>
   <tr>
     <td>Recursion</td>
@@ -74,27 +75,34 @@
   </tr>
   <tr>
     <td>Box Stack</td>
+    <td>array of objects</td>
   </tr>
   <tr>
     <td>Time Clock</td>
+    <td>instantiable class</td>
   </tr>
   <tr>
     <td>Numbers in 2D</td>
+    <td>2-D arrays</td>
   </tr>
   <tr>
     <td>Array Counts</td>
+    <td>arrays</td>
   </tr>
   <tr>
     <td>Halloween Game</td>
   </tr>
   <tr>
     <td>For Loops</td>
+    <td>iteration</td>
   </tr>
   <tr>
     <td>Do While Loops</td>
+    <td>iteration</td>
   </tr>
   <tr>
     <td>While Loops</td>
+    <td>iteration</td>
   </tr>
   <tr>
     <td>Circles GUI</td>
