@@ -54,15 +54,45 @@
 
 <h3>Introduction to Programming</h3>
 <p>Language: Python</p>
-<ul>
-  <li>Cupcake Shop</li>
-  <li>Print Gallons Ounces</li>
-  <li>Practice String List</li>
-  <li>Input Drawing</li>
-  <li>Loop Drawing</li>
-  <li>Picture</li>
-  <li>Loop Practice</li>
-  <li>Area Rug</li>
-  <li>Month Day Game</li>
-  <li>Butterfly</li>
-</ul>
+<table>
+  <tr>
+    <th>Program</th>
+    <th>Concept</th>
+  </tr>
+  <tr>
+    <td>Cupcake Shop</td>
+    <td>functions</td>
+  </tr>
+  <tr>
+    <td>Print Gallons Ounces</td>
+    <td>conditional statements</td>
+  </tr>
+  <tr>
+    <td>Practice String List</td>
+    <td>strings and lists</td>
+  <tr>
+    <td>Input Drawing</td>
+  </tr>
+  <tr>
+    <td>Loop Drawing</td>
+  </tr>
+  <tr>
+    <td>Picture</td>
+  </tr>
+  <tr>
+    <td>Loop Practice</td>
+    <td>iteration</td>
+  </tr>
+  <tr>
+    <td>Area Rug</td>
+    <td>IPO (input-process-output) structure</td>
+  </tr>
+  <tr>
+    <td>Month Day Game</td>
+    <td>arithemetic operations</td>
+  </tr>
+  <tr>
+    <td>Butterfly</td>
+    <td>input and output</td>
+  </tr>
+</table>
