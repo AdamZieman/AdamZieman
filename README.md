@@ -28,11 +28,11 @@
     <td>binary search trees</td>
   </tr>
   <tr>
-    <td>Median of a Heap</td>
+    <td><a href="https://github.com/AdamZieman/heap-median">Median of a Heap</td>
     <td>heaps</td>
   </tr>
   <tr>
-    <td>Median of an Unsorted Array</td>
+    <td><a href="https://github.com/AdamZieman/median-unsorted-array">Median of an Unsorted Array</td>
     <td>quickselect algorithm</td>
   </tr>
 </table>
