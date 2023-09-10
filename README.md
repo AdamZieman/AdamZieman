@@ -124,6 +124,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/AdamZieman/halloween-game">Halloween Game</a></td>
+    <td>methods</td>
   </tr>
   <tr>
     <td><a href="https://github.com/AdamZieman/java-loop-practice">Loop Practice</a></td>
@@ -131,15 +132,19 @@
   </tr>
   <tr>
     <td><a href="https://github.com/AdamZieman/circles-gui">Circles GUI</a></td>
+    <td>graphics</td>
   </tr>
   <tr>
     <td><a href="https://github.com/AdamZieman/electric-bill">Electric Bill</a></td>
+    <td>formatting print</td>
   </tr>
   <tr>
     <td><a href="https://github.com/AdamZieman/find-average-speed">Find Average Speed</a></td>
+    <td>input and output</td>
   </tr>
   <tr>
     <td><a href="https://github.com/AdamZieman/base-10-to-8">Base 10 to 8</a></td>
+    <td>arithemetic operations</td>
   </tr>
 </table>
 
