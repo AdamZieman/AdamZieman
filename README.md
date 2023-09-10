@@ -86,10 +86,11 @@
   </tr>
   <tr>
     <td>DrawShapes</td>
+    <td>GUI (graphical-user-interface)</td>
   </tr>
   <tr>
     <td>Bank Account</td>
-    <td>inheritance</td>
+    <td>inheritance <br> polymorphism</td>
   </tr>
   <tr>
     <td>File In Out</td>
