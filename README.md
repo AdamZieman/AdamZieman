@@ -40,7 +40,7 @@
 <h2 align="center">Academic Projects</h2>
 
 <p align="center"> Bachelor of Science in Computer Science @ University of Wisconsin-Parkside <br>
-  21 Java Programs | 10 Python Programs</p>
+  19 Java Programs | 10 Python Programs</p>
 
 <h3>Data Structures and Algorithm Design</h3>
 <p>Language: Java</p>
@@ -107,47 +107,39 @@
     <th>Concept</th>
   </tr>
   <tr>
-    <td>Box Stack</td>
+    <td><a href="https://github.com/AdamZieman/box-stack">Box Stack</a></td>
     <td>array of objects</td>
   </tr>
   <tr>
-    <td>Time Clock</td>
+    <td><a href="https://github.com/AdamZieman/time-clock">Time Clock</a></td>
     <td>instantiable class</td>
   </tr>
   <tr>
-    <td>Numbers in 2D</td>
+    <td><a href="https://github.com/AdamZieman/numbers-in-2d">Numbers in 2D</a></td>
     <td>2-D arrays</td>
   </tr>
   <tr>
-    <td>Array Counts</td>
+    <td><a href="https://github.com/AdamZieman/array-counts">Array Counts</a></td>
     <td>arrays</td>
   </tr>
   <tr>
-    <td>Halloween Game</td>
+    <td><a href="https://github.com/AdamZieman/halloween-game">Halloween Game</a></td>
   </tr>
   <tr>
-    <td>For Loops</td>
+    <td><a href="https://github.com/AdamZieman/java-loop-practice">Loop Practice</a></td>
     <td>iteration</td>
   </tr>
   <tr>
-    <td>Do While Loops</td>
-    <td>iteration</td>
+    <td><a href="https://github.com/AdamZieman/circles-gui">Circles GUI</a></td>
   </tr>
   <tr>
-    <td>While Loops</td>
-    <td>iteration</td>
+    <td><a href="https://github.com/AdamZieman/electric-bill">Electric Bill</a></td>
   </tr>
   <tr>
-    <td>Circles GUI</td>
+    <td><a href="https://github.com/AdamZieman/find-average-speed">Find Average Speed</a></td>
   </tr>
   <tr>
-    <td>Electric Bill</td>
-  </tr>
-  <tr>
-    <td>Find Average Speed</td>
-  </tr>
-  <tr>
-    <td>Base 10 to 8</td>
+    <td><a href="https://github.com/AdamZieman/base-10-to-8">Base 10 to 8</a></td>
   </tr>
 </table>
 
