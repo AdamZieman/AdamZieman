@@ -81,19 +81,19 @@
     <td>hashmaps <br> natural language processing techniques <br> website text processing</td>
   </tr>
   <tr>
-    <td>Recursion</td>
+    <td><a href="https://github.com/AdamZieman/recursion">Recursion</a></td>
     <td>recursion</td>
   </tr>
   <tr>
-    <td>DrawShapes</td>
+    <td><a href="https://github.com/AdamZieman/draw-shapes">DrawShapes</a></td>
     <td>GUI (graphical-user-interface)</td>
   </tr>
   <tr>
-    <td>Bank Account</td>
+    <td><a href="https://github.com/AdamZieman/bank-account">Bank Account</a></td>
     <td>inheritance <br> polymorphism</td>
   </tr>
   <tr>
-    <td>File In Out</td>
+    <td><a href="https://github.com/AdamZieman/file-in-out">File In Out</a></td>
     <td>text file processing/writing</td>
   </tr>
 </table>
