@@ -161,26 +161,26 @@
     <th>Concept</th>
   </tr>
   <tr>
-    <td>Cupcake Shop</td>
+    <td><a href="https://github.com/AdamZieman/cupcake-shop">Cupcake Shop</a></td>
     <td>functions</td>
   </tr>
   <tr>
-    <td>Print Gallons Ounces</td>
+    <td><a href="https://github.com/AdamZieman/print-gallons-ounces">Print Gallons Ounces</a></td>
     <td>conditional statements</td>
   </tr>
   <tr>
-    <td>Practice String List</td>
+    <td><a href="https://github.com/AdamZieman/practice-string-list">Practice String List</a></td>
     <td>strings and lists</td>
   <tr>
-    <td>Input Drawing</td>
+    <td><a href="https://github.com/AdamZieman/input-drawing">Input Drawing</a></td>
     <td>interactive graphics</td>
   </tr>
   <tr>
-    <td>Loop Drawing</td>
+    <td><a href="https://github.com/AdamZieman/loop-drawing">Loop Drawing</a></td>
     <td>iteration with graphics</td>
   </tr>
   <tr>
-    <td>Picture</td>
+    <td><a href="https://github.com/AdamZieman/picture">Picture</a></td>
     <td>graphics</td>
   </tr>
   <tr>
