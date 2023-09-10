@@ -184,19 +184,19 @@
     <td>graphics</td>
   </tr>
   <tr>
-    <td>Loop Practice</td>
+    <td><a href="https://github.com/AdamZieman/loop-practice">Loop Practice</a></td>
     <td>iteration</td>
   </tr>
   <tr>
-    <td>Area Rug</td>
+    <td><a href="https://github.com/AdamZieman/area-rug">Area Rug</a></td>
     <td>IPO (input-process-output) structure</td>
   </tr>
   <tr>
-    <td>Month Day Game</td>
+    <td><a href="https://github.com/AdamZieman/month-day-game">Month Day Game</a></td>
     <td>arithemetic operations</td>
   </tr>
   <tr>
-    <td>Butterfly</td>
+    <td><a href="https://github.com/AdamZieman/butterfly">Butterfly</a></td>
     <td>input and output</td>
   </tr>
 </table>
