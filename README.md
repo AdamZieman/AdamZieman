@@ -24,9 +24,9 @@
     <th>Tools</th>
   </tr>
   <tr>
-    <td>Flight Tracker Application</td>
-    <td>Java, FXML</td>
-    <td>aviationstack API</td>
+    <td><a href="https://github.com/AdamZieman/dining_dilemma">Dining Dilemma</a></td>
+    <td>Python</td>
+    <td>Tkinter, unittest</td>
   </tr>
   <tr>
     <td><a href="https://github.com/AdamZieman/todo-list-manager">CLI To-Do List Manager</a></td>
