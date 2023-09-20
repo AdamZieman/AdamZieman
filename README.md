@@ -20,17 +20,20 @@
 <table>
   <tr>
     <th>Program</th>
-    <th>Language(s)</th>
-    <th>Tools</th>
+    <th>Language</th>
+    <th>Library</th>
+    <th>Framework</th>
   </tr>
   <tr>
     <td><a href="https://github.com/AdamZieman/dining_dilemma">Dining Dilemma</a></td>
     <td>Python</td>
-    <td>Tkinter, unittest</td>
+    <td>Tkinter</td>
+    <td>unittest</td>
   </tr>
   <tr>
     <td><a href="https://github.com/AdamZieman/todo-list-manager">CLI To-Do List Manager</a></td>
     <td>Go</td>
+    <td>-</td>
     <td>-</td>
   </tr>
 </table>
