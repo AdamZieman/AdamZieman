@@ -26,7 +26,7 @@
   </tr>
   <tr>
     <td>Job Application Vault</td>
-    <td>Java<br>SQL</td>
+    <td>Java<br>SQL<br>FXML</td>
     <td>FromsFX</td>
     <td>Java Database Connectivity (JDBC)<br>JavaFX<br>JUnit</td>
   </tr>
