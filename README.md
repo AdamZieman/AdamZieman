@@ -25,6 +25,12 @@
     <th>Framework</th>
   </tr>
   <tr>
+    <td>Job Application Vault</td>
+    <td>Java<br>SQL</td>
+    <td>FromsFX</td>
+    <td>Java Database Connectivity (JDBC)<br>JavaFX<br>JUnit</td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/AdamZieman/dining_dilemma">Dining Dilemma</a></td>
     <td>Python</td>
     <td>Tkinter</td>
