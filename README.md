@@ -60,7 +60,7 @@
     <th>Concept</th>
   </tr>
   <tr>
-    <td>Job Board Web Scraper</td>
+    <td>Job Board Web Scraper <br> Web Application</td>
     <td>agile methodologies <br> software developement life cycle</td>
   </tr>
 </table>
