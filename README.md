@@ -60,7 +60,7 @@
     <th>Concept</th>
   </tr>
   <tr>
-    <td>Job Board Web Scraper <br> Web Application <br> (group project)</td>
+    <td><a href="https://github.com/uwp-se/JobScraper">Job Board Web Scraper <br> Web Application <br> (group project)</a><br>(under developement)</td>
     <td>software development process (agile / scrum) <br> software developement life cycle <br> software architecture, design & modeling</td>
   </tr>
 </table>
