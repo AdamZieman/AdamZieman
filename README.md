@@ -65,6 +65,8 @@
   </tr>
 </table>
 
+<br>
+
 <h3>Data Structures and Algorithm Design</h3>
 <p>Language: Java</p>
 <table>
