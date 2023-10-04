@@ -94,7 +94,7 @@
 
 <br>
 
-<h3>Computer Science 2</h3>
+<h3>Computer Science 1 & 2</h3>
 <p>Language: Java</p>
 <table>
   <tr>
@@ -120,17 +120,6 @@
   <tr>
     <td><a href="https://github.com/AdamZieman/file-in-out">File In Out</a></td>
     <td>text file processing/writing</td>
-  </tr>
-</table>
-
-<br>
-
-<h3>Computer Science 1</h3>
-<p>Language: Java</p>
-<table>
-  <tr>
-    <th>Program</th>
-    <th>Concept</th>
   </tr>
   <tr>
     <td><a href="https://github.com/AdamZieman/box-stack">Box Stack</a></td>
