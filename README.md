@@ -25,11 +25,6 @@
     <th>Framework</th>
   </tr>
   <tr>
-    <td>Job Board Web Scraper<br>(group project)</td>
-    <td>Python<br>SQL</td>
-    <td>BeautfulSoup</td>
-    <td></td>
-  </tr>
   <tr>
     <td>Job Application Vault</td>
     <td>Java<br>SQL<br>FXML</td>
@@ -56,6 +51,19 @@
 
 <p align="center"> Bachelor of Science in Computer Science @ University of Wisconsin-Parkside <br>
   19 Java Programs | 10 Python Programs</p>
+
+<h3>Software Engineering Practices and Principles</h3>
+<p>Languages: Python, SQL</p>
+<table>
+  <tr>
+    <th>Program</th>
+    <th>Concept</th>
+  </tr>
+  <tr>
+    <td>Job Board Web Scraper</td>
+    <td>agile methodologies <br> software developement life cycle</td>
+  </tr>
+</table>
 
 <h3>Data Structures and Algorithm Design</h3>
 <p>Language: Java</p>
