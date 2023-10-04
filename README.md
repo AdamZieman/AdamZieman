@@ -94,7 +94,7 @@
 
 <br>
 
-<h3>Computer Science 1 & 2</h3>
+<h3>Computer Science</h3>
 <p>Language: Java</p>
 <table>
   <tr>
