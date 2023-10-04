@@ -50,7 +50,7 @@
 <h2 align="center">Academic Projects</h2>
 
 <p align="center"> Bachelor of Science in Computer Science @ University of Wisconsin-Parkside <br>
-  19 Java Programs | 10 Python Programs</p>
+  19 Java Programs | 11 Python Programs</p>
 
 <h3>Software Engineering Practices and Principles</h3>
 <p>Languages: Python, SQL</p>
