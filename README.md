@@ -61,7 +61,7 @@
   </tr>
   <tr>
     <td>Job Board Web Scraper <br> Web Application</td>
-    <td>agile methodologies <br> software developement life cycle</td>
+    <td>software development process (agile / scrum) <br> software developement life cycle <br> software architecture, design & modeling</td>
   </tr>
 </table>
 
