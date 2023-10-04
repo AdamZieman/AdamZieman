@@ -25,6 +25,12 @@
     <th>Framework</th>
   </tr>
   <tr>
+    <td>Job Board Web Scraper<br>(group project)</td>
+    <td>Python<br>SQL</td>
+    <td>BeautfulSoup</td>
+    <td></td>
+  </tr>
+  <tr>
     <td>Job Application Vault</td>
     <td>Java<br>SQL<br>FXML</td>
     <td>FromsFX</td>
