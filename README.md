@@ -53,7 +53,7 @@
   19 Java Programs | 11 Python Programs</p>
 
 <h3>Software Engineering Practices and Principles</h3>
-<p>Languages: Python, SQL</p>
+<p><i>CSCI: 475-476</i> <br> Languages: Python, SQL</p>
 <table>
   <tr>
     <th>Program</th>
@@ -68,7 +68,7 @@
 <br>
 
 <h3>Computer Communications and Networks</h3>
-<p>Languages: Python</p>
+<p><i>CSCI: 477</i> <br> Languages: Python</p>
 <table>
   <tr>
     <th>Program</th>
@@ -83,7 +83,7 @@
 <br>
 
 <h3>Data Structures and Algorithm Design</h3>
-<p>Language: Java</p>
+<p><i>CSCI: 340</i> <br> Language: Java</p>
 <table>
   <tr>
     <th>Program</th>
@@ -110,7 +110,7 @@
 <br>
 
 <h3>Computer Science</h3>
-<p>Language: Java</p>
+<p><i>CSCI: 241-242</i> <br> Language: Java</p>
 <table>
   <tr>
     <th>Program</th>
@@ -181,7 +181,7 @@
 <br>
 
 <h3>Introduction to Programming</h3>
-<p>Language: Python</p>
+<p><i>CSCI: 130</i> <br> Language: Python</p>
 <table>
   <tr>
     <th>Program</th>
