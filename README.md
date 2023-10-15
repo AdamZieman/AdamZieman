@@ -98,11 +98,11 @@
     <td>binary search trees</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/AdamZieman/heap-median">Median of a Heap</td>
+    <td><a href="https://github.com/AdamZieman/heap-median">Median of a Heap</a></td>
     <td>heaps</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/AdamZieman/median-unsorted-array">Median of an Unsorted Array</td>
+    <td><a href="https://github.com/AdamZieman/median-unsorted-array">Median of an Unsorted Array</a></td>
     <td>quickselect algorithm</td>
   </tr>
 </table>
