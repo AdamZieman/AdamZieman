@@ -67,6 +67,21 @@
 
 <br>
 
+<h3>Computer Communications and Networks</h3>
+<p>Languages: Python</p>
+<table>
+  <tr>
+    <th>Program</th>
+    <th>Concept</th>
+  </tr>
+  <tr>
+    <td>Web Server</td>
+    <td>Socket Programming for TCP Connections</td>
+  </tr>
+</table>
+
+<br>
+
 <h3>Data Structures and Algorithm Design</h3>
 <p>Language: Java</p>
 <table>
