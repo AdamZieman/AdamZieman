@@ -75,8 +75,8 @@
     <th>Concept</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/AdamZieman/basic-web-server">Web Server</a></td>
-    <td>Socket Programming for TCP Connections</td>
+    <td><a href="https://github.com/AdamZieman/basic-web-server">Basic Web Server</a></td>
+    <td>socket programming for TCP connections</td>
   </tr>
 </table>
 
