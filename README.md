@@ -27,9 +27,9 @@
   <tr>
   <tr>
     <td>Job Application Vault</td>
-    <td>Java<br>SQL<br>FXML</td>
-    <td>FromsFX</td>
-    <td>Java Database Connectivity (JDBC)<br>JavaFX<br>JUnit</td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td><a href="https://github.com/AdamZieman/dining_dilemma">Dining Dilemma</a></td>
