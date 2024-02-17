@@ -1,234 +1,42 @@
-<h1 align="center">Hi 👋, I'm Adam Zieman</h1>
-<h3 align="center">A passionate software developer from Milwaukee, Wisconsin</h3>
+# Personal Projects
 
-<p align="center">
-  <!-- JAVA -->
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <!-- PYTHON -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <!-- HTML -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <!-- CSS -->
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <!-- GIT -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <!-- LINUX -->
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <!-- BASH -->
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-</p>
+| Program | Languages | Technologies |
+|:---|:---|:---|
+| [Job Application Vault](https://github.com/AdamZieman/JobApplicationVault) | Python (PyQt), CSS, SQL | SQLite |
+| [Dining Dilemma](https://github.com/AdamZieman/dining_dilemma) | Python (Tkinter) | - |
+| [CLI To-Do List Manager](https://github.com/AdamZieman/todo-list-manager) | Go | - |
 
-<br>
-
-<h2 align="center">Personal Projects</h2>
-
-<table>
-  <tr>
-    <th>Program</th>
-    <th>Language</th>
-    <th>Library</th>
-    <th>Framework</th>
-  </tr>
-  <tr>
-  <tr>
-    <td>Job Application Vault</td>
-    <td>Python, SQL, CSS</td>
-    <td></td>
-    <td>PyQt</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/AdamZieman/dining_dilemma">Dining Dilemma</a></td>
-    <td>Python</td>
-    <td>Tkinter</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/AdamZieman/todo-list-manager">CLI To-Do List Manager</a></td>
-    <td>Go</td>
-    <td>-</td>
-    <td>-</td>
-  </tr>
-</table>
-
-<br>
-
-<h2 align="center">Academic Projects</h2>
-
-<p align="center"> Bachelor of Science in Computer Science @ University of Wisconsin-Parkside <br>
-  19 Java Programs | 12 Python Programs</p>
-
-<h3>Software Engineering Practices and Principles</h3>
-<p>Languages: Python, JavaScript, SQL, HTML, CSS</p>
-<table>
-  <tr>
-    <th>Program</th>
-    <th>Concept</th>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/uwp-se/JobScraper">Job Board Web Scraper <br> Web Application <br> (group project)</a><br>(under developement)</td>
-    <td>software development process (agile / scrum) <br> software developement life cycle <br> software architecture, design & modeling</td>
-  </tr>
-</table>
-
-<br>
-
-<h3>Computer Communications and Networks</h3>
-<p>Language: Python</p>
-<table>
-  <tr>
-    <th>Program</th>
-    <th>Concept</th>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/AdamZieman/basic-web-server">Basic Web Server</a></td>
-    <td>socket programming for TCP connections</td>
-  </tr>
-</table>
-
-<br>
-
-<h3>Data Structures and Algorithm Design</h3>
-<p>Language: Java</p>
-<table>
-  <tr>
-    <th>Program</th>
-    <th>Concept</th>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/AdamZieman/word-ladder">Graph-based Word Ladder</a></td>
-    <td>graphs <br> breadth first search algorithm</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/AdamZieman/2d-coordinate-bst">2D-Coordinate BST</a></td>
-    <td>binary search trees</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/AdamZieman/heap-median">Median of a Heap</a></td>
-    <td>heaps</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/AdamZieman/median-unsorted-array">Median of an Unsorted Array</a></td>
-    <td>quickselect algorithm</td>
-  </tr>
-</table>
-
-<br>
-
-<h3>Computer Science</h3>
-<p>Language: Java</p>
-<table>
-  <tr>
-    <th>Program</th>
-    <th>Concept</th>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/AdamZieman/synonym-comparison-tool">Synonym Comparison Tool</a></td>
-    <td>hashmaps <br> natural language processing techniques <br> website text processing</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/AdamZieman/recursion">Recursion</a></td>
-    <td>recursion</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/AdamZieman/draw-shapes">DrawShapes</a></td>
-    <td>GUI (graphical-user-interface)</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/AdamZieman/bank-account">Bank Account</a></td>
-    <td>inheritance <br> polymorphism</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/AdamZieman/file-in-out">File In Out</a></td>
-    <td>text file processing/writing</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/AdamZieman/box-stack">Box Stack</a></td>
-    <td>array of objects</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/AdamZieman/time-clock">Time Clock</a></td>
-    <td>instantiable class</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/AdamZieman/numbers-in-2d">Numbers in 2D</a></td>
-    <td>2-D arrays</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/AdamZieman/array-counts">Array Counts</a></td>
-    <td>arrays</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/AdamZieman/halloween-game">Halloween Game</a></td>
-    <td>methods</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/AdamZieman/java-loop-practice">Loop Practice</a></td>
-    <td>iteration</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/AdamZieman/circles-gui">Circles GUI</a></td>
-    <td>graphics</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/AdamZieman/electric-bill">Electric Bill</a></td>
-    <td>formatting print</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/AdamZieman/find-average-speed">Find Average Speed</a></td>
-    <td>input and output</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/AdamZieman/base-10-to-8">Base 10 to 8</a></td>
-    <td>arithemetic operations</td>
-  </tr>
-</table>
-
-<br>
-
-<h3>Introduction to Programming</h3>
-<p>Language: Python</p>
-<table>
-  <tr>
-    <th>Program</th>
-    <th>Concept</th>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/AdamZieman/cupcake-shop">Cupcake Shop</a></td>
-    <td>functions</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/AdamZieman/print-gallons-ounces">Print Gallons Ounces</a></td>
-    <td>conditional statements</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/AdamZieman/practice-string-list">Practice String List</a></td>
-    <td>strings and lists</td>
-  <tr>
-    <td><a href="https://github.com/AdamZieman/input-drawing">Input Drawing</a></td>
-    <td>interactive graphics</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/AdamZieman/loop-drawing">Loop Drawing</a></td>
-    <td>iteration with graphics</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/AdamZieman/picture">Picture</a></td>
-    <td>graphics</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/AdamZieman/loop-practice">Loop Practice</a></td>
-    <td>iteration</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/AdamZieman/area-rug">Area Rug</a></td>
-    <td>IPO (input-process-output) structure</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/AdamZieman/month-day-game">Month Day Game</a></td>
-    <td>arithemetic operations</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/AdamZieman/butterfly">Butterfly</a></td>
-    <td>input and output</td>
-  </tr>
-</table>
+# Academic Projects
+| Program | Languages | Technologies | Concepts |
+|:---|:---|:---|:---|
+| [Job Scraper](https://github.com/uwp-se/JobScraper) | Python (Flask), <br> HTML, CSS, <br> JavaScript | Firebase | *Software Development Life Cycle (SDLC)* <br> *Scrum Development* |
+| [Basic Web Server](https://github.com/AdamZieman/basic-web-server) | Python | - | *Socket programming for TCP connections* |
+| [Graph-Based Word Ladder](https://github.com/AdamZieman/word-ladder) | Java | - | *Graph data structure* <br> *Breadth First Search (BFS) algorithm* |
+| [2D-Coordinate BST](https://github.com/AdamZieman/2d-coordinate-bst) | Java | - | *Binary Search Tree (BST) data structure* |
+| [Median of a Heap](https://github.com/AdamZieman/heap-median) | Java | - | *Heap data structure* |
+| [Median of an Unsorted Array](https://github.com/AdamZieman/median-unsorted-array) | Java | - | *QuickSelect algorithm* |
+| [Synonym Comparison Tool](https://github.com/AdamZieman/synonym-comparison-tool) | Java | - | *HashMaps* <br> *Text processing* |
+| [Recursion](https://github.com/AdamZieman/recursion) | Java | - | *Recursive programming* |
+| [Draw Shapes](https://github.com/AdamZieman/draw-shapes) | Java (Swing) | - | *Java Graphical User Interface (GUI) using Spring* |
+| [Bank Account](https://github.com/AdamZieman/bank-account) | Java | - | *Inheritance* <br> *Polymorphism* |
+| [File In Out](https://github.com/AdamZieman/file-in-out) | Java | - | *File Input/Output (I/O)* |
+| [Box Stack](https://github.com/AdamZieman/box-stack) | Java | - | *Array of objects* |
+| [Time Clock](https://github.com/AdamZieman/time-clock) | Java | - | *Object-Oriented Programming (OOP)* |
+| [Numbers in 2D](https://github.com/AdamZieman/numbers-in-2d) | Java | - | *Multi-dimensional arrays* |
+| [Array Counts](https://github.com/AdamZieman/array-counts) | Java | - | *Arrays* |
+| [Halloween Game](https://github.com/AdamZieman/halloween-game) | Java | - | *Methods* |
+| [Loop Practice](https://github.com/AdamZieman/java-loop-practice) | Java | - | *Iterative programming* |
+| [Circles GUI](https://github.com/AdamZieman/circles-gui) | Java (AWT) | - | *Java Graphical User Interface (GUI) using AWT*|
+| [Electric Bill](https://github.com/AdamZieman/electric-bill) | Java | - | *Formatting Print* |
+| [Find Average Speed](https://github.com/AdamZieman/find-average-speed) | Java | - | *Input/Output (I/O)* |
+| [Base 10 to 8](https://github.com/AdamZieman/base-10-to-8) | Java | - | *Arithmetic operations* |
+| [Cupcake Shop](https://github.com/AdamZieman/cupcake-shop/blob/main/cupcake_shop.py) | Python | - | *Functional programming* |
+| [Print Gallons Ounces](https://github.com/AdamZieman/print-gallons-ounces) | Python | - | *Conditional statement* |
+| [Practice String List](https://github.com/AdamZieman/practice-string-list) | Python | - | *Strings* <br> *Lists*|
+| [Input Drawing](https://github.com/AdamZieman/input-drawing) | Python | - | *Interactive Graphical User Interface (GUI)* |
+| [Loop Drawing](https://github.com/AdamZieman/loop-drawing) | Python | - | *Iterative programming in Graphical User Interface (GUI)* |
+| [Picture](https://github.com/AdamZieman/picture) | Python | - | *Graphical User Interface (GUI)* |
+| [Loop Practice](https://github.com/AdamZieman/loop-practice) | Python | - | *Iterative programming* |
+| [Area Rug](https://github.com/AdamZieman/area-rug) | Python | - | *Input-Process-Output (IPO) structure* |
+| [Month Day Game](https://github.com/AdamZieman/month-day-game) | Python | - | *Arithmetic operations* |
+| [Butterfly](https://github.com/AdamZieman/butterfly) | Python | - | *Input/Output (I/O)* |
