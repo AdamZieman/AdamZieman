@@ -32,9 +32,9 @@
   <tr>
   <tr>
     <td>Job Application Vault</td>
+    <td>Python, SQL, CSS</td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>PyQt</td>
   </tr>
   <tr>
     <td><a href="https://github.com/AdamZieman/dining_dilemma">Dining Dilemma</a></td>
