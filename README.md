@@ -1,3 +1,19 @@
+# Featured Projects
+
+### [Job Scraper](https://github.com/uwp-se/JobScraper)
+
+This Web application provides users with a streamlined experience, reducing the time and effort required for their job searches.
+
+### [Job Application Vault](https://github.com/AdamZieman/JobApplicationVault)
+
+This desktop application is designed to empower users in efficiently managing their job applications going beyond basic tracking, offering an extensive set of features to enhance the user's job search experience.
+
+### [Synonym Comparison Tool](https://github.com/AdamZieman/synonym-comparison-tool)
+
+This back-end program finds the closest synonym of a given word based on a list of word choices by using text processing and calculating the cosine similarity between frequency vectors for the words.
+
+<br>
+
 # Personal Projects
 
 | Program | Languages | Technologies |
