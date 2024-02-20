@@ -1,4 +1,4 @@
-# Featured Projects
+## Featured Projects
 
 ### [Job Scraper](https://github.com/uwp-se/JobScraper)
 
@@ -14,7 +14,7 @@ This back-end program finds the closest synonym of a given word based on a list 
 
 <br>
 
-# Personal Projects
+## Personal Projects
 
 | Program | Languages | Technologies |
 |:---|:---|:---|
@@ -22,7 +22,7 @@ This back-end program finds the closest synonym of a given word based on a list 
 | [Dining Dilemma](https://github.com/AdamZieman/dining_dilemma) | Python (Tkinter) | - |
 | [CLI To-Do List Manager](https://github.com/AdamZieman/todo-list-manager) | Go | - |
 
-# Academic Projects
+## Academic Projects
 | Program | Languages | Technologies | Concepts |
 |:---|:---|:---|:---|
 | [Job Scraper](https://github.com/uwp-se/JobScraper) | Python (Flask), <br> HTML, CSS, <br> JavaScript | Firebase | *Software Development Life Cycle (SDLC)* <br> *Scrum development* <br> *Web scraping* |
