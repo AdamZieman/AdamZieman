@@ -1,6 +1,6 @@
 ## Featured Projects
 
-### [Job Scraper](https://github.com/uwp-se/JobScraper)
+### [Job Scraper (Team of 5)](https://github.com/uwp-se/JobScraper)
 
 This Web application provides users with a streamlined experience, reducing the time and effort required for their job searches.
 
