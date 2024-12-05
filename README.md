@@ -21,7 +21,6 @@ This back-end program finds the closest synonym of a given word based on a list 
 ## Academic Projects
 | Program | Languages | Technologies | Concepts |
 |:---|:---|:---|:---|
-| [Job Scraper](https://github.com/uwp-se/JobScraper) | Python (Flask), <br> HTML, CSS, <br> JavaScript | Firebase | *Software Development Life Cycle (SDLC)* <br> *Scrum development* <br> *Web scraping* |
 | [Basic Web Server](https://github.com/AdamZieman/basic-web-server) | Python | - | *Socket programming for TCP connections* |
 | [Graph-Based Word Ladder](https://github.com/AdamZieman/word-ladder) | Java | - | *Graph data structure* <br> *Breadth First Search (BFS) algorithm* |
 | [2D-Coordinate BST](https://github.com/AdamZieman/2d-coordinate-bst) | Java | - | *Binary Search Tree (BST) data structure* |
