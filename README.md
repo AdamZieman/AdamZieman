@@ -1,9 +1,5 @@
 ## Featured Projects
 
-### [Job Scraper (Team of 5)](https://github.com/uwp-se/JobScraper)
-
-This Web application provides users with a streamlined experience, reducing the time and effort required for their job searches.
-
 ### [Job Application Vault](https://github.com/AdamZieman/JobApplicationVault)
 
 This desktop application is designed to empower users in efficiently managing their job applications going beyond basic tracking, offering an extensive set of features to enhance the user's job search experience.
