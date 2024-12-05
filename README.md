@@ -10,6 +10,13 @@ This back-end program finds the closest synonym of a given word based on a list 
 
 <br>
 
+## Tech Support Scripts
+
+| Program | Languages |
+|:---|:---|:---|
+| [WIN11 Axonius Report Analyzer](https://github.com/AdamZieman/WIN11-AxoniusReportAnalyzer) | Batch |
+| [Remote Copy](https://github.com/AdamZieman/RemoteCopy) | Batch |
+
 ## Personal Projects
 
 | Program | Languages | Technologies |
