@@ -14,7 +14,7 @@ This back-end program finds the closest synonym of a given word based on a list 
 
 | Program | Languages |
 |:---|:---|
-| [WIN11 Axonius Report Analyzer](https://github.com/AdamZieman/WIN11-AxoniusReportAnalyzer) | Batch |
+| [WIN11 Axonius Report Processor](https://github.com/AdamZieman/WIN11-AxoniusReportProcessor) | Batch |
 | [Remote Copy](https://github.com/AdamZieman/RemoteCopy) | Batch |
 
 ## Personal Projects
