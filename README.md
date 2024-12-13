@@ -1,12 +1,12 @@
 ## Featured Projects
 
-### [Job Application Vault](https://github.com/AdamZieman/JobApplicationVault)
+### [WIN11 Axonius Report Processor](https://github.com/AdamZieman/WIN11-AxoniusReportProcessor)
 
-This desktop application is designed to empower users in efficiently managing their job applications going beyond basic tracking, offering an extensive set of features to enhance the user's job search experience.
+This batch script processes Axonius reports for Windows 11 compatibility, extracting and organizing information on incompatible hardware and software. It also facilitates comparison between current and previous reports to identify changes over time.
 
-### [Synonym Comparison Tool](https://github.com/AdamZieman/synonym-comparison-tool)
+### [Remote File Copy](https://github.com/AdamZieman/RemoteFileCopy)
 
-This back-end program finds the closest synonym of a given word based on a list of word choices by using text processing and calculating the cosine similarity between frequency vectors for the words.
+This batch script facilitates copying user profile files and directories between two devices within an enterprise network. It includes validation for device names and employee IDs, ensures the user profiles exist on both devices, and transfers files while excluding those specified in a configuration file.
 
 <br>
 
@@ -15,7 +15,7 @@ This back-end program finds the closest synonym of a given word based on a list 
 | Program | Languages |
 |:---|:---|
 | [WIN11 Axonius Report Processor](https://github.com/AdamZieman/WIN11-AxoniusReportProcessor) | Batch |
-| [Remote Copy](https://github.com/AdamZieman/RemoteCopy) | Batch |
+| [Remote File Copy](https://github.com/AdamZieman/RemoteFileCopy) | Batch |
 
 ## Personal Projects
 
