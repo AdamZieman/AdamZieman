@@ -1,5 +1,7 @@
 ## Featured Projects
 
+## Professional Projects
+
 ### [WIN11 Axonius Report Processor](https://github.com/AdamZieman/WIN11-AxoniusReportProcessor)
 
 This batch script processes Axonius reports for Windows 11 compatibility, extracting and organizing information on incompatible hardware and software. It also facilitates comparison between current and previous reports to identify changes over time.
@@ -9,13 +11,6 @@ This batch script processes Axonius reports for Windows 11 compatibility, extrac
 This batch script facilitates copying user profile files and directories between two devices within an enterprise network. It includes validation for device names and employee IDs, ensures the user profiles exist on both devices, and transfers files while excluding certain files and directories on predefined logic.
 
 <br>
-
-## Tech Support Scripts
-
-| Program | Languages |
-|:---|:---|
-| [WIN11 Axonius Report Processor](https://github.com/AdamZieman/WIN11-AxoniusReportProcessor) | Batch |
-| [Remote File Copy](https://github.com/AdamZieman/RemoteFileCopy) | Batch |
 
 ## Personal Projects
 
