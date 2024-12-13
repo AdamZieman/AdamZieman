@@ -1,5 +1,3 @@
-## Featured Projects
-
 ## Professional Projects
 
 ### [WIN11 Axonius Report Processor](https://github.com/AdamZieman/WIN11-AxoniusReportProcessor)
