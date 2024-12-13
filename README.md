@@ -6,7 +6,7 @@ This batch script processes Axonius reports for Windows 11 compatibility, extrac
 
 ### [Remote File Copy](https://github.com/AdamZieman/RemoteFileCopy)
 
-This batch script facilitates copying user profile files and directories between two devices within an enterprise network. It includes validation for device names and employee IDs, ensures the user profiles exist on both devices, and transfers files while excluding those specified in a configuration file.
+This script script facilitates copying user profile files and directories between two devices within an enterprise network. It includes validation for device names and employee IDs, ensures the user profiles exist on both devices, and transfers files while excluding certain files and directories on predefined logic.
 
 <br>
 
